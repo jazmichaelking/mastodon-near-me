@@ -73,6 +73,7 @@ Server URL, geo-centred OSM target
  - https://mastodontti.fi (Finland)
  - https://mastodos.com/ - Kyoto, Japan
  - https://metu.life/ - Middle East Technical University, Ankara, Turkey
+ - https://mspsocial.net/ - Twin Cities, Minnesota, USA
  - https://mstdn.jp/ - Japan
  - https://muenchen.social -Muenchen, Germany
  - https://norden.social - Northern Germany
