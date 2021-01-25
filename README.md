@@ -83,6 +83,7 @@ Server URL, geo-centred OSM target
  - https://osna.social/ -Osnabruck, Germany
  - https://pdx.social/ - Portland, Oregon, USA
  - https://pleroma.pt/ - Portugal
+ - https://ps.s10y.eu/ - Brussels
  - https://ruhr.social - The Ruhr, Germany
  - https://rva.party/ - Richmond, Virginia, USA
  - https://sfba.social - San Francisco, California, USA
