@@ -103,3 +103,49 @@ Server URL, geo-centred OSM target
  - https://wroc.xyz/ - Wrocław, Poland
  - https://Xarxa.cloud - Catalonia (Catalan)
  - https://թութ.հայ/ - Armenia
+
+## Thanks
+The following people contributed feedback and links for this directory and the associated map:
+ - https://the.vermonters.club/@scully
+ - https://austin.community/@shane
+ - https://mastodon.scot/@Jkp
+ - https://qoto.org/@zleap
+ - https://mastodon.xyz/@lightone
+ - https://mastodon.org.uk/@xvilo
+ - https://nrw.social/@dbeaver
+ - https://tooting.ch/@tursiops
+ - https://mas.to/@rodti
+ - https://mastodon.uno/@filippodb
+ - https://xarxa.cloud/@t3rr0rz0n3
+ - https://mastodon.lazysquirrel.co.uk/@bumblebee
+ - https://darmstadt.social/@w4tsn
+ - https://nerdica.net/profile/ij
+ - https://pleroma.pt/@lisbonjoker
+ - https://mastodon.fedi.bzh/@ewen
+ - https://mastodon.gougere.fr/@papaeng89
+ - https://immermusik.de/@thomas
+ - https://indieweb.social/@tchambers
+ - https://en.osm.town/@karlos
+ - https://gnubox.org/users/stereo
+ - https://expired.mentality.rip/users/zudlig
+ - https://social.aiqwest.com/@alexevon
+ - https://todon.nl/@imke
+ - https://social.tchncs.de/@phr
+ - https://mastodon.social/@danie10
+ - https://barcelona.social/users/titi
+ - https://mastodon.technology/@dusansimic
+ - https://bonn.social/@vilbi
+ - https://mastodon.utwente.nl/@Erik
+ - https://mstdn.social/@Mara
+ - https://mastodon.lol/@piaplzn
+ - https://oberpfalz.social/@sebastian
+ - https://social.tchncs.de/@lauteshirn
+ - https://md.social/@zaHunter
+ - https://floss.social/@silmathoron
+ - https://mastodon.nzoss.nz/@rune
+ - https://metu.life/@Tuan
+ 
+ ## Other Directories
+ Many servers are based on a particular topic, language or area, and some are more general. Here are some other great lists of Mastodon servers you can join:
+ - https://joinmastodon.org/communities
+ - https://fediverse.party/en/portal/servers
