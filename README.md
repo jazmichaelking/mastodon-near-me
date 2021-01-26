@@ -22,7 +22,7 @@ A map of the available servers is maintained at https://umap.openstreetmap.fr/en
 Start an issue, a pull request, or message me @jaz@toot.wales
 
 ## Data 
-Server URL, geo-centred OSM target
+Server URL, geo-centred OSM target (notable language support)
  - https://0x3c.pl/ Tricity, Poland
  - https://101010.pl/ - Poland
  - https://augsburg.social/ Augsburg, Germany
@@ -42,13 +42,14 @@ Server URL, geo-centred OSM target
  - https://gomastodon.cz/ - Czechia
  - https://graz.social - Graz, Austria
  - https://kcmo.social - Kansas City, Missouri, USA
- - https://kopiti.am/ - SIngapore
+ - https://kopiti.am/ - Singapore
  - https://lancasterpa.social/ -Lancaster County, Pennsylvania, USA
  - https://machteburch.social - Magdeburg, Germany
  - https://mamot.fr/ - France
  - https://mao.mastodonhub.com/ - Hong Kong
  - https://masto.donte.com.br/ - Brazil
  - https://mastodon.acc.sunet.se/ - Umeå University, Sweden
+ - https://mastodon.bayern/ - BAvaria, germany
  - https://mastodon.bida.im/ - Bologna, Italy
  - https://mastodon.eus - Basque Country (Euskara/Basque)
  - https://mastodon.fedi.bzh/ - Rennes, France (Brezhoneg/Breton)
@@ -73,7 +74,7 @@ Server URL, geo-centred OSM target
  - https://mastodon.utwente.nl/ - University of Twente, Enschede, The Netherlands
  - https://mastodon.uy/ - Uruguay
  - https://mastodont.cat - Catalonia (Catalan)
- - https://mastodontti.fi (Finland)
+ - https://mastodontti.fi - Finland
  - https://mastodos.com/ - Kyoto, Japan
  - https://metu.life/ - Middle East Technical University, Ankara, Turkey
  - https://mspsocial.net/ - Twin Cities, Minnesota, USA
@@ -93,16 +94,20 @@ Server URL, geo-centred OSM target
  - https://sfba.social - San Francisco, California, USA
  - https://snabelen.no/ - Norway
  - https://social.net.ua/ - Ukraine
+ - https://social.saarland/ - Saarland, Germany
  - https://social.seattle.wa.us/ -Seattle, Washington, USA
  - https://social.tulsa.ok.us/ - Tulsa, Oklahoma, USA
  - https://socialclub.nyc/ - New York City, New York, USA
- - https://the.vermonters.club/ -Vermont, USA
- - https://tooot.im/ - Israel
+ - https://the.vermonters.club/ - Vermont, USA
+ - https://tooot.im/ - Israel (עִבְרִית/Hebrew)
+ - https://toot.koeln/ - Cologne, Germany
  - https://toot.si - Slovenia
- - https://toot.wales - Wales, UK
+ - https://toot.wales - Wales, UK (Cymraeg/Welsh)
  - https://tooting.ch - Switzerland
  - https://triangletoot.party/ - Research Triangle, North Carolina, USA
- - https://tukkers.online/ - North Germany
+ - https://tukkers.online/ - Twente, Germany
+ - https://voi.social/ - Austria
+ - https://wue.social/ - Würzburg, Germany
  - https://wroc.xyz/ - Wrocław, Poland
  - https://Xarxa.cloud - Catalonia (Catalan)
  - https://թութ.հայ/ - Armenia
