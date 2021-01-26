@@ -18,6 +18,9 @@ Server must be:
  ## Map 
 A map of the available servers is maintained at https://umap.openstreetmap.fr/en/map/mastodon-near-me_550053 
 
+## Contributing
+Start an issue, a pull request, or message me @jaz@toot.wales
+
 ## Data 
 Server URL, geo-centred OSM target
  - https://0x3c.pl/ Tricity, Poland
