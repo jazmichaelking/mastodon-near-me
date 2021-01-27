@@ -61,6 +61,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://mastodon.london/ - London, England, UK
  - https://mastodon.lu - Luxembourg
  - https://mastodon.madrid/ - Madrid, Spain
+ - https://mastodon.me.uk/ - United Kingdom
  - https://mastodon.mg/ - Madagascar
  - https://mastodon.mit.edu/ - Massachusetts Institute of Technology, Massachusetts, USA
  - https://mastodon.ml/ - Russia
