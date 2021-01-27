@@ -81,6 +81,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://mastodos.com/ - Kyoto, Japan
  - https://metu.life/ - Middle East Technical University, Ankara, Turkey
  - https://mspsocial.net/ - Twin Cities, Minnesota, USA
+ - https://mstdn.es/ - Spain
  - https://mstdn.jp/ - Japan
  - https://muenchen.social -Muenchen, Germany
  - https://norden.social - Northern Germany
