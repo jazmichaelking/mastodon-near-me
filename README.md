@@ -115,6 +115,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://wue.social/ - Würzburg, Germany
  - https://wroc.xyz/ - Wrocław, Poland
  - https://Xarxa.cloud - Catalonia (Catalan)
+ - https://zoltasila.pl/ - Poland
  - https://թութ.հայ/ - Armenia
 
 ## Thanks
