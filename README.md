@@ -23,26 +23,26 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 
 ## Data 
 Server URL, geo-centred OSM target (notable language support)
- - https://0x3c.pl/ Tricity, Poland
+ - https://0x3c.pl/ - Trójmiasto, Poland
  - https://101010.pl/ - Poland
  - https://augsburg.social/ Augsburg, Germany
- - https://aus.social - Australia
+ - https://aus.social/ - Australia
  - https://austin.community/ - Austin, Texas, USA
  - https://balkan.fedive.rs/ - Western Balkans
  - https://barcelona.social/ - Barcelona, Spain
  - https://berlin.social/ - Berlin, Germany
- - https://bong.social - Bangladesh
+ - https://bong.social/ - Bangladesh
  - https://bonn.social/ - Bonn, Germany
- - https://brandenburg.social - Brandenburg, Germany
- - https://chilemasto.casa/ - Chile
+ - https://brandenburg.social/ - Brandenburg, Germany
+ - https://chilemasto.casa// - Chile
  - https://darmstadt.social/ - Darmstadt, Germany
- - https://dresden.network - Dresden, Germany
+ - https://dresden.network/ - Dresden, Germany
  - https://fikaverse.club/ - Scandinavia
  - https://fsmi.social/ - India
  - https://glasgow.social - Glasgow, Scotland, UK
  - https://gomastodon.cz/ - Czechia
- - https://graz.social - Graz, Austria
- - https://kcmo.social - Kansas City, Missouri, USA
+ - https://graz.social/ - Graz, Austria
+ - https://kcmo.social/ - Kansas City, Missouri, USA
  - https://kopiti.am/ - Singapore
  - https://lancasterpa.social/ -Lancaster County, Pennsylvania, USA
  - https://machteburch.social - Magdeburg, Germany
@@ -71,8 +71,8 @@ Server URL, geo-centred OSM target (notable language support)
  - https://mastodon.ocf.berkeley.edu/ - University of California, Berkeley, California, USA
  - https://mastodon.opencloud.lu/ - Luxembourg
  - https://mastodon.org.uk/ - United Kingdom
- - https://mastodon.scot - Scotland, UK
- - https://mastodon.se - Sweden
+ - https://mastodon.scot/ - Scotland, UK
+ - https://mastodon.se/ - Sweden
  - https://mastodon.sk/ - Slovakia
  - https://mastodon.uno - France
  - https://mastodon.utwente.nl/ - University of Twente, Enschede, The Netherlands
