@@ -57,6 +57,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://mastodon.fedi.bzh/ - Rennes, France (Brezhoneg/Breton)
  - https://mastodon.fedi.quebec - Quebec, Candada
  - https://mastodon.gougere.fr/ - Auxerre, France
+ - https://mastodon.green/ - European Union
  - https://mastodon.ie/ - Ireland
  - https://mastodon.in.th/ - Thailand
  - https://mastodon.london/ - London, England, UK
@@ -77,7 +78,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://mastodon.uno - France
  - https://mastodon.utwente.nl/ - University of Twente, Enschede, The Netherlands
  - https://mastodon.uy/ - Uruguay
- - https://mastodont.cat - Catalonia (Catalan)
+ - https://mastodont.cat - Catalonia (Català/Catalan)
  - https://mastodontti.fi - Finland
  - https://mastodos.com/ - Kyoto, Japan
  - https://metu.life/ - Middle East Technical University, Ankara, Turkey
@@ -114,7 +115,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://voi.social/ - Austria
  - https://wue.social/ - Würzburg, Germany
  - https://wroc.xyz/ - Wrocław, Poland
- - https://Xarxa.cloud - Catalonia (Catalan)
+ - https://Xarxa.cloud - Catalonia (Català/Catalan)
  - https://zoltasila.pl/ - Poland
  - https://թութ.հայ/ - Armenia
 
