@@ -33,6 +33,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://berlin.social/ - Berlin, Germany
  - https://bong.social - Bangladesh
  - https://bonn.social/ - Bonn, Germany
+ - https://brandenburg.social - Brandenburg, Germany
  - https://chilemasto.casa/ - Chile
  - https://darmstadt.social/ - Darmstadt, Germany
  - https://dresden.network - Dresden, Germany
