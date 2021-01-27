@@ -67,6 +67,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://mastodon.nl - The Netherlands
  - https://mastodon.nzoss.nz/ - New Zealand
  - https://mastodon.ocf.berkeley.edu/ - University of California, Berkeley, California, USA
+ - https://mastodon.opencloud.lu/ - Luxembourg
  - https://mastodon.org.uk/ - United Kingdom
  - https://mastodon.scot - Scotland, UK
  - https://mastodon.se - Sweden
