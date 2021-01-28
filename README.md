@@ -53,6 +53,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://mastodon.acc.sunet.se/ - Umeå University, Sweden
  - https://mastodon.bayern/ - BAvaria, germany
  - https://mastodon.bida.im/ - Bologna, Italy
+ - https://mastodon.com.br/ - Brazil
  - https://mastodon.eus - Basque Country (Euskara/Basque)
  - https://mastodon.fedi.bzh/ - Rennes, France (Brezhoneg/Breton)
  - https://mastodon.fedi.quebec - Quebec, Candada
