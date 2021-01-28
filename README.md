@@ -39,6 +39,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://dresden.network/ - Dresden, Germany
  - https://fikaverse.club/ - Scandinavia
  - https://fsmi.social/ - India
+ - https://fulda.social/ - Fulda, Germany
  - https://glasgow.social - Glasgow, Scotland, UK
  - https://gomastodon.cz/ - Czechia
  - https://graz.social/ - Graz, Austria
