@@ -28,7 +28,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://augsburg.social/ Augsburg, Germany
  - https://aus.social/ - Australia
  - https://austin.community/ - Austin, Texas, USA
- - https://balkan.fedive.rs/ - Western Balkans
+ - https://balkan.fedive.rs/ - Western Balkans (map location per https://toot.wales/web/statuses/105599802707065631)
  - https://barcelona.social/ - Barcelona, Spain
  - https://berlin.social/ - Berlin, Germany
  - https://bong.social/ - Bangladesh
