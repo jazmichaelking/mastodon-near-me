@@ -34,7 +34,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://bong.social/ - Bangladesh
  - https://bonn.social/ - Bonn, Germany
  - https://brandenburg.social/ - Brandenburg, Germany
- - https://chilemasto.casa// - Chile
+ - https://chilemasto.casa/ - Chile
  - https://darmstadt.social/ - Darmstadt, Germany
  - https://dresden.network/ - Dresden, Germany
  - https://fikaverse.club/ - Scandinavia
@@ -46,7 +46,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://kcmo.social/ - Kansas City, Missouri, USA
  - https://kopiti.am/ - Singapore
  - https://lancasterpa.social/ -Lancaster County, Pennsylvania, USA
- - https://machteburch.social - Magdeburg, Germany
+ - https://machteburch.social/ - Magdeburg, Germany
  - https://mamot.fr/ - France
  - https://mao.mastodonhub.com/ - Hong Kong
  - https://masto.donte.com.br/ - Brazil
@@ -55,21 +55,21 @@ Server URL, geo-centred OSM target (notable language support)
  - https://mastodon.bayern/ - BAvaria, germany
  - https://mastodon.bida.im/ - Bologna, Italy
  - https://mastodon.com.br/ - Brazil
- - https://mastodon.eus - Basque Country (Euskara/Basque)
+ - https://mastodon.eus/ - Basque Country (Euskara/Basque)
  - https://mastodon.fedi.bzh/ - Rennes, France (Brezhoneg/Breton)
- - https://mastodon.fedi.quebec - Quebec, Candada
+ - https://mastodon.fedi.quebec/ - Quebec, Candada
  - https://mastodon.gougere.fr/ - Auxerre, France
  - https://mastodon.green/ - European Union
  - https://mastodon.ie/ - Ireland
  - https://mastodon.in.th/ - Thailand
  - https://mastodon.london/ - London, England, UK
- - https://mastodon.lu - Luxembourg
+ - https://mastodon.lu/ - Luxembourg
  - https://mastodon.madrid/ - Madrid, Spain
  - https://mastodon.me.uk/ - United Kingdom
  - https://mastodon.mg/ - Madagascar
  - https://mastodon.mit.edu/ - Massachusetts Institute of Technology, Massachusetts, USA
  - https://mastodon.ml/ - Russia
- - https://mastodon.nl - The Netherlands
+ - https://mastodon.nl/ - The Netherlands
  - https://mastodon.nzoss.nz/ - New Zealand
  - https://mastodon.ocf.berkeley.edu/ - University of California, Berkeley, California, USA
  - https://mastodon.opencloud.lu/ - Luxembourg
@@ -77,29 +77,29 @@ Server URL, geo-centred OSM target (notable language support)
  - https://mastodon.scot/ - Scotland, UK
  - https://mastodon.se/ - Sweden
  - https://mastodon.sk/ - Slovakia
- - https://mastodon.uno - France
+ - https://mastodon.uno/ - France
  - https://mastodon.utwente.nl/ - University of Twente, Enschede, The Netherlands
  - https://mastodon.uy/ - Uruguay
- - https://mastodont.cat - Catalonia (Català/Catalan)
- - https://mastodontti.fi - Finland
+ - https://mastodont.cat/ - Catalonia (Català/Catalan)
+ - https://mastodontti.fi/ - Finland
  - https://mastodos.com/ - Kyoto, Japan
  - https://metu.life/ - Middle East Technical University, Ankara, Turkey
  - https://mspsocial.net/ - Twin Cities, Minnesota, USA
  - https://mstdn.es/ - Spain
  - https://mstdn.jp/ - Japan
- - https://muenchen.social -Muenchen, Germany
- - https://norden.social - Northern Germany
+ - https://muenchen.social/ -Muenchen, Germany
+ - https://norden.social/ - Northern Germany
  - https://norrebro.space/ - Denmark
  - https://nrw.social/ - North Rhine-Westphalia, Germany
  - https://oberpfalz.social/ - Oberpfalz, Germany
- - https://oslo.town - Oslo, Norway
+ - https://oslo.town/ - Oslo, Norway
  - https://osna.social/ -Osnabruck, Germany
  - https://pdx.social/ - Portland, Oregon, USA
  - https://pleroma.pt/ - Portugal
  - https://ps.s10y.eu/ - Brussels
  - https://ruhr.social - The Ruhr, Germany
  - https://rva.party/ - Richmond, Virginia, USA
- - https://sfba.social - San Francisco, California, USA
+ - https://sfba.social/ - San Francisco, California, USA
  - https://snabelen.no/ - Norway
  - https://social.net.ua/ - Ukraine
  - https://social.saarland/ - Saarland, Germany
@@ -109,15 +109,15 @@ Server URL, geo-centred OSM target (notable language support)
  - https://the.vermonters.club/ - Vermont, USA
  - https://tooot.im/ - Israel (עִבְרִית/Hebrew)
  - https://toot.koeln/ - Cologne, Germany
- - https://toot.si - Slovenia
- - https://toot.wales - Wales, UK (Cymraeg/Welsh)
- - https://tooting.ch - Switzerland
+ - https://toot.si/ - Slovenia
+ - https://toot.wales/ - Wales, UK (Cymraeg/Welsh)
+ - https://tooting.ch/ - Switzerland
  - https://triangletoot.party/ - Research Triangle, North Carolina, USA
  - https://tukkers.online/ - Twente, Germany
  - https://voi.social/ - Austria
  - https://wue.social/ - Würzburg, Germany
  - https://wroc.xyz/ - Wrocław, Poland
- - https://Xarxa.cloud - Catalonia (Català/Catalan)
+ - https://Xarxa.cloud/ - Catalonia (Català/Catalan)
  - https://zoltasila.pl/ - Poland
  - https://թութ.հայ/ - Armenia
 
