@@ -52,7 +52,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://masto.donte.com.br/ - Brazil
  - https://masto.pt/ - Portugal
  - https://mastodon.acc.sunet.se/ - Umeå University, Sweden
- - https://mastodon.bayern/ - BAvaria, germany
+ - https://mastodon.bayern/ - Bavaria, germany
  - https://mastodon.bida.im/ - Bologna, Italy
  - https://mastodon.com.br/ - Brazil
  - https://mastodon.eus/ - Basque Country (Euskara/Basque)
@@ -60,6 +60,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://mastodon.fedi.quebec/ - Quebec, Candada
  - https://mastodon.gougere.fr/ - Auxerre, France
  - https://mastodon.green/ - European Union
+ - https://mastodon.hovkluster.se/ - Sweden (Svenska/Swedish)
  - https://mastodon.ie/ - Ireland
  - https://mastodon.in.th/ - Thailand
  - https://mastodon.london/ - London, England, UK
