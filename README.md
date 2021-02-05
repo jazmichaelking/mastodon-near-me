@@ -113,6 +113,7 @@ Server URL, geo-centred OSM target (notable language support)
  - https://toot.si/ - Slovenia
  - https://toot.wales/ - Wales, UK (Cymraeg/Welsh)
  - https://tooting.ch/ - Switzerland
+ - https://troet.cafe/ - Germany
  - https://triangletoot.party/ - Research Triangle, North Carolina, USA
  - https://tukkers.online/ - Twente, Germany
  - https://voi.social/ - Austria
