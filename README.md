@@ -41,6 +41,7 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://darmstadt.social/ | Darmstadt, Germany |
 | https://dresden.network/ | Dresden, Germany |
 | https://fikaverse.club/ | Scandinavia |
+| https://freiburg.social/ | Freiburg im Breisgau, Germany |
 | https://fsmi.social/ | India |
 | https://fulda.social/ | Fulda, Germany |
 | https://glasgow.social | Glasgow, Scotland, UK |
@@ -170,6 +171,7 @@ The following people contributed feedback and links for this directory and the a
  - https://floss.social/@silmathoron
  - https://mastodon.nzoss.nz/@rune
  - https://metu.life/@Tuan
+ - https://freiburg.social/@fundevogel
  
  ## Other Directories
  Many servers are based on a particular topic, language or area, and some are more general. Here are some other great lists of Mastodon servers you can join:
