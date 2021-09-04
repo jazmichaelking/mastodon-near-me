@@ -48,6 +48,7 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://graz.social/ | Graz, Austria |
 | https://kcmo.social/ | Kansas City, Missouri, USA |
 | https://kopiti.am/ | Singapore |
+| https://koyu.space/ | Kiel, Germany |
 | https://lancasterpa.social/ | Lancaster County, Pennsylvania, USA |
 | https://machteburch.social/ | Magdeburg, Germany |
 | https://mamot.fr/ | France |
@@ -170,6 +171,7 @@ The following people contributed feedback and links for this directory and the a
  - https://floss.social/@silmathoron
  - https://mastodon.nzoss.nz/@rune
  - https://metu.life/@Tuan
+ - https://koyu.space/@koyuchan
  
  ## Other Directories
  Many servers are based on a particular topic, language or area, and some are more general. Here are some other great lists of Mastodon servers you can join:
