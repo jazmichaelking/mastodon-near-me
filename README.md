@@ -87,6 +87,7 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://mastodont.cat/ | Catalonia (Català/Catalan) |
 | https://mastodontti.fi/ | Finland |
 | https://mastodos.com/ | Kyoto, Japan |
+| https://masto.nogafam.es/ | Bilbao, Spain |
 | https://metu.life/ | Middle East Technical University, Ankara, Turkey |
 | https://mspsocial.net/ | Twin Cities, Minnesota, USA |
 | https://mstdn.es/ | Spain |
@@ -170,6 +171,7 @@ The following people contributed feedback and links for this directory and the a
  - https://floss.social/@silmathoron
  - https://mastodon.nzoss.nz/@rune
  - https://metu.life/@Tuan
+ - https://mastodon.madrid/@bogart
  
  ## Other Directories
  Many servers are based on a particular topic, language or area, and some are more general. Here are some other great lists of Mastodon servers you can join:
