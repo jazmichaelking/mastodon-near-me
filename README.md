@@ -46,6 +46,7 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://glasgow.social | Glasgow, Scotland, UK |
 | https://gomastodon.cz/ | Czechia |
 | https://graz.social/ | Graz, Austria |
+| https://hessen.social/ | Hessen, Germany |
 | https://kcmo.social/ | Kansas City, Missouri, USA |
 | https://kopiti.am/ | Singapore |
 | https://lancasterpa.social/ | Lancaster County, Pennsylvania, USA |
@@ -170,6 +171,7 @@ The following people contributed feedback and links for this directory and the a
  - https://floss.social/@silmathoron
  - https://mastodon.nzoss.nz/@rune
  - https://metu.life/@Tuan
+ - https://darmstadt.social/@stvo/
  
  ## Other Directories
  Many servers are based on a particular topic, language or area, and some are more general. Here are some other great lists of Mastodon servers you can join:
