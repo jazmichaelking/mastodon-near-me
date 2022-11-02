@@ -103,6 +103,7 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://nrw.social/ | North Rhine-Westphalia, Germany |
 | https://nwb.social/ | Nieuw West Brabant, Netherlands |
 | https://oberpfalz.social/ | Oberpfalz, Germany |
+| https://oceanplayground.social/ | Nova Scotia, Canada |
 | https://oslo.town/ | Oslo, Norway |
 | https://osna.social/ | Osnabruck, Germany |
 | https://pdx.social/ | Portland, Oregon, USA |
