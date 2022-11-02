@@ -132,6 +132,7 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://Xarxa.cloud/ | Catalonia (Català/Catalan) |
 | https://zoltasila.pl/ | Poland |
 | https://թութ.հայ/ | Armenia |
+| https://oceanplayground.social/ | College Lake, Nova Scotia, Canada |
 
 ## Notes
 Balkans geo-centre per https://toot.wales/web/statuses/105599802707065631
