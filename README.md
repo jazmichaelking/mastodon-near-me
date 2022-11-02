@@ -5,8 +5,8 @@ A directory of Mastodon or compatible providers that operate primarily in or are
 Onboarding to Mastodon requires a judgement call about which server to join. To newcomers reading this, the choice is not final and has little consequence. You can always change to a different provider once you're settled in and have a better understanding of the community. One way to get comfortable is to join a provider near you, this will put you on the same home server as people in your vicinity. You can still find, follow, and talk to everyone on the global network.
 
 ## Inclusion Criteria 
-To be included in this list the service must be:
- - Mastodon or Pleroma (other ActivityPub services may become in-scope at a later date)
+To be included the service must be:
+ - Mastodon or Pleroma (other ActivityPub services may become in scope at a later date)
  - Open for registration - this directory is to help people find a server to join, server must accept new members. Approvalbased service is fine.
  - Clearly intended to serve a particular physical facility (e.g. university), neighbourhood, city, region or country; or a specific language or family of languages that can generally be thought of as being constrained to a particular locale or region.
  
@@ -19,12 +19,13 @@ To be included in this list the service must be:
 An interactive map of the available servers is maintained at https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094
 
 ## Contributing
-TO add, edit or remove a listing, please open an Issue. When requesting an addition, be sure to state what city, region, country, language or facility the service is serving.
+Start an issue, a pull request, or message me @jaz@toot.wales
 
 ## Data 
 (notable language support is shown where relevant)
 
 | Server URL | geo-centred OSM target | 
+| ------------- | ------------- |
 | https://0x3c.pl/ | Trójmiasto, Poland |
 | https://101010.pl/ | Poland |
 | https://augsburg.social/ | Augsburg, Germany |
