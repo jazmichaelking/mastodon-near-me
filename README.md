@@ -1,5 +1,5 @@
 # mastodon-near-me
-Directory of Mastodon or compatible providers that operate primarily in or are targeted to a locality, region, city, or language.
+A directory of Mastodon or compatible providers that operate primarily in or are targeted to a locality, region, city, or language.
 
 ## Purpose 
 Onboarding to Mastodon requires a judgement call about which server to join. To newcomers reading this, the choice is not final and has little consequence. You can always change to a different provider once you're settled in and have a better understanding of the community. One way to get comfortable is to join a provider near you, this will put you on the same home server as people in your vicinity. You can still find, follow, and talk to everyone on the global network.
@@ -119,7 +119,7 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://tooot.im/| Israel (עִבְרִית/Hebrew) |
 | https://toot.koeln/ | Cologne, Germany |
 | https://toot.si/ | Slovenia |
-| https://toot.wales/ | Wales, UK (Cymraeg/Welsh) |
+| https://toot.wales/ | Cymru (Wales), UK (Cymraeg/Welsh) |
 | https://tooting.ch/ | Switzerland |
 | https://troet.cafe/ | Germany |
 | https://triangletoot.party/ | Research Triangle, North Carolina, USA |
