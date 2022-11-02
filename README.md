@@ -39,6 +39,7 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://brandenburg.social/ | Brandenburg, Germany |
 | https://chilemasto.casa/ | Chile |
 | https://darmstadt.social/ | Darmstadt, Germany |
+| https://dizl.de/ | Germany
 | https://dresden.network/ | Dresden, Germany |
 | https://fikaverse.club/ | Scandinavia |
 | https://freiburg.social/ | Freiburg im Breisgau, Germany |
@@ -58,7 +59,8 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://masto.donte.com.br/ | Brazil |
 | https://masto.pt/ | Portugal |
 | https://mastodon.acc.sunet.se/ | Umeå University, Sweden |
-| https://mastodon.bayern/ | Bavaria, germany |
+| https://mastodon.bachgau.social/ | Bachgau R egion, Germany |
+| https://mastodon.bayern/ | Bavaria, Germany |
 | https://mastodon.bida.im/ | Bologna, Italy |
 | https://mastodon.com.br/ | Brazil |
 | https://mastodon.eus/ | Basque Country (Euskara/Basque) |
