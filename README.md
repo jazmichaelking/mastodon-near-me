@@ -1,22 +1,22 @@
 # mastodon-near-me
-Directory of Mastodon and related servers that operate primarily in or are targeted to a locality or region
+Directory of Mastodon or compatible providers that operate primarily in or are targeted to a locality, region, city, or language.
 
 ## Purpose 
-Onboarding to Mastodon requires a judgement call about which server to join. To help this proposition, this project reviews servers that are intended to serve as geographical hubs, servers that focus on a particular city, region or country for example. This project does not track topical servers.
+Onboarding to Mastodon requires a judgement call about which server to join. To newcomers reading this, the choice is not final and has little consequence. You can always change to a different provider once you're settled in and have a better understanding of the community. One way to get comfortable is to join a provider near you, this will put you on the same home server as people in your vicinity. You can still find, follow, and talk to everyone on the global network.
 
 ## Inclusion Criteria 
-Server must be:
+Service must be:
  - Mastodon or Pleroma (other ActivityPub services may become in scope at a later date)
- - Open for registration - this directory is to help people find a server to join, server must accept new members in some fashion
- - Clearly intended to serve a particular facility, neighbourhood, city, region or country; or a specific language or family of languages that can generally be thought of as being constrained to a particular locale or region.
+ - Open for registration - this directory is to help people find a server to join, server must accept new members. Approvalbased service is fine.
+ - Clearly intended to serve a particular physical facility (e.g. university), neighbourhood, city, region or country; or a specific language or family of languages that can generally be thought of as being constrained to a particular locale or region.
  
  ## Exclusion Criteria
   - any server that clearly and overtly contravenes the Mastodon Server Covenant (https://joinmastodon.org/covenant) 
   -- Please note, public signing of the Mastodon Server Convenant is not required for inclusion
-  - any server that clearly and consistently is unreachable
+  - any server that is consistently unreachable
  
  ## Map 
-A map of the available servers is maintained at https://umap.openstreetmap.fr/en/map/mastodon-near-me_550053 
+A map of the available servers is maintained at https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094
 
 ## Contributing
 Start an issue, a pull request, or message me @jaz@toot.wales
@@ -41,11 +41,14 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://darmstadt.social/ | Darmstadt, Germany |
 | https://dresden.network/ | Dresden, Germany |
 | https://fikaverse.club/ | Scandinavia |
+| https://freiburg.social/ | Freiburg im Breisgau, Germany |
 | https://fsmi.social/ | India |
 | https://fulda.social/ | Fulda, Germany |
 | https://glasgow.social | Glasgow, Scotland, UK |
 | https://gomastodon.cz/ | Czechia |
 | https://graz.social/ | Graz, Austria |
+| https://hessen.social/ | Hessen, Germany |
+| https://koyu.space/ | Kiel, Germany |
 | https://kcmo.social/ | Kansas City, Missouri, USA |
 | https://kopiti.am/ | Singapore |
 | https://lancasterpa.social/ | Lancaster County, Pennsylvania, USA |
