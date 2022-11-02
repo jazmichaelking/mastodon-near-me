@@ -97,9 +97,11 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://mstdn.es/ | Spain |
 | https://mstdn.jp/ | Japan |
 | https://muenchen.social/ | Muenchen, Germany |
+| https://muenster.im/ | Münster, Germany |
 | https://norden.social/ | Northern Germany |
 | https://norrebro.space/ | Denmark |
 | https://nrw.social/ | North Rhine-Westphalia, Germany |
+| https://nwb.social/ | Nieuw West Brabant, Netherlands |
 | https://oberpfalz.social/ | Oberpfalz, Germany |
 | https://oslo.town/ | Oslo, Norway |
 | https://osna.social/ | Osnabruck, Germany |
