@@ -97,7 +97,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mstdn.es/ | Spain | ------------- |
 | https://mstdn.jp/ | Japan | ------------- |
 | https://muenchen.social/ | Muenchen, Germany | ------------- |
-| https://muenster.im/ | Münster, Germany | (removed/dead?) |
+| https://muenster.im/ | Münster, Germany | ------------- |
 | https://nahe.social/ | Bad Kreuznach, Germany | ------------- |
 | https://norden.social/ | Northern Germany | ------------- |
 | https://norrebro.space/ | Denmark | ------------- |
