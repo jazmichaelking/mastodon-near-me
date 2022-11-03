@@ -119,7 +119,7 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://social.tulsa.ok.us/ | Tulsa, Oklahoma, USA |
 | https://socialclub.nyc/ | New York City, New York, USA |
 | https://the.vermonters.club/ | Vermont, USA |
-| https://tooot.im/| Israel (עִבְרִית/Hebrew) |
+| https://tooot.im/| Hebrew speakers and Israel+Palestine &#xd; (עִבְרִית/Hebrew main, welcomes all languages) |
 | https://toot.koeln/ | Cologne, Germany |
 | https://toot.si/ | Slovenia |
 | https://toot.wales/ | Cymru (Wales), UK (Cymraeg/Welsh) |
@@ -133,6 +133,7 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://Xarxa.cloud/ | Catalonia (Català/Catalan) |
 | https://zoltasila.pl/ | Poland |
 | https://թութ.հայ/ | Armenia |
+
 
 ## Notes
 Balkans geo-centre per https://toot.wales/web/statuses/105599802707065631
@@ -178,8 +179,22 @@ The following people contributed feedback and links for this directory and the a
  - https://floss.social/@silmathoron
  - https://mastodon.nzoss.nz/@rune
  - https://metu.life/@Tuan
+ - https://tooot.im/@aRubes
  
  ## Other Directories
  Many servers are based on a particular topic, language or area, and some are more general. Here are some other great lists of Mastodon servers you can join:
- - https://joinmastodon.org/communities
- - https://fediverse.party/en/portal/servers
+ - https://joinmastodon.org/communities [^Mastodon]
+ - https://fediverse.party/en/portal/servers [^Fediverse_wide]
+ - https://instances.social/ [^Mastodon]
+ - https://fedidb.org/network?s=mastodon [^Mastodon]
+ - https://fedidb.org/network?s=pleroma ^Pleroma]
+ - https://www.fediverse.to/search/?sw=mastodon [^Mastodon]
+ - https://www.fediverse.to/search/?sw=pleroma ^Pleroma]
+ - https://joinfediverse.wiki/Local_instances [^Fediverse_wide]
+ - https://mastodon.fediverse.observer/list [^1]
+ - https://pleroma.fediverse.observer/list [^1]
+ 
+[^1]: Do not trust the location/language there, as it is automatically collected. Location, for example, lists the assumed location of the hosting server, which can be on a different continent
+[^Mastodon]: Mastodon Specific
+[^Pleroma]: Pleroma Specific
+[^Fediverse_wide]: Includes Mastodon and additional federated netwroks
