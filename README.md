@@ -125,7 +125,7 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://tooot.im/| Israel (עִבְרִית/Hebrew) |
 | https://toot.koeln/ | Cologne, Germany |
 | https://toot.si/ | Slovenia |
-| https://toot.wales/ | Cymru (Wales) (Cymraeg/Welsh) |
+| https://toot.wales/ | Wales (Cymraeg/Welsh) |
 | https://tooting.ch/ | Switzerland |
 | https://troet.cafe/ | Germany |
 | https://triangletoot.party/ | Research Triangle, North Carolina, USA |
@@ -181,6 +181,7 @@ The following people contributed feedback and links for this directory and the a
  - https://floss.social/@silmathoron
  - https://mastodon.nzoss.nz/@rune
  - https://metu.life/@Tuan
+ - https://tooot.im/@aRubes
  
  ## Other Directories
  Many servers are based on a particular topic, language or area, and some are more general. Here are some other great lists of Mastodon servers you can join:
