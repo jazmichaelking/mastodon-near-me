@@ -28,6 +28,7 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | ------------- | ------------- |
 | https://0x3c.pl/ | Trójmiasto, Poland |
 | https://101010.pl/ | Poland |
+| https://ailbhean.co-shaoghal.net/ | Scotaland (Gaelic/Gàidhlig)
 | https://augsburg.social/ | Augsburg, Germany |
 | https://aus.social/ | Australia |
 | https://austin.community/ | Austin, Texas, USA |
@@ -45,7 +46,7 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://freiburg.social/ | Freiburg im Breisgau, Germany |
 | https://fsmi.social/ | India |
 | https://fulda.social/ | Fulda, Germany |
-| https://glasgow.social | Glasgow, Scotland, UK |
+| https://glasgow.social | Glasgow, Scotland |
 | https://gomastodon.cz/ | Czechia |
 | https://graz.social/ | Graz, Austria |
 | https://hessen.social/ | Hessen, Germany |
@@ -53,13 +54,14 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://kcmo.social/ | Kansas City, Missouri, USA |
 | https://kopiti.am/ | Singapore |
 | https://lancasterpa.social/ | Lancaster County, Pennsylvania, USA |
+| https://links.potsda.mn/ | Potsdamn, Germany
 | https://machteburch.social/ | Magdeburg, Germany |
 | https://mamot.fr/ | France |
 | https://mao.mastodonhub.com/ | Hong Kong |
 | https://masto.donte.com.br/ | Brazil |
 | https://masto.pt/ | Portugal |
 | https://mastodon.acc.sunet.se/ | Umeå University, Sweden |
-| https://mastodon.bachgau.social/ | Bachgau R egion, Germany |
+| https://mastodon.bachgau.social/ | Bachgau Region, Germany |
 | https://mastodon.bayern/ | Bavaria, Germany |
 | https://mastodon.bida.im/ | Bologna, Italy |
 | https://mastodon.com.br/ | Brazil |
@@ -71,7 +73,6 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://mastodon.hovkluster.se/ | Sweden (Svenska/Swedish) |
 | https://mastodon.ie/ | Ireland |
 | https://mastodon.in.th/ | Thailand |
-| https://mastodon.london/ | London, England, UK |
 | https://mastodon.lu/ | Luxembourg |
 | https://mastodon.madrid/ | Madrid, Spain |
 | https://mastodon.me.uk/ | United Kingdom |
@@ -83,7 +84,7 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://mastodon.ocf.berkeley.edu/ | University of California, Berkeley, California, USA |
 | https://mastodon.opencloud.lu/ | Luxembourg |
 | https://mastodon.org.uk/ | United Kingdom |
-| https://mastodon.scot/ | Scotland, UK |
+| https://mastodon.scot/ | Scotland |
 | https://mastodon.se/ | Sweden |
 | https://mastodon.sk/ | Slovakia |
 | https://mastodon.uno/ | France |
@@ -98,6 +99,7 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://mstdn.jp/ | Japan |
 | https://muenchen.social/ | Muenchen, Germany |
 | https://muenster.im/ | Münster, Germany |
+| https://nahe.social/ | Bad Kreuznach, Germany |
 | https://norden.social/ | Northern Germany |
 | https://norrebro.space/ | Denmark |
 | https://nrw.social/ | North Rhine-Westphalia, Germany |
@@ -119,10 +121,11 @@ Start an issue, a pull request, or message me @jaz@toot.wales
 | https://social.tulsa.ok.us/ | Tulsa, Oklahoma, USA |
 | https://socialclub.nyc/ | New York City, New York, USA |
 | https://the.vermonters.club/ | Vermont, USA |
+| https://toot.aquilenet.fr | Aquitaine, France
 | https://tooot.im/| Israel (עִבְרִית/Hebrew) |
 | https://toot.koeln/ | Cologne, Germany |
 | https://toot.si/ | Slovenia |
-| https://toot.wales/ | Cymru (Wales), UK (Cymraeg/Welsh) |
+| https://toot.wales/ | Cymru (Wales) (Cymraeg/Welsh) |
 | https://tooting.ch/ | Switzerland |
 | https://troet.cafe/ | Germany |
 | https://triangletoot.party/ | Research Triangle, North Carolina, USA |
