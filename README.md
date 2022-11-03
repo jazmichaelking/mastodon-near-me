@@ -1,11 +1,11 @@
 # mastodon-near-me
-A directory of Mastodon or compatible providers that operate primarily in or are targeted to a locality, region, city, or language.
+A visual map of Mastodon or compatible providers that operate primarily in or are targeted to a locality, region, city, or language.
 
 ## Purpose 
-Onboarding to Mastodon requires a judgement call about which server to join. To newcomers reading this, the choice is not final and has little consequence. You can always change to a different provider once you're settled in and have a better understanding of the community. One way to get comfortable is to join a provider near you, this will put you on the same home server as people in your vicinity. You can still find, follow, and talk to everyone on the global network.
+Onboarding to Mastodon requires a judgement call about which server to join and can cause confusion. The map is intended to show local service providers as a way to inspire confidence in the choice of server.
 
 ## Inclusion Criteria 
-To be included the service must be:
+To be included on the map the service must be:
  - Mastodon or Pleroma (other ActivityPub services may become in scope at a later date)
  - Open for registration - this directory is to help people find a server to join, server must accept new members. Approvalbased service is fine.
  - Clearly intended to serve a particular physical facility (e.g. university), neighbourhood, city, region or country; or a specific language or family of languages that can generally be thought of as being constrained to a particular locale or region.
@@ -16,15 +16,15 @@ To be included the service must be:
   - Any server that is consistently unreachable
  
  ## Map 
-An interactive map of the available servers is maintained at https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094
+The interactive map of the available servers is maintained at https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094
 
 ## Contributing
-Start an issue, a pull request, or message me @jaz@toot.wales
+Open an Issue with the add, remove or edit. If adding, please add the relevant geo target and/or language.
 
 ## Data 
 (notable language support is shown where relevant)
 
-| Server URL | geo-centred OSM target | 
+| URL | geo target | 
 | ------------- | ------------- |
 | https://0x3c.pl/ | Trójmiasto, Poland |
 | https://101010.pl/ | Poland |
