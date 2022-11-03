@@ -31,16 +31,16 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://ailbhean.co-shaoghal.net/ | Scotland | Gàidhlig (Gaelic) |
 | https://augsburg.social/ | Augsburg, Germany | ------------- |
 | https://aus.social/ | Australia | ------------- |
-| https://austin.community/ | Austin, Texas, USA | ------------- |
+| https://austin.community/ | Austin, Texas, USA | (removed/dead?) |
 | https://balkan.fedive.rs/ | Western Balkans | ------------- |
 | https://barcelona.social/ | Barcelona, Spain | ------------- |
 | https://berlin.social/ | Berlin, Germany | ------------- |
-| https://bong.social/ | Bangladesh | ------------- |
+| https://bong.social/ | Bangladesh | (removed/dead?) |
 | https://bonn.social/ | Bonn, Germany | ------------- |
 | https://brandenburg.social/ | Brandenburg, Germany | ------------- |
 | https://chilemasto.casa/ | Chile | ------------- |
 | https://darmstadt.social/ | Darmstadt, Germany | ------------- |
-| https://dizl.de/ | Germany ------------- |
+| https://dizl.de/ | Germany | ------------- |
 | https://dresden.network/ | Dresden, Germany | ------------- |
 | https://fikaverse.club/ | Scandinavia | ------------- |
 | https://freiburg.social/ | Freiburg im Breisgau, Germany | ------------- |
@@ -53,27 +53,27 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://koyu.space/ | Kiel, Germany | ------------- |
 | https://kcmo.social/ | Kansas City, Missouri, USA | ------------- |
 | https://kopiti.am/ | Singapore | ------------- |
-| https://lancasterpa.social/ | Lancaster County, Pennsylvania, USA | ------------- |
+| https://lancasterpa.social/ | Lancaster County, Pennsylvania, USA | (removed/dead?) |
 | https://links.potsda.mn/ | Potsdamn, Germany ------------- |
 | https://machteburch.social/ | Magdeburg, Germany | ------------- |
-| https://mamot.fr/ | France | ------------- |
+| https://mamot.fr/ | France | (no new reg) |
 | https://mao.mastodonhub.com/ | Hong Kong | ------------- |
-| https://masto.donte.com.br/ | Brazil | ------------- |
+| https://masto.donte.com.br/ | Brazil | (removed/dead?) |
 | https://masto.pt/ | Portugal | ------------- |
 | https://mastodon.acc.sunet.se/ | Umeå University, Sweden | ------------- |
 | https://mastodon.bachgau.social/ | Bachgau Region, Germany | ------------- |
 | https://mastodon.bayern/ | Bavaria, Germany | ------------- |
 | https://mastodon.bida.im/ | Bologna, Italy | ------------- |
-| https://mastodon.com.br/ | Brazil | ------------- |
+| https://mastodon.com.br/ | Brazil | (removed/dead?) |
 | https://mastodon.eus/ | Basque Country | Euskara (Basque) |
 | https://mastodon.fedi.bzh/ | Rennes, France | Brezhoneg (Breton) |
-| https://mastodon.fedi.quebec/ | Quebec, Candada | ------------- |
+| https://mastodon.fedi.quebec/ | Quebec, Candada | (removed/dead?) |
 | https://mastodon.gougere.fr/ | Auxerre, France | ------------- |
 | https://mastodon.green/ | European Union | ------------- |
-| https://mastodon.hovkluster.se/ | Sweden | Svenska (Swedish) |
+| https://mastodon.hovkluster.se/ | Sweden | (removed/dead?) |
 | https://mastodon.ie/ | Ireland | ------------- |
 | https://mastodon.in.th/ | Thailand | ------------- |
-| https://mastodon.lu/ | Luxembourg | ------------- |
+| https://mastodon.lu/ | Luxembourg | (removed/dead?) |
 | https://mastodon.madrid/ | Madrid, Spain | ------------- |
 | https://mastodon.me.uk/ | United Kingdom | ------------- |
 | https://mastodon.mg/ | Madagascar | ------------- |
@@ -81,35 +81,35 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.ml/ | Russia | ------------- |
 | https://mastodon.nl/ | The Netherlands | ------------- |
 | https://mastodon.nzoss.nz/ | New Zealand | ------------- |
-| https://mastodon.ocf.berkeley.edu/ | University of California, Berkeley, California, USA | ------------- |
+| https://mastodon.ocf.berkeley.edu/ | University of California, Berkeley, California, USA | (removed/dead?) |
 | https://mastodon.opencloud.lu/ | Luxembourg | ------------- |
 | https://mastodon.org.uk/ | United Kingdom | ------------- |
 | https://mastodon.scot/ | Scotland | ------------- |
-| https://mastodon.se/ | Sweden | ------------- |
+| https://mastodon.se/ | Sweden | Svenska (Swedish) |
 | https://mastodon.sk/ | Slovakia | ------------- |
-| https://mastodon.uno/ | France | ------------- |
+| https://mastodon.uno/ | Italy | ------------- |
 | https://mastodon.uy/ | Uruguay | ------------- |
 | https://mastodont.cat/ | Catalonia | Català (Catalan) |
 | https://mastodontti.fi/ | Finland | ------------- |
 | https://mastodos.com/ | Kyoto, Japan | ------------- |
 | https://metu.life/ | Middle East Technical University, Ankara, Turkey | ------------- |
-| https://mspsocial.net/ | Twin Cities, Minnesota, USA | ------------- |
+| https://mspsocial.net/ | Twin Cities, Minnesota, USA | (removed/dead?) |
 | https://mstdn.es/ | Spain | ------------- |
 | https://mstdn.jp/ | Japan | ------------- |
 | https://muenchen.social/ | Muenchen, Germany | ------------- |
-| https://muenster.im/ | Münster, Germany | ------------- |
+| https://muenster.im/ | Münster, Germany | (removed/dead?) |
 | https://nahe.social/ | Bad Kreuznach, Germany | ------------- |
 | https://norden.social/ | Northern Germany | ------------- |
 | https://norrebro.space/ | Denmark | ------------- |
 | https://nrw.social/ | North Rhine-Westphalia, Germany | ------------- |
 | https://nwb.social/ | Nieuw West Brabant, Netherlands | ------------- |
-| https://oberpfalz.social/ | Oberpfalz, Germany | ------------- |
+| https://oberpfalz.social/ | Oberpfalz, Germany | (removed/dead?) |
 | https://oceanplayground.social/ | Nova Scotia, Canada | ------------- |
 | https://oslo.town/ | Oslo, Norway | ------------- |
 | https://osna.social/ | Osnabruck, Germany | ------------- |
-| https://pdx.social/ | Portland, Oregon, USA | ------------- |
+| https://pdx.social/ | Portland, Oregon, USA | no new reg |
 | https://pleroma.pt/ | Portugal | ------------- |
-| https://ps.s10y.eu/ | Brussels | ------------- |
+| https://ps.s10y.eu/ | Brussels | (removed/dead?) |
 | https://ruhr.social| The Ruhr, Germany | ------------- |
 | https://rva.party/ | Richmond, Virginia, USA | ------------- |
 | https://sfba.social/ | San Francisco, California, USA | ------------- |
@@ -122,7 +122,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://the.vermonters.club/ | Vermont, USA | ------------- |
 | https://toot.aquilenet.fr | Aquitaine, France | ------------- |
 | https://tooot.im/ | Israel | עִבְרִית (Hebrew) |
-| https://toot.koeln/ | Cologne, Germany | ------------- |
+| https://toot.koeln/ | Cologne, Germany | (removed/dead?) |
 | https://toot.si/ | Slovenia | ------------- |
 | https://toot.wales/ | Wales | Cymraeg (Welsh) |
 | https://tooting.ch/ | Switzerland | ------------- |
@@ -131,9 +131,9 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://tukkers.online/ | Twente, Germany | ------------- |
 | https://voi.social/ | Austria | ------------- |
 | https://wue.social/ | Würzburg, Germany | ------------- |
-| https://wroc.xyz/ | Wroclaw, Poland | ------------- |
+| https://wroc.xyz/ | Wroclaw, Poland | (removed/dead?) |
 | https://Xarxa.cloud/ | Catalonia | Català (Catalan) |
-| https://zoltasila.pl/ | Poland | ------------- |
+| https://zoltasila.pl/ | Poland | (removed/dead?) |
 | https://թութ.հայ/ | Armenia | ------------- |
 
 ## Notes
