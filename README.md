@@ -27,7 +27,8 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | URL | geo target | language focus |
 | ------------- | ------------- | ------------- |
 | https://0x3c.pl/ | Trójmiasto, Poland | ------------- |
-| https://101010.pl/ | Poland | ------------- |
+| https://101010.pl/ | Poland | ------------- | 
+| https://a2mi.social | Ann Arbor, Michigan, USA |------------- |
 | https://ailbhean.co-shaoghal.net/ | Scotland | Gàidhlig (Gaelic) |
 | https://augsburg.social/ | Augsburg, Germany | ------------- |
 | https://aus.social/ | Australia | ------------- |
