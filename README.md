@@ -6,9 +6,10 @@ Onboarding to Mastodon requires a judgement call about which server to join and 
 
 ## Inclusion Criteria 
 To be included on the map the service must be:
- - Mastodon or Pleroma (other ActivityPub services may become in scope at a later date)
- - Open for registration - this directory is to help people find a server to join, server must accept new members. Approvalbased service is fine.
- - Clearly intended to serve a particular physical facility (e.g. university), neighbourhood, city, region or country; or a specific language or family of languages that can generally be thought of as being constrained to a particular locale or region.
+ - Mastodon or Pleroma (other ActivityPub services may become in scope at a later date),
+ - Open for registration - this directory is to help people find a server to join, server must accept new members. Approval based service is fine,
+ - Clearly intended to serve a particular physical facility (e.g. university), neighbourhood, city, region or country; or a specific language or family of languages that can generally be thought of as being constrained to a particular locale or region,
+ - HTTPS only
  
  ## Exclusion Criteria
   - Any server that clearly and overtly contravenes the Mastodon Server Covenant (https://joinmastodon.org/covenant) 
@@ -131,6 +132,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://triangletoot.party/ | Research Triangle, North Carolina, USA | ------------- |
 | https://tukkers.online/ | Twente, Germany | ------------- |
 | https://voi.social/ | Austria | ------------- |
+| https://wien.rocks | Vienna, Austria | ------------- |
 | https://wue.social/ | Würzburg, Germany | ------------- |
 | https://wroc.xyz/ | Wroclaw, Poland | (removed/dead?) |
 | https://Xarxa.cloud/ | Catalonia | Català (Catalan) |
