@@ -14,6 +14,7 @@ To be included on the map the service must be:
  ## Exclusion Criteria
   - Any server that clearly and overtly contravenes the Mastodon Server Covenant (https://joinmastodon.org/covenant) 
   -- please note, public signing of the Mastodon Server Convenant is not required for inclusion
+  - Any server that has any kind of membership fee or required donation.
   - Any server that is consistently unreachable
  
  ## Map 
