@@ -45,6 +45,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://dizl.de/ | Germany | ------------- |
 | https://dresden.network/ | Dresden, Germany | ------------- |
 | https://fikaverse.club/ | Scandinavia | ------------- |
+| https://frankfurt.social/ | Frankfurt, Germany | ------------- |
 | https://freiburg.social/ | Freiburg im Breisgau, Germany | ------------- |
 | https://fsmi.social/ | India | ------------- |
 | https://fulda.social/ | Fulda, Germany | ------------- |
