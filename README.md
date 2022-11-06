@@ -93,6 +93,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.sk/ | Slovakia | ------------- |
 | https://mastodon.uno/ | Italy | ------------- |
 | https://mastodon.uy/ | Uruguay | ------------- |
+| https://mastodonapp.uk/ | United Kingdom | ------------- |
 | https://mastodont.cat/ | Catalonia | Català (Catalan) |
 | https://mastodontti.fi/ | Finland | ------------- |
 | https://mastodos.com/ | Kyoto, Japan | ------------- |
