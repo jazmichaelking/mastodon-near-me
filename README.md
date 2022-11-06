@@ -115,6 +115,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://ps.s10y.eu/ | Brussels | (removed/dead?) |
 | https://ruhr.social| The Ruhr, Germany | ------------- |
 | https://rva.party/ | Richmond, Virginia, USA | ------------- |
+| https:/sasa.africa/ | Africa | ------------- |
 | https://sfba.social/ | San Francisco, California, USA | ------------- |
 | https://snabelen.no/ | Norway | ------------- |
 | https://social.net.ua/ | Ukraine | ------------- |
