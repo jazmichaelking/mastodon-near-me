@@ -85,6 +85,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.mit.edu/ | Massachusetts Institute of Technology, Massachusetts, USA | ------------- |
 | https://mastodon.ml/ | Russia | ------------- |
 | https://mastodon.nl/ | The Netherlands | ------------- |
+| https://mastodon.nz/ | New Zealand | ------------- |
 | https://mastodon.nzoss.nz/ | New Zealand | ------------- |
 | https://mastodon.ocf.berkeley.edu/ | University of California, Berkeley, California, USA | (removed/dead?) |
 | https://mastodon.opencloud.lu/ | Luxembourg | ------------- |
