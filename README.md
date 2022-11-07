@@ -58,6 +58,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://kcmo.social/ | Kansas City, Missouri, USA | ------------- |
 | https://kopiti.am/ | Singapore | ------------- |
 | https://lancasterpa.social/ | Lancaster County, Pennsylvania, USA | (removed/dead?) |
+| https://lile.cl | Chile ------------- |
 | https://links.potsda.mn/ | Potsdamn, Germany ------------- |
 | https://machteburch.social/ | Magdeburg, Germany | ------------- |
 | https://mamot.fr/ | France | (no new reg) |
@@ -125,6 +126,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://social.seattle.wa.us/ | Seattle, Washington, USA | ------------- |
 | https://social.tulsa.ok.us/ | Tulsa, Oklahoma, USA | ------------- |
 | https://socialclub.nyc/ | New York City, New York, USA | ------------- |
+| https://sueden.social | Souther Germany | ------------- |
 | https://the.vermonters.club/ | Vermont, USA | ------------- |
 | https://toot.aquilenet.fr | Aquitaine, France | ------------- |
 | https://tooot.im/ | Israel | עִבְרִית (Hebrew) |
