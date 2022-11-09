@@ -6,16 +6,16 @@ Onboarding to Mastodon requires a judgement call about which server to join and 
 
 ## Inclusion Criteria 
 To be included on the map the service must be:
- - Mastodon or Pleroma (other ActivityPub services may become in scope at a later date),
+ - Mastodon or a Mastodon fork (other ActivityPub services may become in scope at a later date),
  - Open for registration - this directory is to help people find a server to join, server must accept new members. Approval based service is fine,
  - Clearly intended to serve a particular physical facility (e.g. university), neighbourhood, city, region or country; or a specific language or family of languages that can generally be thought of as being constrained to a particular locale or region,
  - HTTPS only
  
  ## Exclusion Criteria
-  - Any server that clearly and overtly contravenes the Mastodon Server Covenant (https://joinmastodon.org/covenant) 
+  - Any server that clearly and overtly contravenes the Mastodon Server Covenant (https://joinmastodon.org/covenant).
   -- please note, public signing of the Mastodon Server Convenant is not required for inclusion
   - Any server that has any kind of membership fee or required donation.
-  - Any server that is consistently unreachable
+  - Any server that is consistently unreachable.
  
  ## Map 
 The interactive map of the available servers is maintained at https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094
