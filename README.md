@@ -123,6 +123,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://sasa.africa/ | Africa | ------------- |
 | https://sfba.social/ | San Francisco, California, USA | ------------- |
 | https://snabelen.no/ | Norway | ------------- |
+| https://soc.catala.digital/ | Catalonia | Catalan |
 | https://social.net.ua/ | Ukraine | ------------- |
 | https://social.saarland/ | Saarland, Germany | ------------- |
 | https://social.seattle.wa.us/ | Seattle, Washington, USA | ------------- |
