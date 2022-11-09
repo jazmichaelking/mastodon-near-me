@@ -107,6 +107,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://muenchen.social/ | Muenchen, Germany | ------------- |
 | https://muenster.im/ | Münster, Germany | ------------- |
 | https://nahe.social/ | Bad Kreuznach, Germany | ------------- |
+| https://netzkms.de/ | Chemnitz, Germany | ------------- |
 | https://norden.social/ | Northern Germany | ------------- |
 | https://norrebro.space/ | Denmark | ------------- |
 | https://nrw.social/ | North Rhine-Westphalia, Germany | ------------- |
