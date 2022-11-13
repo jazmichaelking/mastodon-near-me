@@ -129,6 +129,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://ruhr.social| The Ruhr, Germany | ------------- |
 | https://rva.party/ | Richmond, Virginia, USA | ------------- |
 | https://sasa.africa/ | Africa | ------------- |
+| https://sbg-social.at/ | Salzburg, Austria | English, German |
 | https://sfba.social/ | San Francisco, California, USA | ------------- |
 | https://snabelen.no/ | Norway | ------------- |
 | https://soc.catala.digital/ | Catalonia | Catalan |
