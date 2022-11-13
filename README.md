@@ -95,8 +95,10 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.scot/ | Scotland | ------------- |
 | https://mastodon.se/ | Sweden | Svenska (Swedish) |
 | https://mastodon.sk/ | Slovakia | ------------- |
+| https://mastodon.vlaanderen/ | Flanders | Dutch |
 | https://mastodon.uno/ | Italy | ------------- |
 | https://mastodon.uy/ | Uruguay | ------------- |
+| https://mastodon-belgium.be/ | Belgium | Dutch, French, English, German |
 | https://mastodonapp.uk/ | United Kingdom | ------------- |
 | https://mastodont.cat/ | Catalonia | Català (Catalan) |
 | https://mastodontti.fi/ | Finland | ------------- |
