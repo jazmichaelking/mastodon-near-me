@@ -146,7 +146,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://troet.cafe/ | Germany | ------------- |
 | https://triangletoot.party/ | Research Triangle, North Carolina, USA | ------------- |
 | https://tukkers.online/ | Twente, Germany | ------------- |
-| https://tw.town | Eastern Washongton, USA | ------------- |
+| https://tw.town | Eastern Washington, USA | ------------- |
 | https://voi.social/ | Austria | ------------- |
 | https://wien.rocks | Vienna, Austria | ------------- |
 | https://wue.social/ | Würzburg, Germany | ------------- |
