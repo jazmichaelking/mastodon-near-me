@@ -47,6 +47,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://darmstadt.social/ | Darmstadt, Germany | ------------- |
 | https://dizl.de/ | Germany | ------------- |
 | https://dresden.network/ | Dresden, Germany | ------------- |
+| https://fuerstentum.social | Liechtenstein | ------------- |
 | https://fikaverse.club/ | Scandinavia | ------------- |
 | https://frankfurt.social/ | Frankfurt, Germany | ------------- |
 | https://freiburg.social/ | Freiburg im Breisgau, Germany | ------------- |
