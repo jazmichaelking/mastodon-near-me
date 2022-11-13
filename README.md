@@ -70,6 +70,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.acc.sunet.se/ | Umeå University, Sweden | ------------- |
 | https://mastodon.bachgau.social/ | Bachgau Region, Germany | ------------- |
 | https://mastodon.bayern/ | Bavaria, Germany | ------------- |
+| https://mastodon.berlin/ | Berlin, Germany | ------------- |
 | https://mastodon.bida.im/ | Bologna, Italy | ------------- |
 | https://mastodon.com.br/ | Brazil | (removed/dead?) |
 | https://mastodon.eus/ | Basque Country | Euskara (Basque) |
@@ -97,6 +98,8 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.sk/ | Slovakia | ------------- |
 | https://mastodon.uno/ | Italy | ------------- |
 | https://mastodon.uy/ | Uruguay | ------------- |
+| https://mastodon-belgium.be/ | Belgium | Dutch, French, English, German |
+| https://mastodon.vlaanderen/ | Flanders | Dutch |
 | https://mastodonapp.uk/ | United Kingdom | ------------- |
 | https://mastodont.cat/ | Catalonia | Català (Catalan) |
 | https://mastodontti.fi/ | Finland | ------------- |
@@ -134,7 +137,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://sueden.social | Souther Germany | ------------- |
 | https://the.vermonters.club/ | Vermont, USA | ------------- |
 | https://toot.aquilenet.fr | Aquitaine, France | ------------- |
-| https://tooot.im/ | Israel | עִבְרִית (Hebrew) |
+| https://tooot.im/ | Israel | ???????? (Hebrew) |
 | https://toot.koeln/ | Cologne, Germany | (removed/dead?) |
 | https://toot.si/ | Slovenia | ------------- |
 | https://toot.wales/ | Wales | Cymraeg (Welsh) |
