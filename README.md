@@ -155,6 +155,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://wue.social/ | Würzburg, Germany | ------------- |
 | https://wroc.xyz/ | Wroclaw, Poland | (removed/dead?) |
 | https://Xarxa.cloud/ | Catalonia | Català (Catalan) |
+| https://yorkshire.social/ | Yorkshire, UK | ------------- |
 | https://zoltasila.pl/ | Poland | (removed/dead?) |
 | https://թութ.հայ/ | Armenia | ------------- |
 
