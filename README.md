@@ -123,6 +123,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://oslo.town/ | Oslo, Norway | ------------- |
 | https://osna.social/ | Osnabruck, Germany | ------------- |
 | https://pdx.social/ | Portland, Oregon, USA | no new reg |
+| https://piaille.fr/ | France | ------------- |
 | https://pleroma.pt/ | Portugal | ------------- |
 | https://ploen.social/ | Kreis Plön, Germany | ------------- |
 | https://ps.s10y.eu/ | Brussels | (removed/dead?) |
