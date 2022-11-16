@@ -57,6 +57,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://gomastodon.cz/ | Czechia | ------------- |
 | https://graz.social/ | Graz, Austria | ------------- |
 | https://hessen.social/ | Hessen, Germany | ------------- |
+| https://hub.uckermark.social/ | Uckermark, Brandenburg, Germany | ------------- |
 | https://koyu.space/ | Kiel, Germany | ------------- |
 | https://kcmo.social/ | Kansas City, Missouri, USA | ------------- |
 | https://kopiti.am/ | Singapore | ------------- |
