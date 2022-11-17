@@ -141,6 +141,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://social.tulsa.ok.us/ | Tulsa, Oklahoma, USA | ------------- |
 | https://socialclub.nyc/ | New York City, New York, USA | ------------- |
 | https://sueden.social | Souther Germany | ------------- |
+| https://thegem.city/ | Dayton, Ohio, USA | ------------- |
 | https://the.vermonters.club/ | Vermont, USA | ------------- |
 | https://toot.aquilenet.fr | Aquitaine, France | ------------- |
 | https://tooot.im/ | Israel | ???????? (Hebrew) |
