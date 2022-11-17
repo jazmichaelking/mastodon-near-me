@@ -8,7 +8,7 @@ Onboarding to Mastodon requires a judgement call about which server to join and 
 To be included on the map the service must be:
  - Mastodon or a Mastodon fork (other ActivityPub services may become in scope at a later date),
  - Open for registration - this directory is to help people find a server to join, server must accept new members. Approval based service is fine,
- - Clearly intended to serve a particular physical facility (e.g. university), neighbourhood, city, region or country; or a specific language or family of languages that can generally be thought of as being constrained to a particular locale or region,
+ - Clearly intended (i.e. written in the server description) to serve a particular physical facility (e.g. university), neighbourhood, city, region or country; or a specific language or family of languages that can generally be thought of as being constrained to a particular locale or region,
  - HTTPS only
  
  ## Exclusion Criteria
@@ -16,6 +16,10 @@ To be included on the map the service must be:
   -- please note, public signing of the Mastodon Server Convenant is not required for inclusion
   - Any server that has any kind of membership fee or required donation.
   - Any server that is consistently unreachable.
+
+Please note: this service is intended to help a specific portion of the Mastodon-curious find a functional, reasonably well-populated server local to to them. Due to the recent (Nov 2022) interest in Mastodon, many new servers are coming online (a good thing!) and hoping this map will help advertise them (not so good). We are not an ad, we are a guide for the lost. To that end:
+
+ - Servers that are very new with broad context and very few members will be politely excluded for now. An exception is if you are serving a specific town or city, and your server description states this.
  
  ## Map 
 The interactive map of the available servers is maintained at https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094
