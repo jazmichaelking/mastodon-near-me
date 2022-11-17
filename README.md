@@ -17,9 +17,9 @@ To be included on the map the service must be:
   - Any server that has any kind of membership fee or required donation.
   - Any server that is consistently unreachable.
 
-Please note: this service is intended to help a specific portion of the Mastodon-curious find a functional, reasonably well-populated server local to to them. Due to the recent (Nov 2022) interest in Mastodon, many new servers are coming online (a good thing!) and hoping this map will help advertise them (not so good). We are not an ad, we are a guide for the lost. To that end:
+Please note: this service is intended to help a specific portion of the Mastodon-curious find a functional, reasonably well-populated server local to to them. Due to the recent (Nov 2022) interest in Mastodon, many new servers are coming online (a good thing!) and hoping this map will help advertise them (not so good). We are not an ad service, we are a guide for the lost. To that end:
 
- - Servers that are very new with broad context and very few members will be politely excluded for now. An exception is if you are serving a specific town or city, and your server description states this.
+ - Servers that are very new with unclear geogrpahic context or very few members will be politely excluded for now. An exception is if you are serving a specific town or city, you have more than 50 members, and your server description clearly describes the town or city being served.
  
  ## Map 
 The interactive map of the available servers is maintained at https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094
