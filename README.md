@@ -99,6 +99,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.nz/ | New Zealand | ------------- |
 | https://mastodon.nzoss.nz/ | New Zealand | ------------- |
 | https://mastodon.ocf.berkeley.edu/ | University of California, Berkeley, California, USA | (removed/dead?) |
+| https://mastodon.online/ | Mühlenstraße 8a, 14167 Berlin, Germany| ------------- |
 | https://mastodon.opencloud.lu/ | Luxembourg | ------------- |
 | https://mastodon.org.uk/ | United Kingdom | ------------- |
 | https://mastodon.scot/ | Scotland | ------------- |
