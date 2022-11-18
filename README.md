@@ -85,6 +85,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.fedi.quebec/ | Quebec, Candada | (removed/dead?) |
 | https://mastodon.gougere.fr/ | Auxerre, France | ------------- |
 | https://mastodon.green/ | European Union | removed/paywall |
+| https://mastodon.hr/ | Croatia | ------------- |
 | https://mastodon.grin.hu | Hungary | ------------- |
 | https://mastodon.hovkluster.se/ | Sweden | (removed/dead?) |
 | https://mastodon.ie/ | Ireland | ------------- |
