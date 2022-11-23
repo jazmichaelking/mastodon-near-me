@@ -131,6 +131,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://oslo.town/ | Oslo, Norway | ------------- |
 | https://osna.social/ | Osnabruck, Germany | ------------- |
 | https://pdx.social/ | Portland, Oregon, USA | no new reg |
+| https://pfalz.social/ | Pfalz Region, Germany | Palatine, German, English |
 | https://piaille.fr/ | France | ------------- |
 | https://pleroma.pt/ | Portugal | ------------- |
 | https://ploen.social/ | Kreis Plön, Germany | ------------- |
@@ -168,7 +169,6 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://yorkshire.social/ | Yorkshire, UK | ------------- |
 | https://zoltasila.pl/ | Poland | (removed/dead?) |
 | https://թութ.հայ/ | Armenia | ------------- |
-| https://pfalz.social/ | Pfalz Region, Germany | Palatine, German, English |
 
 ## Notes
 Balkans geo-centre per https://toot.wales/web/statuses/105599802707065631
