@@ -124,6 +124,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://norden.social/ | Northern Germany | ------------- |
 | https://norrebro.space/ | Denmark | ------------- |
 | https://nrw.social/ | North Rhine-Westphalia, Germany | ------------- |
+| https://nuernberg.social/ | Nürnberg, Germany | German |
 | https://nwb.social/ | Nieuw West Brabant, Netherlands | ------------- |
 | https://oberpfalz.social/ | Oberpfalz, Germany | (removed/dead?) |
 | https://oceanplayground.social/ | Nova Scotia, Canada | ------------- |
