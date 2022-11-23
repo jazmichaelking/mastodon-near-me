@@ -167,6 +167,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://yorkshire.social/ | Yorkshire, UK | ------------- |
 | https://zoltasila.pl/ | Poland | (removed/dead?) |
 | https://թութ.հայ/ | Armenia | ------------- |
+| https://pfalz.social/ | Pfalz Region, Germany | Palatine, German, English |
 
 ## Notes
 Balkans geo-centre per https://toot.wales/web/statuses/105599802707065631
