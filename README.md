@@ -117,6 +117,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mspsocial.net/ | Twin Cities, Minnesota, USA | (removed/dead?) |
 | https://mstdn.es/ | Spain | ------------- |
 | https://mstdn.jp/ | Japan | ------------- |
+| https://mstdn.ro/ | Romania | ------------- |
 | https://muenchen.social/ | Muenchen, Germany | ------------- |
 | https://muenster.im/ | Münster, Germany | ------------- |
 | https://nahe.social/ | Bad Kreuznach, Germany | ------------- |
