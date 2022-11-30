@@ -72,6 +72,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://machteburch.social/ | Magdeburg, Germany | ------------- |
 | https://mamot.fr/ | France | (no new reg) |
 | https://mao.mastodonhub.com/ | Hong Kong | ------------- |
+| https://mstdn.ca/ | Canada | ------------- |
 | https://masto.donte.com.br/ | Brazil | (removed/dead?) |
 | https://masto.pt/ | Portugal | ------------- |
 | https://mastodon.acc.sunet.se/ | Umeå University, Sweden | ------------- |
