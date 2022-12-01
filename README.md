@@ -43,6 +43,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://balkan.fedive.rs/ | Western Balkans | ------------- |
 | https://barcelona.social/ | Barcelona, Spain | ------------- |
 | https://berlin.social/ | Berlin, Germany | ------------- |
+| https://better.boston/ | Boston, Massachussetts, USA | ------------- |
 | https://bne.social/ | Brisbane, Australia | ------------- |
 | https://bong.social/ | Bangladesh | (removed/dead?) |
 | https://bonn.social/ | Bonn, Germany | ------------- |
