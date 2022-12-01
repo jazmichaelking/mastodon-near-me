@@ -88,6 +88,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.gougere.fr/ | Auxerre, France | ------------- |
 | https://mastodon.green/ | European Union | removed/paywall |
 | https://mastodon.hr/ | Croatia | ------------- |
+| https://mastodon.free-solutions.org/ | Switzerland | French |
 | https://mastodon.grin.hu | Hungary | ------------- |
 | https://mastodon.hovkluster.se/ | Sweden | (removed/dead?) |
 | https://mastodon.ie/ | Ireland | ------------- |
