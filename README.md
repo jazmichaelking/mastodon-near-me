@@ -39,6 +39,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://ailbhean.co-shaoghal.net/ | Scotland | Gàidhlig (Gaelic) |
 | https://augsburg.social/ | Augsburg, Germany | ------------- |
 | https://aus.social/ | Australia | ------------- |
+| https://aut.social | Austria | ------------- |
 | https://austin.community/ | Austin, Texas, USA | (removed/dead?) |
 | https://balkan.fedive.rs/ | Western Balkans | ------------- |
 | https://barcelona.social/ | Barcelona, Spain | ------------- |
@@ -53,11 +54,12 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://darmstadt.social/ | Darmstadt, Germany | ------------- |
 | https://dizl.de/ | Germany | ------------- |
 | https://dresden.network/ | Dresden, Germany | ------------- |
-| https://fuerstentum.social | Liechtenstein | ------------- |
+| https://fedi.at | Austria |  ------------- |
 | https://fikaverse.club/ | Scandinavia | ------------- |
 | https://frankfurt.social/ | Frankfurt, Germany | ------------- |
 | https://freiburg.social/ | Freiburg im Breisgau, Germany | ------------- |
 | https://fsmi.social/ | India | ------------- |
+| https://fuerstentum.social | Liechtenstein | ------------- |
 | https://fulda.social/ | Fulda, Germany | ------------- |
 | https://glasgow.social | Glasgow, Scotland | ------------- |
 | https://gomastodon.cz/ | Czechia | ------------- |
@@ -132,6 +134,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://nwb.social/ | Nieuw West Brabant, Netherlands | ------------- |
 | https://oberpfalz.social/ | Oberpfalz, Germany | (removed/dead?) |
 | https://oceanplayground.social/ | Nova Scotia, Canada | ------------- |
+| https://ooe.social/ | Linz, Austria | ------------- |
 | https://oslo.town/ | Oslo, Norway | ------------- |
 | https://osna.social/ | Osnabruck, Germany | ------------- |
 | https://pdx.social/ | Portland, Oregon, USA | no new reg |
@@ -164,6 +167,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://troet.cafe/ | Germany | ------------- |
 | https://triangletoot.party/ | Research Triangle, North Carolina, USA | ------------- |
 | https://tukkers.online/ | Twente, Germany | ------------- |
+| https://tyrol.social | Tyrol, Austria | ------------- | 
 | https://tw.town | Eastern Washington, USA | ------------- |
 | https://voi.social/ | Austria | ------------- |
 | https://wien.rocks | Vienna, Austria | ------------- |
