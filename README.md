@@ -10,7 +10,7 @@ To be included on the map the service must be:
  - Open for registration - this directory is to help people find a server to join, server must accept new members. Approval based service is fine,
  - Clearly intended (i.e. written in the server description) to serve a particular physical facility (e.g. university), neighbourhood, city, region or country; or a specific language or family of languages that can generally be thought of as being constrained to a particular locale or region,
  - HTTPS only
- - Reasonably well-populated
+ - Reasonably well-populated (over 100 active members)
  
  ## Exclusion Criteria
   - Any server that clearly and overtly contravenes the Mastodon Server Covenant (https://joinmastodon.org/covenant).
