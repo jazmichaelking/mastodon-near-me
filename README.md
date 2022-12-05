@@ -84,6 +84,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.berlin/ | Berlin, Germany | ------------- |
 | https://mastodon.bida.im/ | Bologna, Italy | ------------- |
 | https://mastodon.com.br/ | Brazil | (removed/dead?) |
+| https://mastodon.com.tr/ | Turkey | ------------- |
 | https://mastodon.eus/ | Basque Country | Euskara (Basque) |
 | https://mastodon.fedi.bzh/ | Rennes, France | Brezhoneg (Breton) |
 | https://mastodon.fedi.quebec/ | Quebec, Candada | (removed/dead?) |
@@ -102,6 +103,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.mit.edu/ | Massachusetts Institute of Technology, Massachusetts, USA | ------------- |
 | https://mastodon.ml/ | Russia | ------------- |
 | https://mastodon.nl/ | The Netherlands | ------------- |
+| https://mastodon.nu/ | Sweden | ------------- |
 | https://mastodon.nz/ | New Zealand | ------------- |
 | https://mastodon.nzoss.nz/ | New Zealand | ------------- |
 | https://mastodon.ocf.berkeley.edu/ | University of California, Berkeley, California, USA | (removed/dead?) |
