@@ -70,8 +70,9 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://kcmo.social/ | Kansas City, Missouri, USA | ------------- |
 | https://kopiti.am/ | Singapore | ------------- |
 | https://lancasterpa.social/ | Lancaster County, Pennsylvania, USA | (removed/dead?) |
-| https://lile.cl | Chile ------------- |
-| https://links.potsda.mn/ | Potsdamn, Germany ------------- |
+| https://lile.cl | Chile | ------------- |
+| https://links.potsda.mn/ | Potsdamn, Germany | ------------- |
+| https://xn--lofll-1sat.is/ | Iceland | ------------- |
 | https://machteburch.social/ | Magdeburg, Germany | ------------- |
 | https://mamot.fr/ | France | (no new reg) |
 | https://mao.mastodonhub.com/ | Hong Kong | ------------- |
