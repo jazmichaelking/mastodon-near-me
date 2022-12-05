@@ -1,5 +1,5 @@
 # mastodon-near-me
-A visual map of Mastodon or compatible providers that operate primarily in or are targeted to a locality, region, city, or language.
+A visual map of active community Mastodon or compatible providers that operate primarily in or are targeted to a locality, region, city, or language.
 
 ## Purpose 
 Onboarding to Mastodon requires a judgement call about which server to join and can cause confusion. The map is intended to showcase existing local service providers with a built-in local membership as a way to inspire confidence in the choice of server.
