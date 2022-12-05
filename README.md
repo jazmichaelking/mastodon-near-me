@@ -136,6 +136,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://nuernberg.social/ | Nürnberg, Germany | German |
 | https://nwb.social/ | Nieuw West Brabant, Netherlands | ------------- |
 | https://oberpfalz.social/ | Oberpfalz, Germany | (removed/dead?) |
+| https://occitania.social/ | Occitania | Occitan |
 | https://oceanplayground.social/ | Nova Scotia, Canada | ------------- |
 | https://ooe.social/ | Linz, Austria | ------------- |
 | https://oslo.town/ | Oslo, Norway | ------------- |
