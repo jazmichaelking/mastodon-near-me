@@ -142,6 +142,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://pdx.social/ | Portland, Oregon, USA | no new reg |
 | https://pfalz.social/ | Pfalz Region, Germany | Palatine, German, English |
 | https://piaille.fr/ | France | ------------- |
+| https://planet.moe/ | South Korea | ------------- |
 | https://pleroma.pt/ | Portugal | ------------- |
 | https://ploen.social/ | Kreis Plön, Germany | ------------- |
 | https://ps.s10y.eu/ | Brussels | (removed/dead?) |
@@ -157,7 +158,8 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://social.seattle.wa.us/ | Seattle, Washington, USA | ------------- |
 | https://social.tulsa.ok.us/ | Tulsa, Oklahoma, USA | ------------- |
 | https://socialclub.nyc/ | New York City, New York, USA | ------------- |
-| https://sueden.social | Souther Germany | ------------- |
+| https://sueden.social/ | Southern Germany | ------------- |
+| https://tea.codes/ | Hong Kong & Mainland China | ------------- |
 | https://thegem.city/ | Dayton, Ohio, USA | ------------- |
 | https://the.vermonters.club/ | Vermont, USA | ------------- |
 | https://toot.aquilenet.fr | Aquitaine, France | ------------- |
