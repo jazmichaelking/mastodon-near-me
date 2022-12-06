@@ -43,6 +43,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://austin.community/ | Austin, Texas, USA | (removed/dead?) |
 | https://balkan.fedive.rs/ | Western Balkans | ------------- |
 | https://barcelona.social/ | Barcelona, Spain | ------------- |
+| https://bath.social/ | Bath, UK | ------------- |
 | https://berlin.social/ | Berlin, Germany | ------------- |
 | https://better.boston/ | Boston, Massachussetts, USA | ------------- |
 | https://bne.social/ | Brisbane, Australia | ------------- |
@@ -50,6 +51,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://bonn.social/ | Bonn, Germany | ------------- |
 | https://brandenburg.social/ | Brandenburg, Germany | ------------- |
 | https://chilemasto.casa/ | Chile | ------------- |
+| https://cityofchicago.live/ | Chicago, USA | ------------- |
 | https://social.cologne | Cologne, Germany | ------------- |
 | https://darmstadt.social/ | Darmstadt, Germany | ------------- |
 | https://dizl.de/ | Germany | ------------- |
@@ -61,6 +63,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://fsmi.social/ | India | ------------- |
 | https://fuerstentum.social | Liechtenstein | ------------- |
 | https://fulda.social/ | Fulda, Germany | ------------- |
+| https://gib.social/ | Gibraltar | ------------- |
 | https://glasgow.social | Glasgow, Scotland | ------------- |
 | https://gomastodon.cz/ | Czechia | ------------- |
 | https://graz.social/ | Graz, Austria | ------------- |
