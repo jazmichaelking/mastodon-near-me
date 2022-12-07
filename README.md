@@ -34,8 +34,8 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | URL | geo target | language focus |
 | ------------- | ------------- | ------------- |
 | https://0x3c.pl/ | Trójmiasto, Poland | ------------- |
-| https://101010.pl/ | Poland | ------------- | 
-| https://a2mi.social | Ann Arbor, Michigan, USA |------------- |
+| https://a2mi.social | Ann Arbor, Michigan, USA | ------------- |
+| https://acg.debula.ml/ | Malaysia | ------------- |
 | https://ailbhean.co-shaoghal.net/ | Scotland | Gàidhlig (Gaelic) |
 | https://augsburg.social/ | Augsburg, Germany | ------------- |
 | https://aus.social/ | Australia | ------------- |
@@ -50,12 +50,14 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://bong.social/ | Bangladesh | (removed/dead?) |
 | https://bonn.social/ | Bonn, Germany | ------------- |
 | https://brandenburg.social/ | Brandenburg, Germany | ------------- |
+| https://burnthis.town/ | Brazil | ------------- |
 | https://chilemasto.casa/ | Chile | ------------- |
 | https://cityofchicago.live/ | Chicago, USA | ------------- |
 | https://social.cologne | Cologne, Germany | ------------- |
 | https://darmstadt.social/ | Darmstadt, Germany | ------------- |
 | https://dizl.de/ | Germany | ------------- |
 | https://dresden.network/ | Dresden, Germany | ------------- |
+| https://est.social/ | Estonia | ------------- |
 | https://fedi.at | Austria |  ------------- |
 | https://fikaverse.club/ | Scandinavia | ------------- |
 | https://frankfurt.social/ | Frankfurt, Germany | ------------- |
@@ -83,18 +85,22 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://masto.donte.com.br/ | Brazil | (removed/dead?) |
 | https://masto.pt/ | Portugal | ------------- |
 | https://mastodon.acc.sunet.se/ | Umeå University, Sweden | ------------- |
+| https://mastodon.au/ | Australia | ------------- |
 | https://mastodon.bachgau.social/ | Bachgau Region, Germany | ------------- |
 | https://mastodon.bayern/ | Bavaria, Germany | ------------- |
 | https://mastodon.berlin/ | Berlin, Germany | ------------- |
 | https://mastodon.bida.im/ | Bologna, Italy | ------------- |
 | https://mastodon.com.br/ | Brazil | (removed/dead?) |
+| https://mastodon.com.py/ | Paraguay | ------------- |
 | https://mastodon.com.tr/ | Turkey | ------------- |
+| https://mastodon.cr/ | Costa Rica | ------------- |
 | https://mastodon.eus/ | Basque Country | Euskara (Basque) |
 | https://mastodon.fedi.bzh/ | Rennes, France | Brezhoneg (Breton) |
 | https://mastodon.fedi.quebec/ | Quebec, Candada | (removed/dead?) |
 | https://mastodon.gougere.fr/ | Auxerre, France | ------------- |
 | https://mastodon.green/ | European Union | removed/paywall |
 | https://mastodon.hr/ | Croatia | ------------- |
+| https://mastodon.fo/ | Faroe Islands | ------------- |
 | https://mastodon.free-solutions.org/ | Switzerland | French |
 | https://mastodon.grin.hu | Hungary | ------------- |
 | https://mastodon.hovkluster.se/ | Sweden | (removed/dead?) |
@@ -116,6 +122,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.scot/ | Scotland | ------------- |
 | https://mastodon.se/ | Sweden | Svenska (Swedish) |
 | https://mastodon.sk/ | Slovakia | ------------- |
+| https://mastodon.tn/ | Tunisia | ------------- |
 | https://mastodon.uno/ | Italy | ------------- |
 | https://mastodon.uy/ | Uruguay | ------------- |
 | https://mastodon-belgium.be/ | Belgium | Dutch, French, English, German |
@@ -123,11 +130,14 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodonapp.uk/ | United Kingdom | ------------- |
 | https://mastodont.cat/ | Catalonia | Català (Catalan) |
 | https://mastodontti.fi/ | Finland | ------------- |
+| https://mastodonczech.cz/ | Czechia | ------------- |
 | https://mastodos.com/ | Kyoto, Japan | ------------- |
 | https://metu.life/ | Middle East Technical University, Ankara, Turkey | ------------- |
 | https://mspsocial.net/ | Twin Cities, Minnesota, USA | (removed/dead?) |
 | https://mstdn.es/ | Spain | ------------- |
+| https://mstdn.id/ | Indonesia | ------------- |
 | https://mstdn.jp/ | Japan | ------------- |
+| https://mstdn.mx/ | Mexico | ------------- |
 | https://mstdn.ro/ | Romania | ------------- |
 | https://muenchen.social/ | Muenchen, Germany | ------------- |
 | https://muenster.im/ | Münster, Germany | ------------- |
@@ -150,6 +160,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://planet.moe/ | South Korea | ------------- |
 | https://pleroma.pt/ | Portugal | ------------- |
 | https://ploen.social/ | Kreis Plön, Germany | ------------- |
+| https://pol.social/explore | Poland | ------------- |
 | https://ps.s10y.eu/ | Brussels | (removed/dead?) |
 | https://ruhr.social| The Ruhr, Germany | ------------- |
 | https://rva.party/ | Richmond, Virginia, USA | ------------- |
