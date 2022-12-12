@@ -69,8 +69,10 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://glasgow.social | Glasgow, Scotland | ------------- |
 | https://gomastodon.cz/ | Czechia | ------------- |
 | https://graz.social/ | Graz, Austria | ------------- |
+| https://halifaxsocial.ca/ | Halifax, Nova Scotia, Canada | ------------- |
 | https://hessen.social/ | Hessen, Germany | ------------- |
 | https://hub.uckermark.social/ | Uckermark, Brandenburg, Germany | ------------- |
+| https://jawns.club/ | Philadelphia, Pennsylvania, USA | ------------- |
 | https://koyu.space/ | Kiel, Germany | ------------- |
 | https://kcmo.social/ | Kansas City, Missouri, USA | ------------- |
 | https://kopiti.am/ | Singapore | ------------- |
@@ -98,7 +100,6 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.fedi.bzh/ | Rennes, France | Brezhoneg (Breton) |
 | https://mastodon.fedi.quebec/ | Quebec, Candada | (removed/dead?) |
 | https://mastodon.gougere.fr/ | Auxerre, France | ------------- |
-| https://mastodon.green/ | European Union | removed/paywall |
 | https://mastodon.hr/ | Croatia | ------------- |
 | https://mastodon.fo/ | Faroe Islands | ------------- |
 | https://mastodon.free-solutions.org/ | Switzerland | French |
