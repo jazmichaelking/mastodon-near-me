@@ -1,0 +1,2742 @@
+{
+  "type": "umap",
+  "uri": "https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094#",
+  "properties": {
+    "easing": true,
+    "tilelayersControl": true,
+    "measureControl": null,
+    "embedControl": true,
+    "fullscreenControl": null,
+    "locateControl": true,
+    "searchControl": true,
+    "datalayersControl": true,
+    "zoomControl": true,
+    "labelInteractive": true,
+    "showLabel": null,
+    "slideshow": {},
+    "captionBar": true,
+    "popupShape": "Default",
+    "limitBounds": {},
+    "tilelayer": {
+      "tms": false,
+      "name": "OSM Positron (Carto)",
+      "maxZoom": 20,
+      "minZoom": 0,
+      "attribution": "Map tiles by [[http://cartodb.com/attributions#basemaps|CartoDB]], under [[https://creativecommons.org/licenses/by/3.0/|CC BY 3.0]]. map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL ",
+      "url_template": "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png"
+    },
+    "licence": "",
+    "description": "This map shows a curated selection of Mastodon servers: only that are are both open for registration and serving specific countries, regions or cities. Most of them allow anyone to join, but they tend to be people from the area. City-based servers are shown with a pin, otherwise it's a regional server.\n\nRemember: these servers interconnect with each other, so if you join a different server, you can still connect with everyone on the network! \n\nDark Purple entries have publicly signed on to the Mastodon Server Covenant (https://joinmastodon.org/covenant) \n\nLight Purple means I don't know.\n\nTo add your server or offer feedback see https://github.com/jazmichaelking/mastodon-near-me/\n\nTo see many more Mastodon servers visit https://joinmastodon.org - this map is only a small selection of all available servers.\n\nIf you like this map, you can buy me a coffee: https://ko-fi.com/jazmichaelking - diolch!\n\nBeta: click \"See data layers\" in the left hand menu to toggle on Pixelfed, Bookwyrm and more",
+    "name": "Mastodon Near Me",
+    "onLoadPanel": "caption",
+    "displayPopupFooter": false,
+    "miniMap": false,
+    "moreControl": true,
+    "scaleControl": true,
+    "scrollWheelZoom": true,
+    "zoom": 3
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.531250000000004,
+      18.97902595325528
+    ]
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "displayOnLoad": false,
+        "browsable": true,
+        "name": "People Near Me",
+        "id": 2486473
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "displayOnLoad": false,
+        "browsable": true,
+        "name": "Lemmy near me",
+        "id": 2487793
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "displayOnLoad": false,
+        "browsable": true,
+        "name": "Mobilizon near me",
+        "id": 2487669
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "displayOnLoad": false,
+        "browsable": true,
+        "name": "Bookwyrm near me",
+        "id": 2487795
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "displayOnLoad": false,
+        "browsable": true,
+        "name": "Pixelfed Near Me",
+        "id": 2486475
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "Cyan",
+              "iconClass": "Circle"
+            },
+            "description": "Closed down in July 2022",
+            "name": "-mastodon.utwente.nl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              6.850614,
+              52.242544
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "name": "https://0x3c.pl/",
+            "description": "Spokojna przystan dla hakerów, mejkerów, i wszelkiej masci kreatywnych i technicznych osób z okolic trójmiasta. Celem 0x3c.pl jest laczyc osoby zaangazowane w rózne spolecznosci na terenie trójmiasta i pozwalac na wymiane wspólnych zainteresowan."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              18.254836,
+              54.593513
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://a2mi.social/",
+            "description": "👋 A2mi.social is a friendly social network for people living, working, studying around Ann Arbor — including Ypsilanti and elsewhere — and our friends."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -83.729553,
+              42.279341
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://acg.debula.ml/",
+            "description": "ACG.MN 成立于 2017 年，是第一批中文 Mastodon 网站。"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              102.227783,
+              4.68593
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "description": "This server is aimed at Gaelic speakers. Tha am frithealaiche seo ann do luchd na Gàidhlig.",
+            "name": "https://ailbhean.co-shaoghal.net/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -3.977051,
+              56.764768
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "description": "Augsburg.Social bietet diese Instanz an damit Du Deinen Weg in's Fediverse finden kannst.\nDer Dienst richtet sich ausschließlich an Augsburg und Umgebung.",
+            "name": "https://augsburg.social/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.904982,
+              48.368367
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://aus.social",
+            "description": "Australian community on Mastodon",
+            "_umap_options": {
+              "color": "#563ACC",
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              132.890625,
+              -24.20689
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://aut.social/",
+            "description": "Die Mastodon-Instanz aus Österreich. Welcome to Austria!",
+            "_umap_options": {
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.337158,
+              47.61357
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA"
+            },
+            "name": "https://balkan.fedive.rs/",
+            "description": "Mastodon instanca namenjena domacoj publici"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              19.104302,
+              44.385434
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "description": "Aquest és un node territorial localitzat a la província de Barcelona i els idiomes vehiculars són el català i l'espanyol. Igualment, gràcies als protocols de federació, podràs seguir i interactuar amb altres persones d'altres comunitats que parlen altres idiomes.",
+            "name": "https://barcelona.social/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              2.177224,
+              41.383249
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://bath.social/",
+            "description": "A local social network for Bath, UK."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -2.356567,
+              51.412912
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "description": "Alles rund um, über, aus & für Berlin",
+            "name": "https://berlin.social/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.42392,
+              52.533767
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://better.boston/",
+            "description": "A server for people in Greater Boston and Massachusetts interested in a more inclusive, equitable, and sustainable region."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -71.0606,
+              42.356451
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://bne.social/",
+            "description": "A community for (but not limited to) residents and friends of Brisbane, Meanjin, South-east Queensland, and the region. Come say hey!"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              153.025947,
+              -27.467231
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "description": "Bonn.social ist eine Mastodon-Instanz für Bonn und alle, die Bonn mögen.",
+            "name": "https://bonn.social/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.104034,
+              50.745146
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA"
+            },
+            "name": "https://brandenburg.social/",
+            "description": "Alles rund um, über, aus & für das Land Brandenburg "
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.245928,
+              52.845174
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://burnthis.town/",
+            "description": "Olá, somos a Cidade em Chamas. Mas tá tudo bem. Somos uma instância brasileira. Aqui são bem-vindes todas as pessoas que não reproduzam discurso de ódio, racismo, lgtbfobia, machismo, misoginia."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -53.173828,
+              -9.535749
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://chilemasto.casa/",
+            "description": "Chilemasto busca ser una instancia acogedora para gente chilena, pero gente de cualquier nacionalidad puede unirse. Se busca ser un espacio más sano y agradable que la de las redes sociales mainstream."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -71.323242,
+              -31.645965
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://cityofchicago.live/explore",
+            "description": "A place for communities in and around Chicago, IL or people who plan to visit!"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -87.62146,
+              41.902277
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "Willkommen in der digitalen Darmstädter Nachbarschaft aus dem Rhein-Main-Gebiet - komm doch mal auf einen Kaffee vorbei!",
+            "name": "https://darmstadt.social/",
+            "_umap_options": {
+              "iconClass": "Ball",
+              "color": "#563ACC"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              8.65448,
+              49.882247
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://dizl.de/",
+            "description": "dizl.de is a small Mastodon instance. We provide a small community space - Be excellent to each other, and have a look at what that means around here. The primary instance languages are German and English.",
+            "_umap_options": {
+              "color": "#563ACC",
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.469971,
+              51.252461
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://dresden.network",
+            "description": "Für alle aus Dresden und Umgebung, aber dennoch offen für alle Leute (über 16), die sich mit Dresden identifizieren oder es einfach lieben",
+            "_umap_options": {
+              "iconClass": "Ball"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.738446,
+              51.049475
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://est.social/",
+            "description": "est.social on mõeldud Eestis üldkasutatavaks Mastodoni serveriks. est.social is meant to be a general use Mastodon server for Estonia."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              25.3125,
+              58.859224
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://fedi.at/",
+            "description": "Der Fediverse Server für Österreich.",
+            "_umap_options": {
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.732666,
+              47.606163
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://fikaverse.club/",
+            "description": "Det här är en instans för talare av skandinaviska språk. Välkommen! ",
+            "_umap_options": {
+              "color": "#563ACC"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.239258,
+              57.903174
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "description": "Willkommen bei der Frankfurter Mastodon-Instanz! Sie soll wie Frankfurt sein: Im Herzen von Europa, offen, bunt und mit klarer Kante gegen Rassisums, Sexismus, Homophobie und Transphobie.",
+            "name": "https://frankfurt.social/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              8.670959,
+              50.129382
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball",
+              "color": "#858AFA"
+            },
+            "description": "A mastodon server for Freiburg and the surrounding area operated by the association freiburg.social e.V.",
+            "name": "https://freiburg.social/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.838745,
+              48.016568
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://fribygda.no",
+            "description": "Fribygda er ei anarkistisk/venstrelibertariansk bygd ute i fødiverset. Et lite koselig sted for fritt uttrykk, fri utfoldelse og trygge omgivelser."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              5.326996,
+              60.405037
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://fsmi.social/",
+            "description": "A decentralised and no-surveillance social media network by Free Software Movement of India"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              78.574219,
+              23.725012
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://fuerstentum.social",
+            "description": "Eine Fediverse-Instanz aus & für das Fürstentum Liechtenstein",
+            "_umap_options": {
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.559479,
+              47.134155
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "name": "https://fulda.social/",
+            "description": "Öffentliche Mastodon Instanz von dasnetzundich.de"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.676552,
+              50.555761
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://gib.social/",
+            "description": "Are you in Gibraltar looking to join Mastodon? Then Gib Social is the place to sign up, a safe, friendly gateway into Mastodon based right here on the Rock."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -5.355835,
+              36.144529
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://glasgow.social",
+            "description": "A place for communities in and around Glasgow, Scotland",
+            "_umap_options": {
+              "iconClass": "Ball"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -4.248962,
+              55.871459
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://gomastodon.cz/",
+            "description": "Mastodon je celosvetová sociální sít podobná známému Twitteru. Tato sít je však plne decentralizovaná a hlavne: vaše data zustávají vaše. Na tomto serveru mají uživatelé plnou svobodu nad tím, co publikují. Je však potreba pamatovat na to, že s tím prichází i velká zodpovednost. Proto, prosím, neporušujte zákony Ceské Republiky a chovejte se slušne."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.249023,
+              49.866317
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://graz.social/",
+            "description": "Mastodon ist ein freies, dezentrales soziales Netzwerk. Diese Instanz hat einen Fokus auf den Grazer Raum und Österreich. Jedoch sind alle willkommen!",
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.438538,
+              47.071233
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://halifaxsocial.ca/",
+            "description": "Halifax Social is a place for Haligonians, past, present to hang out, share info and resources, and socialize in an inclusive welcoming environment. Abuse will not be tolerated."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -63.859146,
+              44.725443
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Default",
+              "color": "#563ACC"
+            },
+            "name": "https://hessen.social/",
+            "description": "hessen.social is the mastodon community for all Hessians and those who feel connected to Hesse Learn"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.030762,
+              50.708634
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "Ein Mastodon Server für und von Menschen aus der Uckermark.",
+            "name": "https://hub.uckermark.social/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.862,
+              53.322015
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://jawns.club/",
+            "description": "Welcome to the first mastodon based community for Philadelphians who ❤️Philadelphia! Think of this instance as a new neighborhood in Philly that anyone can be a part of, because it's online."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -75.163651,
+              39.954096
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://kcmo.social",
+            "description": "Hey Kansas City, be friendly!",
+            "_umap_options": {
+              "iconClass": "Ball"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -94.600525,
+              39.126864
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://kopiti.am/",
+            "description": "A local instance for Singaporeans to connect from and to build a local community that also participates in the greater Fediverse"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              103.820801,
+              1.381397
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://koyu.space/",
+            "description": "Leonie's space on the fediverse."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.129395,
+              54.354956
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "description": "Servidor chileno de Mastodon cuyo nombre hace referencia a un ave nativa del país. Aspiramos a ser una comunidad acogedora y respetuosa de la privacidad de nuestros usuarios.",
+            "name": "https://lile.cl/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -72.597656,
+              -37.300275
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://links.potsda.mn/",
+            "description": "Links.potsda.mn is a federated social network for Potsdam's Left. Links.potsda.mn ist ein föderiertes soziales Netzwerk für Potsdams Linke."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.051758,
+              52.425873
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "Machteburch.social ist eine Mastodon-Gemeinschaft für Magdeburg und alle, die Magdeburg mögen",
+            "name": "https://machteburch.social",
+            "_umap_options": {
+              "color": "#563ACC"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.639521,
+              52.131763
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "description": "???Mastodon???????????:-)",
+            "name": "https://mao.mastodonhub.com/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              114.246826,
+              22.299261
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://masto.pt/",
+            "description": "Mastodon é uma rede social baseada em protocolos abertos da web e software livre e gratuito. É descentralizado como e-mail."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -7.44873,
+              40.178873
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://mastodon-belgium.be/",
+            "description": "This server is provided free of charge to all Mastodon users but aims specifically at users in Belgium. If you really want to donate: paypal @ mastodon-belgium dot be is our official account. At this time we are not actively seeking sponsorship. Sponsoring will NOT give you any benefits or special treatment. Don't say we didn't warn you.",
+            "_umap_options": {
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              4.658203,
+              50.680797
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "name": "https://mastodon.acc.sunet.se/",
+            "description": "Academic Computer Club Umeå University"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              19.907227,
+              63.947025
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.au/",
+            "description": "Australia's premiere and completely independent Mastodon community."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              136.40625,
+              -24.20689
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://mastodon.bachgau.social",
+            "description": "This server is located in the Bachgau, a region in the Bavarian Untermain, between Aschaffenburg and Frankfurt. We would like to invite all people from the space and beyond to become a part of our community. "
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.07196,
+              49.930008
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Default"
+            },
+            "name": "https://mastodon.bayern/",
+            "description": "Dies ist eine öffentliche Mastodon Instanz für alle, die gerne mal ein neues soziales Netzwerk probieren wollen. Es ist absolut kostenlos und werbefrei. Diese Instanz ist hauptsächlich für Personen in Bayern gedacht, aber es ist grundsätzlich jeder willkommen. Beachtet aber, dass der Großteil der Beiträge hier deutsch ist."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.402457,
+              48.946617
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://mastodon.berlin/",
+            "description": "Erste Instanz, wenn dir Berliner Luft nicht reicht...!"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.355255,
+              52.532932
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "name": "https://mastodon.bida.im/",
+            "description": "Un'istanza mastodon antifascista prevalentemente italofona con base a Bologna"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.344757,
+              44.507279
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.com.py/",
+            "description": "Primer servidor federado de Mastodon en Paraguay"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -58.447266,
+              -22.512557
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.com.tr/",
+            "description": "mastodon.com.tr, genel amaçlı ilk Türkçe Mastodon sunucusudur."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              34.804688,
+              39.095963
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.cr/",
+            "description": "Servidor de Mastodon para gente de Costa Rica. Espacio seguro libre de discursos de odio, homofobia, transfobia y racismo."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.111328,
+              10.487812
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://mastodon.elte.hu/",
+            "description": "ELTE-seknek tudományról, művészetről, szakmáról, hobbiról, egyetemi életről...\nFor ELTE university people on science, art, profession, hobby, university life..."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              19.057803,
+              47.491007
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://mastodon.eus",
+            "description": "mastodon.eus euskararen eta euskal kulturaren komunitatearentzat sortutako Mastodon sare sozialeko euskarazko instantzia bat da.",
+            "_umap_options": {
+              "color": "#563ACC"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -2.554321,
+              43.068888
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Default"
+            },
+            "name": "https://mastodon.fedi.bzh/",
+            "description": "Bienvenue sur l’instance Mastodon e Brezhoneg ! Cette instance inclusive rassemble des personnes qui parlent breton, gallo, ou bien qui sont sensibles à la promotion de ces deux langues."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.67872,
+              48.110454
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.fo/",
+            "description": "Vælkomin í Føroyska útjaðaran av miðspjadda sosiala miðlinum, Mastodon."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -7.009277,
+              62.0936
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://mastodon.free-solutions.org/",
+            "description": "Free Solutions Sàrl🇨🇭 MASTODON Bienvenue sur notre instance aux 🇨🇭🇫🇷🇧🇪 et francophones inscriptions libres et immédiates Thèmes : Sujets Suisse, Logiciels LIBRES, Fédiverse & Technologie",
+            "_umap_options": {
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              8.371582,
+              46.845164
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "name": "https://mastodon.gougere.fr/",
+            "description": "Vous vous trouvez sur l'instance Mastodon de Gougère, un réseau informatique géré sur notre temps libre. L'instance est maintenue par @papaeng89 et @yapret.\n\nLe serveur se trouve dans le datacenter Auxerrois de Virtua Networks, et utilise la bande passante de SCANI."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              3.577445,
+              47.79849
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://mastodon.green/",
+            "description": "Mastodon.green is a general purpose server for the EU region. It is not focused on any particular niche interest so it's a good place to start with Mastodon.",
+            "_umap_options": {
+              "color": "#563ACC",
+              "iconClass": "Circle"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.008545,
+              50.930738
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://mastodon.grin.hu/",
+            "description": "This is a small Hungarian instance, run by grin, who operates a lot of open technology servers.",
+            "_umap_options": {
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              19.522705,
+              47.227029
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://mastodon.hr/",
+            "description": "Dobrodošli na Mastodon Hrvatska Mastodon Hrvatska, sličan Twitter-u ali punooooo bolji!",
+            "_umap_options": {
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.031003,
+              45.607889
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#563ACC",
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.ie/",
+            "description": "Irish Mastodon"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -7.998047,
+              52.988337
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.in.th/",
+            "description": "Mastodon Thailand ??????????????????????????????????????????? ????????????????????"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              100.810547,
+              15.284185
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "name": "https://mastodon.madrid/",
+            "description": "Pongamos que hablamos de Madrid."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -3.966064,
+              40.530502
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.me.uk/",
+            "description": "Open social media for the UK"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -2.263184,
+              54.826008
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.mg/",
+            "description": "Le réseau social de l'avenir : Pas d'annonces, pas de surveillance institutionnelle, conception éthique et décentralisation !"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              46.450195,
+              -18.771207
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconUrl": "/uploads/pictogram/monument-24_1.png",
+              "iconClass": "Ball",
+              "color": "#858AFA"
+            },
+            "name": "https://mastodon.mit.edu/",
+            "description": "MIT - Massachusetts Institute of Technology"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -71.096708,
+              42.358219
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "description": "??????? ???? ?????????? ???? \"?????????\", ????? Fediverse - ????????? ????????? ?????????? ?????. ???? ???????, ????????? ?? ??????? ? ????????, ?????? ? ? ??????.",
+            "name": "https://mastodon.ml/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              97.910156,
+              65.366837
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.nl",
+            "description": "De huisregels van mastodon.nl:\n\ngeen links of referenties naar racistische, hatelijke of offensieve content (uiteindelijke beslissing door de admin)\ner wordt specifiek gelet op accounts en toots die nodeloos ongefundeerd zijn (o.a. anti-vaxx, conspiracy etc.) - dergelijke uitlatingen of accounts kunnen zonder overleg worden verwijderd - mocht je dat niet wensen dan is het wellicht goed een account aan te maken op een andere instance of je eigen instance te beginnen.\ngeen dingen die in Nederland illegaal zijn\ngeen reclame en spam\nheb respect voor elkaar\nverberg gevoelige teksten en media wanneer daar aanleiding voor is (zie CW en oogje)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              5.632854,
+              52.243069
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.nu/",
+            "description": "Det här är en öppen och vänlig server i första hand till för svenskar och de nordiska länderna. Den drivs ideellt men på ett professionellt sätt och med 100% förnybar energi."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.853516,
+              59.78958
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#563ACC",
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.nz/",
+            "description": "A Mastodon instance hosted in New Zealand. Made for kiwis and honorary kiwis home and abroad! Monthly image by @Writagal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              172.705078,
+              -40.979898
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.nzoss.nz/",
+            "description": "We ask that all users are aware of - and adhere to - the New Zealand Open Source Society Code of Conduct"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              175.517578,
+              -39.402244
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.opencloud.lu/",
+            "description": "A Mastodon instance for Luxembourg and beyond."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              5.976563,
+              49.908787
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#563ACC",
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.org.uk/",
+            "description": "General purpose mastodon instance"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -4.526367,
+              54.838664
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://mastodon.scot",
+            "description": "A community primarily intended for (but not limited to) people in Scotland or who identify as Scottish.",
+            "_umap_options": {
+              "iconClass": "Drop",
+              "color": "#563ACC"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -4.416504,
+              56.758746
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://mastodon.se",
+            "description": "Mastodon instance aimed at Swedish users",
+            "_umap_options": {
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.084473,
+              59.78958
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.sk/",
+            "description": "Mastodon je sociálna siet založená na otvorených webových protokoloch a na slobodnom softvéri. Je decentralizovaná, podobne ako email."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              19.440308,
+              48.767052
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.tn/",
+            "description": "Réseau social décentralisé propulsé par Mastodon."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.382324,
+              34.034453
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://mastodon.uno",
+            "description": "Benvenuto su Mastodon in italiano!\n\nMastodon.uno è il social italiano generalista, indipendente, etico, libero, gratuito, decentralizzato ed autogestito dalla propria community.\n\nE' la prima istanza generalista in lingua italiana che fa parte della federazione mastodon.",
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.612305,
+              42.747012
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodon.uy/",
+            "description": "La red social del futuro: ¡Sin anuncios, sin vigilancia corporativa, diseño ético, y descentralización! ¡Sé dueño de tu información con Mastodon!"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -56.030273,
+              -32.79102
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://mastodon.vlaanderen/",
+            "description": "De Vlaamse/Belgische Mastodon instance. This server does not revolve around a specific topic although it focuses on people who are geographically living in Belgium",
+            "_umap_options": {
+              "iconClass": "Default"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              3.944092,
+              51.020666
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://mastodonapp.uk/",
+            "description": "UK Hosted and Managed Mastodon Instance. General communal space for discussion, everyone welcome!",
+            "_umap_options": {
+              "color": "#563ACC",
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -3.405762,
+              54.826008
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodonczech.cz/",
+            "description": "Mastodon pro českou komunitu"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.666504,
+              49.873398
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://mastodont.cat",
+            "description": "Community dedicated to Catalan language and culture"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.768799,
+              41.8941
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://mastodontti.fi",
+            "description": "This is a Finnish language Mastodon instance. Everyone is free to join, but public toots should be in Finnish. Registrations require preapproval. Please indicate that you have read and understood the rules in your message. "
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              25.927734,
+              63.361982
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "name": "https://mastodos.com/",
+            "description": "???????????????????????????????????????SNS????????????????????????????????????! Mastodos is a SNS for Kyoto residents, workers, students, people interested in Kyoto, Japan. The topic is not limited to Kyoto. Registration of those interested in Mastodon is also welcome!"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              135.769043,
+              35.065973
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "description": "The goal of metu.life is to offer a social and chill online campus experience for METU members. This server is hosted by Free Software Society. ",
+            "name": "https://metu.life/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              32.806978,
+              39.912024
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://mstdn.ca/",
+            "description": "A Mastodon instance run by Canadians for Canadians hosted in Canada.",
+            "_umap_options": {
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -108.061523,
+              61.164437
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://mstdn.es/",
+            "description": "A free and federated social network for the Spanish community - and everyone else, too!"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -4.768066,
+              39.470125
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://mstdn.id/",
+            "description": "Server Mastodon di Nusantara"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              117.905273,
+              -2.196727
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "description": "Mastodon?????. ?????????????",
+            "name": "https://mstdn.jp/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              139.306641,
+              36.844461
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://mstdn.mx/",
+            "description": "El primer servidor de Mastodon Mexicano, desde Abr 2017. Aquí hablamos de tecnología, literatura, ciencia, cultura, música, anime, series, películas, el acontecer diario y lo que te nazca del corazón"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -101.865234,
+              24.527135
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://mstdn.ro/",
+            "_umap_options": {
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              24.785156,
+              46.13417
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://muenchen.social",
+            "description": "Hallo auf muenchen.social Dies ist eine deutschsprachige Mastodon Instanz für München zum tröten, neue Leute kennenlernen, sich auszutauschen und Spass zu haben. +++ Bitte beachtet, dass derzeitig keine Neuregistrierungen mit gmail.com Adressen angenommen werden. +++",
+            "_umap_options": {
+              "iconClass": "Ball"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.575856,
+              48.138442
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://muenster.im/",
+            "description": "Dieser Mastodon Server ist hauptsächlich für Menschen aus Münster, solche, die sich mit Münster verbunden fühlen, Münster mögen oder Münster verbessern möchten. Natürlich kann sich aber jedes Wesen hier anmelden."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.621486,
+              51.962435
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "name": "https://nahe.social/",
+            "description": "Eine Mastodon-Instanz für die Naheregion. Frei von Werbung, mit chronologischem Feed, kein Tracking. Gemacht von Menschen für Menschen."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.863379,
+              49.843642
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://netzkms.de",
+            "description": "NetzKMS.de ist eine Mastodon-Instanz aus und für Chemnitz."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.925415,
+              50.849307
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "Eine Gemeinschaft für Nordlichter, Schnacker und was sonst noch so aus dem Norden kommt",
+            "name": "https://norden.social",
+            "_umap_options": {
+              "color": "#858AFA"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              8.804443,
+              53.095468
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "description": "Nørrebro.space er et hyggeligt sted på nettet - uden reklamer eller unødvendig sporing. Ligesom virkelighedens Nørrebro, er alle velkomne her. ?????? Nørrebro.space er et etisk socialt medie - fordi vi kan.",
+            "name": "https://norrebro.space/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.316162,
+              55.714735
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "Wir sind eine freundliche Mastodon Instanz aus Nordrhein-Westfalen. Ob NRW'ler oder NRW-Sympathifanten, jeder ist hier willkommen.",
+            "name": "https://nrw.social/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.553229,
+              51.479071
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://nuernberg.social/",
+            "description": "nuernberg.social ist Teil des dezentralen sozialen Netzwerks, das von Mastodon betrieben wird."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.077223,
+              49.454512
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://nwb.social/",
+            "description": "New West Brabant is a collective of entrepreneurs and citizens for a new, different way of living together.",
+            "_umap_options": {
+              "iconClass": "Default"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              4.447403,
+              51.329754
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://occitania.social/",
+            "description": "Servidor creat tà aufrir as occitans a amics un espaci pròpri en hilat sociau de Mastodon. Eth hilat sociau deth futur, sense publicitat, hèt pes joeni, tàs joeni damb un servidor de proximitat."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              0.799255,
+              42.718768
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA"
+            },
+            "name": "https://oceanplayground.social/",
+            "description": "This server is operated by Matthew Scheffel, a resident of Amherst, Nova Scotia.\n\nIts purpose is to provide a local base for Nova Scotia and Atlantic Canada, so that our \"Local\" feed is actually \"Local\"!"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -63.1604,
+              45.251688
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://ooe.social/",
+            "description": "Dies hier ist die Oberösterreichische Instanz des dezentralen Netzwerks Mastodon."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.286175,
+              48.306776
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "Et hjem på nett for borgere av Oslo, Norge ???? men et vindu til verden.",
+            "name": "https://oslo.town",
+            "_umap_options": {
+              "iconClass": "Ball"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.673218,
+              59.92199
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA"
+            },
+            "description": "Das soziale Netzwerk für Osnabrück: Keine Werbung, keine Unternehmensüberwachung und ethisches Design. Lokal und trotzdem mit der ganzen Welt verknüpft.",
+            "name": "https://osna.social/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              8.050253,
+              52.266529
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "Awwer annerschtwo is annerscht, und halt net wie in de Palz. Mastodon für die Pfalz!",
+            "name": "https://pfalz.social/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.307281,
+              49.968889
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "Piaille.fr est un serveur mastodon public francophone accessible à toutes et à tous.",
+            "name": "https://piaille.fr/",
+            "_umap_options": {
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.867676,
+              46.709736
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://planet.moe/",
+            "description": "서브컬쳐 향유자들을 위한 한국어 마스토돈 인스턴스, 플래닛이에요."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              127.705078,
+              36.879621
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://pleroma.pt/",
+            "description": "Uma forma de aderir ao Fediverse. De fazer parte de uma comunidade descentralizada e reclamar a liberdade de expressão e privacidade nas redes sociais."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -8.415527,
+              40.178873
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://ploen.social/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.839086,
+              49.58249
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://ploen.social/",
+            "description": "Diese Mastodon Instanz ist für Personen aus dem Kreis Plön und umliegender Umgebung gedacht, jedoch sind alle willkommen. Die Instanz wird in Deutschland in einen Rechenzentrum mit 100% erneuerbaren Energien betrieben."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.401993,
+              54.246372
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://pol.social/",
+            "description": "Serwer głównie dla użytkowników polskojęzycznych.",
+            "_umap_options": {
+              "color": "#563ACC",
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              19.14917,
+              52.268157
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://ruhr.social",
+            "description": "Gemeinschaft für das Ruhrgebiet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.144482,
+              51.517569
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "name": "https://rva.party/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -77.433894,
+              37.538946
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA"
+            },
+            "name": "https://sasa.africa/",
+            "description": "The social network of the future: No ads, no corporate surveillance, ethical design, and decentralization! Own your data with Mastodon!"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              18.28125,
+              12.039321
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://sbg-social.at/",
+            "description": "Der Mastodon Server für all jene die sich mit Salzburg verbunden fühlen."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.248138,
+              47.427158
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://sfba.social",
+            "description": "Regional community for the San Francisco Bay Area",
+            "_umap_options": {
+              "iconClass": "Ball"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.308179,
+              37.797435
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "Nós somos um coletivo que fornece espaço a outros coletivos na internet, para debater, partilhar, conversar, mail e uma rede social! Queremos um espaço na internet onde sejamos soberanos dos nossos dados e das nossas redes, sendo a confiança criada através de de provas de cooperação.",
+            "name": "https://snabelen.no/",
+            "_umap_options": {
+              "color": "#563ACC",
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.074707,
+              60.619324
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://soc.catala.digital/",
+            "description": "Servidor social Mastodon, per a tothom."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.307373,
+              41.8941
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "description": "social.cologne is eine Mastodon Instanz für jede:n Kölner:in und alle, die sich mit Köln verbunden fühlen.\n",
+            "name": "https://social.cologne/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              6.961212,
+              50.946748
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "description": "Social.Net.Ua ? ???????? ????????/????????, ??? ??? ??????, ????????, ?????????????, ?????????? ?? ????????????? ???????????. ?????? ?????? ?? ?????? ??????????",
+            "name": "https://social.net.ua/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              31.245117,
+              49.639177
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA"
+            },
+            "name": "https://social.saarland/",
+            "description": "Mastodon Instanz rund um das #Saarland. Gemacht von Saarländern für Saarländer/innen."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              6.987305,
+              49.510944
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "description": "An instance for people who live in or around Seattle. Also for people who don't live in or around Seattle, but want to talk about Seattle-related things. Almost all applications are accepted. We aim to review all applications within a few hours of submission, but give us 24 hours before getting in touch other ways. Due to spam we sometimes close applications. Send us an email and we can open them up right away.",
+            "name": "https://social.seattle.wa.us/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -122.329159,
+              47.603877
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "name": "https://social.tulsa.ok.us/",
+            "description": "Federated social networking for northeast Oklahoma."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -95.987549,
+              36.204391
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "name": "https://socialclub.nyc/",
+            "description": "Social Club is a New York City-based Mastodon server."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -74.004593,
+              40.721242
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "Eine Community für alle, die sich dem Süden hingezogen fühlen. Wir können alles außer Hochdeutsch.",
+            "name": "https://sueden.social"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.26329,
+              49.011303
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://tea.codes/",
+            "description": "茶码： 结庐在人境，而无车马喧 了解详情"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              114.079285,
+              22.301803
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "description": "Supporting the greater Dayton, Ohio community",
+            "name": "https://thegem.city/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.192078,
+              39.77888
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://tooot.im/",
+            "description": "Tooot.im, a Mastodon instance (He | En mostly) רשת מסטודון עברית | חופשית משיקולים תאגידיים | פדרטיבית עם הFediverse"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              34.870605,
+              30.977609
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA"
+            },
+            "name": "https://toot.aquilenet.fr/",
+            "description": "Aquilenet, fournisseur d'accès à Internet associatif, local et militant en Aquitaine vous accueille sur son instance Mastodon"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              0.371969,
+              45.404296
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "Toot.si je slovenska vecjezicna Mastodon instanca",
+            "name": "https://toot.si",
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              14.47998,
+              45.85021
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://toot.wales",
+            "description": "Tŵt is the Mastodon social network for Wales and the Welsh, at home and abroad, y rhwydwaith cymdeithasol annibynnol i Gymru. \n\nWe are a community-run non-profit founded in 2018. We do not sell your data and we do not accept paid advertising. Dim cloddio data, dim hysbysebion twp. Dy Gymru, dy lais, ymuna heddiw!",
+            "_umap_options": {
+              "iconClass": "Drop",
+              "color": "#563ACC"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -3.526611,
+              52.284962
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://tooting.ch",
+            "description": "Generic Mastodon instance hosted by the FairSocialNet association.",
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              7.844238,
+              46.83765
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA"
+            },
+            "description": "Mastodon instance focused on the Triangle region of North Carolina",
+            "name": "https://triangletoot.party/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -78.876686,
+              35.904068
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://troet.cafe/",
+            "description": "Hello at troet.cafe. This is a German-speaking Mastodon instance to horn, meet new people, exchange ideas and have fun. +++ Please note that no new registrations with gmail.com, hotmail.com, yahoo.com and outlook.com addresses are currently accepted. +++ If you don't have another e-mail address, please let someone you know invite you, or send me an e-mail asking for an invitation. I'll send you an invite link.",
+            "_umap_options": {
+              "color": "#563ACC",
+              "iconClass": "Drop"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.92041,
+              51.248163
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA"
+            },
+            "name": "https://tukkers.online/",
+            "description": "Dit is een sociaal netwerk voor tukkers! Maar dan zonder advertenties, zonder algoritme voor je tijdlijn en zonder dat je data verkocht wordt :)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              6.793649,
+              52.325491
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://tw.town",
+            "description": "tw.town is a Tumbleweird community for E-WA weirdos."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -118.509521,
+              47.465236
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://tyrol.social/",
+            "description": "Die Social Media Plattform für Tirol und allen Menschen, die sich in den Alpen wohlfühlen."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.524658,
+              47.23076
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://vermont.masto.host",
+            "description": "A Mastodon instance for Vermonters or Vermonters at heart."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -72.501526,
+              44.60709
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://voi.social/",
+            "description": "voi.social ist ein soziales Netzwerk fia di und mi. Ohne Spionage und ohne die Absicht, eine Mauer zu bauen. Willkommen!"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.930664,
+              47.620975
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Ball"
+            },
+            "name": "https://wien.rocks",
+            "description": "Fediverse/Mastodon Instanz für und aus Wien."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              16.364136,
+              48.246626
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Ball"
+            },
+            "name": "https://wue.social/",
+            "description": "Auf WUE.SOCIAL soll ein freies soziales Netzwerk für Würzburg und Umgebung angeboten werden. Diese Mastodon-Instanz ist privat geführt und nicht-kommerziell."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.933186,
+              49.79189
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "Otro nodo más de Mastodon con el objetivo de agrupar colectivos sociales.\n\nNo guardamos tus datos. No guardamos logs.",
+            "name": "https://Xarxa.cloud"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              1.428223,
+              42.31997
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#858AFA",
+              "iconClass": "Drop"
+            },
+            "name": "https://xn--69aa8bzb.xn--y9a3aq/",
+            "description": "Mastodon Armenia"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.659424,
+              40.793019
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://xn--lofll-1sat.is/",
+            "description": "loðfíll.is, íslenski mastodon vefþjónninn. Öll velkomin!"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -18.127441,
+              65.053602
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "https://yorkshire.social/",
+            "description": "Yorkshire Social is a regional Mastodon server for the people of Yorkshire."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.082153,
+              53.975474
+            ]
+          }
+        }
+      ],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "Mastodon Near Me",
+        "id": 2486477,
+        "remoteData": {},
+        "type": "Default",
+        "heat": {},
+        "cluster": {
+          "radius": 80
+        },
+        "description": "Mastodon service providers",
+        "iconUrl": "https://joinmastodon.org/favicon-32x32.png",
+        "color": "#858AFA"
+      }
+    }
+  ]
+}
