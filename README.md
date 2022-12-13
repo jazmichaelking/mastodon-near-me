@@ -40,7 +40,6 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://augsburg.social/ | Augsburg, Germany | ------------- |
 | https://aus.social/ | Australia | ------------- |
 | https://aut.social | Austria | ------------- |
-| https://austin.community/ | Austin, Texas, USA | (removed/dead?) |
 | https://balkan.fedive.rs/ | Western Balkans | ------------- |
 | https://barcelona.social/ | Barcelona, Spain | ------------- |
 | https://bath.social/ | Bath, UK | ------------- |
