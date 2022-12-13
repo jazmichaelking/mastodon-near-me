@@ -186,6 +186,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://tukkers.online/ | Twente, Germany | ------------- |
 | https://tyrol.social | Tyrol, Austria | ------------- | 
 | https://tw.town | Eastern Washington, USA | ------------- |
+| https://vermont.masto.host | Vermont, USA | ------------- |
 | https://voi.social/ | Austria | ------------- |
 | https://wien.rocks | Vienna, Austria | ------------- |
 | https://wue.social/ | Würzburg, Germany | ------------- |
