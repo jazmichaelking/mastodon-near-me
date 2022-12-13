@@ -1,6 +1,9 @@
 # mastodon-near-me
 A visual map of active community Mastodon or compatible providers that operate primarily in or are targeted to a locality, region, city, or language.
 
+ ## Map 
+The interactive map of the available servers is maintained at https://mastodon-near.me
+
 ## Purpose 
 Onboarding to Mastodon requires a judgement call about which server to join and can cause confusion. The map is intended to showcase existing local service providers with a built-in local membership as a way to inspire confidence in the choice of server.
 
@@ -20,11 +23,8 @@ To be included on the map the service must be:
 
 Please note: this service is intended to help a specific portion of the Mastodon-curious find a functional, reasonably well-populated server local to to them. Due to the recent (Nov 2022) interest in Mastodon, many new servers are coming online (a good thing!) and hoping this map will help advertise them (not so good). We are not an ad service, we are a guide for the lost. To that end:
 
- - Servers that are very new with unclear geographic context or very few members will be politely excluded for now. An exception is if you are serving a specific town or city, you have more than 50 members, and your server description clearly describes the town or city being served.
+ - Servers that are very new with unclear geographic context or very few members will be politely excluded for now. An exception is if you are serving a specific town or city, you have more than 50 members, and your server description clearly describes the town or city being served. A separate register of regional servers is available at https://masto.town/
  
- ## Map 
-The interactive map of the available servers is maintained at https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094
-
 ## Contributing
 Open an Issue with the add, remove or edit. If adding, please add the relevant geo target and/or language.
 
