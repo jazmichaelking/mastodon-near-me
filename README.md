@@ -178,7 +178,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://thegem.city/ | Dayton, Ohio, USA | ------------- |
 | https://the.vermonters.club/ | Vermont, USA | ------------- |
 | https://toot.aquilenet.fr | Aquitaine, France | ------------- |
-| https://tooot.im/ | Israel | ???????? (Hebrew) |
+| https://tooot.im/ | Israel | עִברִית (Hebrew) |
 | https://toot.si/ | Slovenia | ------------- |
 | https://toot.wales/ | Wales | Cymraeg (Welsh) |
 | https://tooting.ch/ | Switzerland | ------------- |
