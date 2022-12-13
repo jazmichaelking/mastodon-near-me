@@ -2,7 +2,7 @@
 A visual map of active community Mastodon or compatible providers that operate primarily in or are targeted to a locality, region, city, or language.
 
  ## Map 
-The interactive map of the available servers is maintained at https://mastodon-near.me
+The interactive map of the available servers is maintained at http://mastodon-near.me
 
 ## Purpose 
 Onboarding to Mastodon requires a judgement call about which server to join and can cause confusion. The map is intended to showcase existing local service providers with a built-in local membership as a way to inspire confidence in the choice of server.
