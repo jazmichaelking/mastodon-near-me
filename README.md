@@ -179,7 +179,6 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://the.vermonters.club/ | Vermont, USA | ------------- |
 | https://toot.aquilenet.fr | Aquitaine, France | ------------- |
 | https://tooot.im/ | Israel | ???????? (Hebrew) |
-| https://toot.koeln/ | Cologne, Germany | (removed/dead?) |
 | https://toot.si/ | Slovenia | ------------- |
 | https://toot.wales/ | Wales | Cymraeg (Welsh) |
 | https://tooting.ch/ | Switzerland | ------------- |
