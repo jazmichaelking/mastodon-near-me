@@ -100,6 +100,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.fedi.quebec/ | Quebec, Candada | (removed/dead?) |
 | https://mastodon.gougere.fr/ | Auxerre, France | ------------- |
 | https://mastodon.hr/ | Croatia | ------------- |
+| https://mastodon.iow.social/ | Isle of Wight, UK | ------------- |
 | https://mastodon.fo/ | Faroe Islands | ------------- |
 | https://mastodon.free-solutions.org/ | Switzerland | French |
 | https://mastodon.grin.hu | Hungary | ------------- |
