@@ -179,6 +179,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://socialclub.nyc/ | New York City, New York, USA | ------------- |
 | https://sueden.social/ | Southern Germany | ------------- |
 | https://tea.codes/ | Hong Kong & Mainland China | ------------- |
+| HTTPS://theatl.social | Atlanta, Georgia, USA | ------------- |
 | https://thegem.city/ | Dayton, Ohio, USA | ------------- |
 | https://toot.aquilenet.fr | Aquitaine, France | ------------- |
 | https://tooot.im/ | Israel | עִברִית (Hebrew) |
