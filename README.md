@@ -64,6 +64,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://fsmi.social/ | India | ------------- |
 | https://fuerstentum.social | Liechtenstein | ------------- |
 | https://fulda.social/ | Fulda, Germany | ------------- |
+| https://gardenstate.social/ | New Jersey, USA | ------------- |
 | https://gib.social/ | Gibraltar | ------------- |
 | https://glasgow.social | Glasgow, Scotland | ------------- |
 | https://gomastodon.cz/ | Czechia | ------------- |
