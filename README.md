@@ -116,6 +116,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.ml/ | Russia | ------------- |
 | https://mastodon.nl/ | The Netherlands | ------------- |
 | https://mastodon.nu/ | Sweden | ------------- |
+| https://masto.nyc/ | New York City, New York, USA | ------------- |
 | https://mastodon.nz/ | New Zealand | ------------- |
 | https://mastodon.nzoss.nz/ | New Zealand | ------------- |
 | https://mastodon.ocf.berkeley.edu/ | University of California, Berkeley, California, USA | (removed/dead?) |
