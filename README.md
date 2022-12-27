@@ -164,6 +164,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://pleroma.pt/ | Portugal | ------------- |
 | https://ploen.social/ | Kreis Plön, Germany | ------------- |
 | https://pol.social/explore | Poland | ------------- |
+| https://rheinneckar.social| Metropolregion Rhein-Neckar, Germany | ------------- |
 | https://ruhr.social| The Ruhr, Germany | ------------- |
 | https://rva.party/ | Richmond, Virginia, USA | ------------- |
 | https://sasa.africa/ | Africa | ------------- |
