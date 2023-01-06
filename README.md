@@ -81,9 +81,10 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://links.potsda.mn/ | Potsdamn, Germany | ------------- |
 | https://xn--lofll-1sat.is/ | Iceland | ------------- |
 | https://machteburch.social/ | Magdeburg, Germany | ------------- |
+| https://malaga.social/ | Malaga, Spain | ------------- |
 | https://mamot.fr/ | France | (no new reg) |
 | https://mao.mastodonhub.com/ | Hong Kong | ------------- |
-| https://mstdn.ca/ | Canada | ------------- |
+| https://masr.social/ | Egypt | ------------- |
 | https://masto.donte.com.br/ | Brazil | (removed/dead?) |
 | https://masto.pt/ | Portugal | ------------- |
 | https://mastodon.acc.sunet.se/ | Umeå University, Sweden | ------------- |
@@ -128,15 +129,17 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.tn/ | Tunisia | ------------- |
 | https://mastodon.uno/ | Italy | ------------- |
 | https://mastodon.uy/ | Uruguay | ------------- |
-| https://mastodon-belgium.be/ | Belgium | Dutch, French, English, German |
 | https://mastodon.vlaanderen/ | Flanders | Dutch |
+| https://mastodon-belgium.be/ | Belgium | Dutch, French, English, German |
 | https://mastodonapp.uk/ | United Kingdom | ------------- |
+| https://mastodonindonesia.com/ | Indonesia | ------------- |
 | https://mastodont.cat/ | Catalonia | Català (Catalan) |
 | https://mastodontti.fi/ | Finland | ------------- |
 | https://mastodonczech.cz/ | Czechia | ------------- |
 | https://mastodos.com/ | Kyoto, Japan | ------------- |
 | https://metu.life/ | Middle East Technical University, Ankara, Turkey | ------------- |
 | https://mspsocial.net/ | Twin Cities, Minnesota, USA | (removed/dead?) |
+| https://mstdn.ca/ | Canada | ------------- |
 | https://mstdn.es/ | Spain | ------------- |
 | https://mstdn.id/ | Indonesia | ------------- |
 | https://mstdn.jp/ | Japan | ------------- |
@@ -191,10 +194,13 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://tukkers.online/ | Twente, Germany | ------------- |
 | https://tyrol.social/ | Tyrol, Austria | ------------- | 
 | https://tw.town/ | Eastern Washington, USA | ------------- |
+| https://twitteregypt.online/ | Egypt | ------------- |
+| https://vancity.social/ | Vancouver, Canada | ------------- |
 | https://vermont.masto.host/ | Vermont, USA | ------------- |
 | https://vkl.world/ | Belarus | ------------- |
 | https://voi.social/ | Austria | ------------- |
-| https://wien.rocks | Vienna, Austria | ------------- |
+| https://wien.rocks/ | Vienna, Austria | ------------- |
+| https://witter.cz/ | Czech Republic | ------------- |
 | https://wue.social/ | Würzburg, Germany | ------------- |
 | https://wroc.xyz/ | Wroclaw, Poland | (removed/dead?) |
 | https://Xarxa.cloud/ | Catalonia | Català (Catalan) |
