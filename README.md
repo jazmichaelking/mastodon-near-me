@@ -89,6 +89,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://masto.donte.com.br/ | Brazil | (removed/dead?) |
 | https://masto.pt/ | Portugal | ------------- |
 | https://mastodon.acc.sunet.se/ | Umeå University, Sweden | ------------- |
+| https://mastodon.akhepcat.com/ | Alaska, USA | ------------- |
 | https://mastodon.au/ | Australia | ------------- |
 | https://mastodon.babb.be/ | University of Oslo, Oslo, Norway | ------------- |
 | https://mastodon.bachgau.social/ | Bachgau Region, Germany | ------------- |
