@@ -57,6 +57,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://dizl.de/ | Germany | ------------- |
 | https://dresden.network/ | Dresden, Germany | ------------- |
 | https://est.social/ | Estonia | ------------- |
+| https://expressional.social/ | Copenhagen, Denmark | ------------- |
 | https://fedi.at | Austria |  ------------- |
 | https://fikaverse.club/ | Scandinavia | ------------- |
 | https://frankfurt.social/ | Frankfurt, Germany | ------------- |
@@ -89,6 +90,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://masto.pt/ | Portugal | ------------- |
 | https://mastodon.acc.sunet.se/ | Umeå University, Sweden | ------------- |
 | https://mastodon.au/ | Australia | ------------- |
+| https://mastodon.babb.be/ | University of Oslo, Oslo, Norway | ------------- |
 | https://mastodon.bachgau.social/ | Bachgau Region, Germany | ------------- |
 | https://mastodon.bayern/ | Bavaria, Germany | ------------- |
 | https://mastodon.berlin/ | Berlin, Germany | ------------- |
@@ -144,6 +146,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mstdn.id/ | Indonesia | ------------- |
 | https://mstdn.jp/ | Japan | ------------- |
 | https://mstdn.mx/ | Mexico | ------------- |
+| https://mstdn.my/ | Malaysia | ------------- |
 | https://mstdn.ro/ | Romania | ------------- |
 | https://muenchen.social/ | Muenchen, Germany | ------------- |
 | https://muenster.im/ | Münster, Germany | ------------- |
