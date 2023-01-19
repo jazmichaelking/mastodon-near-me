@@ -1,4 +1,4 @@
-# mastodon-near-me
+# Mastodon Near Me - Global Mastodon server list by country and region
 A visual map of active community Mastodon or compatible providers that operate primarily in or are targeted to a locality, region, city, or language.
 
  ## Map 
