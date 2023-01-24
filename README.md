@@ -1,11 +1,11 @@
 # Mastodon Near Me - Global Mastodon server list by country and region
-A visual map of active community Mastodon or compatible providers that operate primarily in or are targeted to a locality, region, city, or language.
+A visual map of active, stable community Mastodon or compatible providers that operate primarily in or are targeted to a locality, region, city, or language.
 
  ## Map 
 The interactive map of the available servers is maintained at http://mastodon-near.me
 
 ## Purpose 
-Onboarding to Mastodon requires a judgement call about which server to join and can cause confusion. The map is intended to showcase existing local service providers with a built-in local membership as a way to inspire confidence in the choice of server.
+Onboarding to Mastodon requires a judgement call about which server to join and can cause confusion. The map is intended to showcase existing local service providers with a built-in local membership and demonstrated content moderation as a way to inspire confidence in the choice of server.
 
 ## Inclusion Criteria 
 To be included on the map the service must be:
