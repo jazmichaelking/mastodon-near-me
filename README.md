@@ -157,6 +157,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://norrebro.space/ | Denmark | ------------- |
 | https://nrw.social/ | North Rhine-Westphalia, Germany | ------------- |
 | https://nuernberg.social/ | Nürnberg, Germany | German |
+| https://nutmeg.social | Connecticut, USA | ------------- |
 | https://nwb.social/ | Nieuw West Brabant, Netherlands | ------------- |
 | https://oberpfalz.social/ | Oberpfalz, Germany | (removed/dead?) |
 | https://occitania.social/ | Occitania | Occitan |
