@@ -162,6 +162,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://oberpfalz.social/ | Oberpfalz, Germany | (removed/dead?) |
 | https://occitania.social/ | Occitania | Occitan |
 | https://oceanplayground.social/ | Nova Scotia, Canada | ------------- |
+| https://okla.social/ | Oklahoma, USA | ------------- |
 | https://ooe.social/ | Linz, Austria | ------------- |
 | https://oslo.town/ | Oslo, Norway | ------------- |
 | https://osna.social/ | Osnabruck, Germany | ------------- |
