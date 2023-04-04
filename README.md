@@ -1,32 +1,29 @@
 # Mastodon Near Me - Global Mastodon server list by country and region
-A curated visual map of active, populated, stable Mastodon or compatible providers that operate primarily in or are targeted to a locality, region, city, or language.
+A curated map of active Mastodon service providers that operate primarily in or are targeted to a locality, region, city, country, or language.
 
  ## Map 
 The interactive map of the available servers is maintained at http://mastodon-near.me
 
+![image](https://user-images.githubusercontent.com/3419832/229815849-9370631a-e986-4090-a18e-be2d5a8ce608.png)
+
 ## Purpose 
-Onboarding to Mastodon requires a judgement call about which server to join and can cause confusion. The map is intended to showcase existing local service providers with a built-in local membership and demonstrated content moderation as a way to inspire confidence in the choice of server.
+Onboarding to Mastodon requires a decision about which server to join and can cause unnecessary friction. The map showcases service providers with a built-in local membership and demonstrated content moderation as a way to help choose a Mastodon server.
 
 ## Inclusion Criteria 
-To be included on the map the service must be:
  - Mastodon or a Mastodon fork (other ActivityPub services may become in scope at a later date),
- - Open for registration - this directory is to help people find a server to join, server must accept new members. Approval based service is fine,
- - Clearly intended (i.e. written in the server description) to serve a particular physical facility (e.g. university), neighbourhood, city, region or country; or a specific language or family of languages that can generally be thought of as being constrained to a particular locale or region,
- - HTTPS only
- - Reasonably well-populated (over 50 active members)
+ - Open for registration (including approval required),
+ - Clearly demonstrated intent to serve a particular facility (e.g. a university), neighbourhood, city, region or country; or a specific language or family of languages that can generally be thought of as being constrained to a particular locale or region or are minority/underserved languages,
+ - HTTPS only,
+ - Over 50 active members
  
  ## Exclusion Criteria
-  - Any server that clearly and overtly contravenes the Mastodon Server Covenant (https://joinmastodon.org/covenant).
-  -- please note, public signing of the Mastodon Server Convenant is not required for inclusion
-  - Any server that has any kind of membership fee or required donation.
+  - Any server that clearly and overtly contravenes the Mastodon Server Covenant https://joinmastodon.org/covenant (public signing of the Mastodon Server Convenant is not required for inclusion),
   - Any server that is consistently unreachable.
 
-Please note: this service is intended to help a specific portion of the Mastodon-curious find a functional, reasonably well-populated server local to to them. Due to the recent (Nov 2022) interest in Mastodon, many new servers are coming online (a good thing!) and hoping this map will help advertise them. We are not an ad service, we are a guide for the lost. To that end:
-
- - Servers that are very new with unclear geographic context or very few members will be politely excluded for now. An exception is if you are serving a specific town or city, you have more than 50 members, and your server description clearly describes the town or city being served. A separate register of regional servers is available at https://masto.town/
+A separate register of regional servers is available at https://masto.town/
  
 ## Contributing
-Open an Issue with the add, remove or edit. If adding, please add the relevant geo target and/or language.
+Open an Issue with the add, remove or edit.
 
 ## Data 
 (notable language support is shown where relevant)
@@ -77,16 +74,14 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://koyu.space/ | Kiel, Germany | ------------- |
 | https://kcmo.social/ | Kansas City, Missouri, USA | ------------- |
 | https://kopiti.am/ | Singapore | ------------- |
-| https://lancasterpa.social/ | Lancaster County, Pennsylvania, USA | (removed/dead?) |
 | https://lile.cl | Chile | ------------- |
 | https://links.potsda.mn/ | Potsdamn, Germany | ------------- |
 | https://xn--lofll-1sat.is/ | Iceland | ------------- |
 | https://machteburch.social/ | Magdeburg, Germany | ------------- |
 | https://malaga.social/ | Malaga, Spain | ------------- |
-| https://mamot.fr/ | France | (no new reg) |
+| https://mamot.fr/ | France | ------------- |
 | https://mao.mastodonhub.com/ | Hong Kong | ------------- |
 | https://masr.social/ | Egypt | ------------- |
-| https://masto.donte.com.br/ | Brazil | (removed/dead?) |
 | https://masto.pt/ | Portugal | ------------- |
 | https://mastodon.acc.sunet.se/ | Umeå University, Sweden | ------------- |
 | https://mastodon.akhepcat.com/ | Alaska, USA | ------------- |
@@ -96,23 +91,19 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.bayern/ | Bavaria, Germany | ------------- |
 | https://mastodon.berlin/ | Berlin, Germany | ------------- |
 | https://mastodon.bida.im/ | Bologna, Italy | ------------- |
-| https://mastodon.com.br/ | Brazil | (removed/dead?) |
 | https://mastodon.com.py/ | Paraguay | ------------- |
 | https://mastodon.com.tr/ | Turkey | ------------- |
 | https://mastodon.cr/ | Costa Rica | ------------- |
 | https://mastodon.eus/ | Basque Country | Euskara (Basque) |
 | https://mastodon.fedi.bzh/ | Rennes, France | Brezhoneg (Breton) |
-| https://mastodon.fedi.quebec/ | Quebec, Candada | (removed/dead?) |
 | https://mastodon.gougere.fr/ | Auxerre, France | ------------- |
 | https://mastodon.hr/ | Croatia | ------------- |
 | https://mastodon.iow.social/ | Isle of Wight, UK | ------------- |
 | https://mastodon.fo/ | Faroe Islands | ------------- |
 | https://mastodon.free-solutions.org/ | Switzerland | French |
 | https://mastodon.grin.hu | Hungary | ------------- |
-| https://mastodon.hovkluster.se/ | Sweden | (removed/dead?) |
 | https://mastodon.ie/ | Ireland | ------------- |
 | https://mastodon.in.th/ | Thailand | ------------- |
-| https://mastodon.lu/ | Luxembourg | (removed/dead?) |
 | https://mastodon.madrid/ | Madrid, Spain | ------------- |
 | https://mastodon.me.uk/ | United Kingdom | ------------- |
 | https://mastodon.mg/ | Madagascar | ------------- |
@@ -123,7 +114,6 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://masto.nyc/ | New York City, New York, USA | ------------- |
 | https://mastodon.nz/ | New Zealand | ------------- |
 | https://mastodon.nzoss.nz/ | New Zealand | ------------- |
-| https://mastodon.ocf.berkeley.edu/ | University of California, Berkeley, California, USA | (removed/dead?) |
 | https://mastodon.opencloud.lu/ | Luxembourg | ------------- |
 | https://mastodon.org.uk/ | United Kingdom | ------------- |
 | https://mastodon.scot/ | Scotland | ------------- |
@@ -141,7 +131,6 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodonczech.cz/ | Czechia | ------------- |
 | https://mastodos.com/ | Kyoto, Japan | ------------- |
 | https://metu.life/ | Middle East Technical University, Ankara, Turkey | ------------- |
-| https://mspsocial.net/ | Twin Cities, Minnesota, USA | (removed/dead?) |
 | https://mstdn.ca/ | Canada | ------------- |
 | https://mstdn.es/ | Spain | ------------- |
 | https://mstdn.id/ | Indonesia | ------------- |
@@ -159,14 +148,13 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://nuernberg.social/ | Nürnberg, Germany | German |
 | https://nutmeg.social | Connecticut, USA | ------------- |
 | https://nwb.social/ | Nieuw West Brabant, Netherlands | ------------- |
-| https://oberpfalz.social/ | Oberpfalz, Germany | (removed/dead?) |
 | https://occitania.social/ | Occitania | Occitan |
 | https://oceanplayground.social/ | Nova Scotia, Canada | ------------- |
 | https://okla.social/ | Oklahoma, USA | ------------- |
 | https://ooe.social/ | Linz, Austria | ------------- |
 | https://oslo.town/ | Oslo, Norway | ------------- |
 | https://osna.social/ | Osnabruck, Germany | ------------- |
-| https://pdx.social/ | Portland, Oregon, USA | no new reg |
+| https://pdx.social/ | Portland, Oregon, USA | ------------- |
 | https://pfalz.social/ | Pfalz Region, Germany | Palatine, German, English |
 | https://piaille.fr/ | France | ------------- |
 | https://planet.moe/ | South Korea | ------------- |
@@ -208,13 +196,12 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://wien.rocks/ | Vienna, Austria | ------------- |
 | https://witter.cz/ | Czech Republic | ------------- |
 | https://wue.social/ | Würzburg, Germany | ------------- |
-| https://wroc.xyz/ | Wroclaw, Poland | (removed/dead?) |
 | https://Xarxa.cloud/ | Catalonia | Català (Catalan) |
 | https://yorkshire.social/ | Yorkshire, UK | ------------- |
-| https://zoltasila.pl/ | Poland | (removed/dead?) |
 | https://թութ.հայ/ | Armenia | ------------- |
 
 ## Notes
+All map entries are placed on their geolocation as found by Open Street Map.
 Balkans geo-centre per https://toot.wales/web/statuses/105599802707065631
 
 
@@ -262,5 +249,5 @@ The following people contributed feedback and links for this directory and the a
  
  ## Other Directories
  Many servers are based on a particular topic, language or area, and some are more general. Here are some other great lists of Mastodon servers you can join:
- - https://joinmastodon.org/communities
+ - https://joinmastodon.org/
  - https://fediverse.party/en/portal/servers
