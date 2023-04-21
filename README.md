@@ -70,6 +70,7 @@ Open an Issue with the add, remove or edit.
 | https://hessen.social/ | Hessen, Germany | ------------- |
 | https://hub.uckermark.social/ | Uckermark, Brandenburg, Germany | ------------- |
 | https://jawns.club/ | Philadelphia, Pennsylvania, USA | ------------- |
+| https://jaxbeach.social/ | Jacksonville, Florida, USA | ------------- |
 | https://koyu.space/ | Kiel, Germany | ------------- |
 | https://kcmo.social/ | Kansas City, Missouri, USA | ------------- |
 | https://kopiti.am/ | Singapore | ------------- |
@@ -96,6 +97,7 @@ Open an Issue with the add, remove or edit.
 | https://mastodon.eus/ | Basque Country | Euskara (Basque) |
 | https://mastodon.fedi.bzh/ | Rennes, France | Brezhoneg (Breton) |
 | https://mastodon.gougere.fr/ | Auxerre, France | ------------- |
+| https://mastodon.holeyfox.co/ | Nigeria | ------------- |
 | https://mastodon.hr/ | Croatia | ------------- |
 | https://mastodon.iow.social/ | Isle of Wight, UK | ------------- |
 | https://mastodon.fo/ | Faroe Islands | ------------- |
@@ -131,6 +133,7 @@ Open an Issue with the add, remove or edit.
 | https://mastodos.com/ | Kyoto, Japan | ------------- |
 | https://metu.life/ | Middle East Technical University, Ankara, Turkey | ------------- |
 | https://mstdn.ca/ | Canada | ------------- |
+| https://mstdn.dk/ | Denmark | ------------- |
 | https://mstdn.es/ | Spain | ------------- |
 | https://mstdn.id/ | Indonesia | ------------- |
 | https://mstdn.jp/ | Japan | ------------- |
@@ -159,6 +162,7 @@ Open an Issue with the add, remove or edit.
 | https://planet.moe/ | South Korea | ------------- |
 | https://pleroma.pt/ | Portugal | ------------- |
 | https://ploen.social/ | Kreis Plön, Germany | ------------- |
+| https://pnw.zone/ | Pacific Northwest region (Canada and USA) | ------------- |
 | https://pol.social/explore | Poland | ------------- |
 | https://rheinneckar.social| Metropolregion Rhein-Neckar, Germany | ------------- |
 | https://ruhr.social| The Ruhr, Germany | ------------- |
@@ -175,7 +179,8 @@ Open an Issue with the add, remove or edit.
 | https://socialclub.nyc/ | New York City, New York, USA | ------------- |
 | https://sueden.social/ | Southern Germany | ------------- |
 | https://tea.codes/ | Hong Kong & Mainland China | ------------- |
-| HTTPS://theatl.social | Atlanta, Georgia, USA | ------------- |
+| https://theatl.social | Atlanta, Georgia, USA | ------------- |
+| https://thecanadian.social/ | Canada | ------------- |
 | https://thegem.city/ | Dayton, Ohio, USA | ------------- |
 | https://toot.aquilenet.fr | Aquitaine, France | ------------- |
 | https://tooot.im/ | Israel | עִברִית (Hebrew) |
