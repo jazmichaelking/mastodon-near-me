@@ -130,6 +130,7 @@ Open an Issue with the add, remove or edit.
 | https://mastodontti.fi/ | Finland | ------------- |
 | https://mastodonczech.cz/ | Czechia | ------------- |
 | https://mastodos.com/ | Kyoto, Japan | ------------- |
+| https://mcr.wtf/ | Manchester, United Kingdon | English |
 | https://metu.life/ | Middle East Technical University, Ankara, Turkey | ------------- |
 | https://mstdn.ca/ | Canada | ------------- |
 | https://mstdn.dk/ | Denmark | ------------- |
