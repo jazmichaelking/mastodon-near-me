@@ -67,6 +67,7 @@ Open an Issue with the add, remove or edit.
 | https://graz.social/ | Graz, Austria | ------------- |
 | https://halifaxsocial.ca/ | Halifax, Nova Scotia, Canada | ------------- |
 | https://hessen.social/ | Hessen, Germany | ------------- |
+| https://hoosier.social/ | Indiana, USA | ------------- |
 | https://hub.uckermark.social/ | Uckermark, Brandenburg, Germany | ------------- |
 | https://jawns.club/ | Philadelphia, Pennsylvania, USA | ------------- |
 | https://jaxbeach.social/ | Jacksonville, Florida, USA | ------------- |
