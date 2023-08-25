@@ -26,7 +26,6 @@ A separate register of regional servers is available at https://masto.town/
 Open an Issue with the add, remove or edit.
 
 ## Data 
-(notable language support is shown where relevant)
 
 | URL | geo target | notable language support |
 | ------------- | ------------- | ------------- |
@@ -47,7 +46,7 @@ Open an Issue with the add, remove or edit.
 | https://chilemasto.casa/ | Chile | Español (Spanish) |
 | https://cityofchicago.live/ | Chicago, USA | ------------- |
 | https://darmstadt.social/ | Darmstadt, Germany | ------------- |
-| https://dizl.de/ | Germany | Deutsch (German) |
+| https://dizl.de/ | Germany | ------------- |
 | https://dresden.network/ | Dresden, Germany | ------------- |
 | https://est.social/ | Estonia | Eesti keel (Estonian)  |
 | https://expressional.social/ | Copenhagen, Denmark | ------------- |
@@ -142,14 +141,14 @@ Open an Issue with the add, remove or edit.
 | https://nuernberg.social/ | Nürnberg, Germany | German |
 | https://nutmeg.social | Connecticut, USA | ------------- |
 | https://nwb.social/ | Nieuw West Brabant, Netherlands | ------------- |
-| https://occitania.social/ | Occitania | Occitan |
+| https://occitania.social/ | Occitania | lenga d'òc (Occitan) |
 | https://oceanplayground.social/ | Nova Scotia, Canada | ------------- |
 | https://okla.social/ | Oklahoma, USA | ------------- |
 | https://ooe.social/ | Linz, Austria | ------------- |
 | https://oslo.town/ | Oslo, Norway | ------------- |
 | https://osna.social/ | Osnabruck, Germany | ------------- |
 | https://pdx.social/ | Portland, Oregon, USA | ------------- |
-| https://pfalz.social/ | Pfalz Region, Germany | Palatine, German, English |
+| https://pfalz.social/ | Pfalz Region, Germany | Pälzisch (Palatine) |
 | https://piaille.fr/ | France | ------------- |
 | https://planet.moe/ | South Korea | ------------- |
 | https://ploen.social/ | Kreis Plön, Germany | ------------- |
