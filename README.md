@@ -32,7 +32,6 @@ Open an Issue with the add, remove or edit.
 | ------------- | ------------- | ------------- |
 | https://0x3c.pl/ | Trójmiasto, Poland | ------------- |
 | https://a2mi.social | Ann Arbor, Michigan, USA | ------------- |
-| https://acg.debula.ml/ | Malaysia | ------------- |
 | https://ailbhean.co-shaoghal.net/ | Scotland | Gàidhlig (Gaelic) |
 | https://augsburg.social/ | Augsburg, Germany | ------------- |
 | https://aus.social/ | Australia | ------------- |
@@ -47,7 +46,6 @@ Open an Issue with the add, remove or edit.
 | https://burnthis.town/ | Brazil | Português (Portuguese) |
 | https://chilemasto.casa/ | Chile | Español (Spanish) |
 | https://cityofchicago.live/ | Chicago, USA | ------------- |
-| https://social.cologne | Cologne, Germany | ------------- |
 | https://darmstadt.social/ | Darmstadt, Germany | ------------- |
 | https://dizl.de/ | Germany | Deutsch (German) |
 | https://dresden.network/ | Dresden, Germany | ------------- |
@@ -61,17 +59,14 @@ Open an Issue with the add, remove or edit.
 | https://fuerstentum.social | Liechtenstein | ------------- |
 | https://fulda.social/ | Fulda, Germany | ------------- |
 | https://gardenstate.social/ | New Jersey, USA | ------------- |
-| https://gib.social/ | Gibraltar | ------------- |
 | https://glasgow.social | Glasgow, Scotland | ------------- |
 | https://gomastodon.cz/ | Czechia | ------------- |
 | https://graz.social/ | Graz, Austria | ------------- |
-| https://halifaxsocial.ca/ | Halifax, Nova Scotia, Canada | ------------- |
 | https://hessen.social/ | Hessen, Germany | ------------- |
 | https://hoosier.social/ | Indiana, USA | ------------- |
 | https://hub.uckermark.social/ | Uckermark, Brandenburg, Germany | ------------- |
 | https://jawns.club/ | Philadelphia, Pennsylvania, USA | ------------- |
 | https://jaxbeach.social/ | Jacksonville, Florida, USA | ------------- |
-| https://koyu.space/ | Kiel, Germany | ------------- |
 | https://kcmo.social/ | Kansas City, Missouri, USA | ------------- |
 | https://kopiti.am/ | Singapore | ------------- |
 | https://lile.cl | Chile | Español (Spanish) |
@@ -81,7 +76,6 @@ Open an Issue with the add, remove or edit.
 | https://malaga.social/ | Malaga, Spain | ------------- |
 | https://mamot.fr/ | France | ------------- |
 | https://mao.mastodonhub.com/ | Hong Kong | ------------- |
-| https://masr.social/ | Egypt | ------------- |
 | https://masto.pt/ | Portugal | ------------- |
 | https://mastodon.acc.sunet.se/ | Umeå University, Sweden | ------------- |
 | https://mastodon.akhepcat.com/ | Alaska, USA | ------------- |
@@ -105,7 +99,6 @@ Open an Issue with the add, remove or edit.
 | https://mastodon.grin.hu | Hungary | ------------- |
 | https://mastodon.ie/ | Ireland | ------------- |
 | https://mastodon.in.th/ | Thailand | ------------- |
-| https://mastodon.madrid/ | Madrid, Spain | ------------- |
 | https://mastodon.me.uk/ | United Kingdom | ------------- |
 | https://mastodon.mg/ | Madagascar | ------------- |
 | https://mastodon.mit.edu/ | Massachusetts Institute of Technology, Massachusetts, USA | ------------- |
@@ -114,11 +107,10 @@ Open an Issue with the add, remove or edit.
 | https://mastodon.nu/ | Sweden | ------------- |
 | https://masto.nyc/ | New York City, New York, USA | ------------- |
 | https://mastodon.nz/ | New Zealand | ------------- |
-| https://mastodon.nzoss.nz/ | New Zealand | ------------- |
+| https://mastodon.nzoss.nz/ | New Zealand | te reo (Māori) |
 | https://mastodon.opencloud.lu/ | Luxembourg | ------------- |
 | https://mastodon.org.uk/ | United Kingdom | ------------- |
 | https://mastodon.scot/ | Scotland | ------------- |
-| https://mastodon.se/ | Sweden | Svenska (Swedish) |
 | https://mastodon.sk/ | Slovakia | ------------- |
 | https://mastodon.tn/ | Tunisia | ------------- |
 | https://mastodon.uno/ | Italy | ------------- |
@@ -160,7 +152,6 @@ Open an Issue with the add, remove or edit.
 | https://pfalz.social/ | Pfalz Region, Germany | Palatine, German, English |
 | https://piaille.fr/ | France | ------------- |
 | https://planet.moe/ | South Korea | ------------- |
-| https://pleroma.pt/ | Portugal | ------------- |
 | https://ploen.social/ | Kreis Plön, Germany | ------------- |
 | https://pnw.zone/ | Pacific Northwest region (Canada and USA) | ------------- |
 | https://pol.social/explore | Poland | ------------- |
@@ -171,7 +162,7 @@ Open an Issue with the add, remove or edit.
 | https://sbg-social.at/ | Salzburg, Austria | ------------- |
 | https://sfba.social/ | San Francisco, California, USA | ------------- |
 | https://snabelen.no/ | Norway | ------------- |
-| https://soc.catala.digital/ | Catalonia | Catalan |
+| https://social.cologne | Cologne, Germany | ------------- |
 | https://social.net.ua/ | Ukraine | ------------- |
 | https://social.saarland/ | Saarland, Germany | ------------- |
 | https://social.seattle.wa.us/ | Seattle, Washington, USA | ------------- |
@@ -186,14 +177,13 @@ Open an Issue with the add, remove or edit.
 | https://tooot.im/ | Israel | עִברִית (Hebrew) |
 | https://toot.si/ | Slovenia | ------------- |
 | https://toot.wales/ | Wales | Cymraeg (Welsh) |
-| https://toots.nu/ | Lund, Sweden | Cymraeg (Welsh) |
+| https://toots.nu/ | Lund, Sweden | ------------- |
 | https://tooting.ch/ | Switzerland | ------------- |
 | https://troet.cafe/ | Germany | ------------- |
 | https://triangletoot.party/ | Research Triangle, North Carolina, USA | ------------- |
 | https://tukkers.online/ | Twente, Germany | ------------- |
 | https://tyrol.social/ | Tyrol, Austria | ------------- | 
 | https://tw.town/ | Eastern Washington, USA | ------------- |
-| https://twitteregypt.online/ | Egypt | ------------- |
 | https://vancity.social/ | Vancouver, Canada | ------------- |
 | https://vermont.masto.host/ | Vermont, USA | ------------- |
 | https://vkl.world/ | Belarus | ------------- |
@@ -202,7 +192,6 @@ Open an Issue with the add, remove or edit.
 | https://witter.cz/ | Czech Republic | ------------- |
 | https://wue.social/ | Würzburg, Germany | ------------- |
 | https://Xarxa.cloud/ | Catalonia | Català (Catalan) |
-| https://yorkshire.social/ | Yorkshire, UK | ------------- |
 | https://թութ.հայ/ | Armenia | ------------- |
 
 ## Notes
