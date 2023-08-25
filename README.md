@@ -5,7 +5,7 @@ A curated map of active Mastodon service providers that serve a specific localit
 The interactive map of the available servers is maintained at http://mastodon-near.me
 
 ![image](https://user-images.githubusercontent.com/3419832/229815849-9370631a-e986-4090-a18e-be2d5a8ce608.png)
-[<img src="[img/myImage.png](https://user-images.githubusercontent.com/3419832/229815849-9370631a-e986-4090-a18e-be2d5a8ce608.png)">](http://mastodon-near.me)
+[<img src="[https://user-images.githubusercontent.com/3419832/229815849-9370631a-e986-4090-a18e-be2d5a8ce608.png">](http://mastodon-near.me)
 
 ## Purpose 
 The map showcases service providers with a built-in local membership and demonstrated content moderation as a way to help choose a Mastodon server.
