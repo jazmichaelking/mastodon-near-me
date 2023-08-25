@@ -96,7 +96,7 @@ Open an Issue with the add, remove or edit.
 | https://mastodon.fo/ | Faroe Islands | ------------- |
 | https://mastodon.free-solutions.org/ | Switzerland | ------------- |
 | https://mastodon.grin.hu | Hungary | ------------- |
-| https://mastodon.ie/ | Ireland | ------------- |
+| https://mastodon.ie/ | Ireland | Gaeilge (Irish) |
 | https://mastodon.in.th/ | Thailand | ------------- |
 | https://mastodon.me.uk/ | United Kingdom | ------------- |
 | https://mastodon.mg/ | Madagascar | ------------- |
