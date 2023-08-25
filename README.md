@@ -28,57 +28,57 @@ Open an Issue with the add, remove or edit.
 ## Data 
 (notable language support is shown where relevant)
 
-| URL | geo target | language focus |
+| URL | geo target | notable language support |
 | ------------- | ------------- | ------------- |
-| https://0x3c.pl/ | Trójmiasto, Poland | Polski (Polish) |
+| https://0x3c.pl/ | Trójmiasto, Poland | ------------- |
 | https://a2mi.social | Ann Arbor, Michigan, USA | ------------- |
 | https://acg.debula.ml/ | Malaysia | ------------- |
 | https://ailbhean.co-shaoghal.net/ | Scotland | Gàidhlig (Gaelic) |
-| https://augsburg.social/ | Augsburg, Germany | Deutsch (German) |
+| https://augsburg.social/ | Augsburg, Germany | ------------- |
 | https://aus.social/ | Australia | ------------- |
 | https://aut.social | Austria | ------------- |
 | https://balkan.fedive.rs/ | Western Balkans | босански (Bosnian) |
 | https://bath.social/ | Bath, UK | ------------- |
-| https://berlin.social/ | Berlin, Germany | Deutsch (German) |
+| https://berlin.social/ | Berlin, Germany | ------------- |
 | https://better.boston/ | Boston, Massachussetts, USA | ------------- |
 | https://bne.social/ | Brisbane, Australia | ------------- |
 | https://bonn.social/ | Bonn, Germany | ------------- |
-| https://brandenburg.social/ | Brandenburg, Germany | Deutsch (German) |
+| https://brandenburg.social/ | Brandenburg, Germany | ------------- |
 | https://burnthis.town/ | Brazil | Português (Portuguese) |
 | https://chilemasto.casa/ | Chile | Español (Spanish) |
 | https://cityofchicago.live/ | Chicago, USA | ------------- |
-| https://social.cologne | Cologne, Germany | Deutsch (German) |
-| https://darmstadt.social/ | Darmstadt, Germany | Deutsch (German) |
+| https://social.cologne | Cologne, Germany | ------------- |
+| https://darmstadt.social/ | Darmstadt, Germany | ------------- |
 | https://dizl.de/ | Germany | Deutsch (German) |
-| https://dresden.network/ | Dresden, Germany | Deutsch (German) |
+| https://dresden.network/ | Dresden, Germany | ------------- |
 | https://est.social/ | Estonia | Eesti keel (Estonian)  |
 | https://expressional.social/ | Copenhagen, Denmark | ------------- |
 | https://fedi.at | Austria |  ------------- |
 | https://fikaverse.club/ | Scandinavia | ------------- |
-| https://frankfurt.social/ | Frankfurt, Germany | Deutsch (German) |
-| https://freiburg.social/ | Freiburg im Breisgau, Germany | Deutsch (German) |
+| https://frankfurt.social/ | Frankfurt, Germany | ------------- |
+| https://freiburg.social/ | Freiburg im Breisgau, Germany | ------------- |
 | https://fsmi.social/ | India | ------------- |
 | https://fuerstentum.social | Liechtenstein | ------------- |
-| https://fulda.social/ | Fulda, Germany | Deutsch (German) |
+| https://fulda.social/ | Fulda, Germany | ------------- |
 | https://gardenstate.social/ | New Jersey, USA | ------------- |
 | https://gib.social/ | Gibraltar | ------------- |
 | https://glasgow.social | Glasgow, Scotland | ------------- |
 | https://gomastodon.cz/ | Czechia | ------------- |
 | https://graz.social/ | Graz, Austria | ------------- |
 | https://halifaxsocial.ca/ | Halifax, Nova Scotia, Canada | ------------- |
-| https://hessen.social/ | Hessen, Germany | Deutsch (German) |
-| https://hub.uckermark.social/ | Uckermark, Brandenburg, Germany | Deutsch (German) |
+| https://hessen.social/ | Hessen, Germany | ------------- |
+| https://hub.uckermark.social/ | Uckermark, Brandenburg, Germany | ------------- |
 | https://jawns.club/ | Philadelphia, Pennsylvania, USA | ------------- |
 | https://jaxbeach.social/ | Jacksonville, Florida, USA | ------------- |
 | https://koyu.space/ | Kiel, Germany | ------------- |
 | https://kcmo.social/ | Kansas City, Missouri, USA | ------------- |
 | https://kopiti.am/ | Singapore | ------------- |
 | https://lile.cl | Chile | Español (Spanish) |
-| https://links.potsda.mn/ | Potsdamn, Germany | Deutsch (German) |
+| https://links.potsda.mn/ | Potsdamn, Germany | ------------- |
 | https://xn--lofll-1sat.is/ | Iceland | Íslenska (Icelandic) |
-| https://machteburch.social/ | Magdeburg, Germany | Deutsch (German) |
-| https://malaga.social/ | Malaga, Spain | Español (Spanish) |
-| https://mamot.fr/ | France | Français (French) |
+| https://machteburch.social/ | Magdeburg, Germany | ------------- |
+| https://malaga.social/ | Malaga, Spain | ------------- |
+| https://mamot.fr/ | France | ------------- |
 | https://mao.mastodonhub.com/ | Hong Kong | ------------- |
 | https://masr.social/ | Egypt | ------------- |
 | https://masto.pt/ | Portugal | ------------- |
@@ -86,9 +86,9 @@ Open an Issue with the add, remove or edit.
 | https://mastodon.akhepcat.com/ | Alaska, USA | ------------- |
 | https://mastodon.au/ | Australia | ------------- |
 | https://mastodon.babb.be/ | University of Oslo, Oslo, Norway | ------------- |
-| https://mastodon.bachgau.social/ | Bachgau Region, Germany | Deutsch (German) |
+| https://mastodon.bachgau.social/ | Bachgau Region, Germany | ------------- |
 | https://mastodon.bayern/ | Bavaria, Germany | ------------- |
-| https://mastodon.berlin/ | Berlin, Germany | Deutsch (German) |
+| https://mastodon.berlin/ | Berlin, Germany | ------------- |
 | https://mastodon.bida.im/ | Bologna, Italy | ------------- |
 | https://mastodon.com.py/ | Paraguay | ------------- |
 | https://mastodon.com.tr/ | Turkey | ------------- |
@@ -100,7 +100,7 @@ Open an Issue with the add, remove or edit.
 | https://mastodon.hr/ | Croatia | ------------- |
 | https://mastodon.iow.social/ | Isle of Wight, UK | ------------- |
 | https://mastodon.fo/ | Faroe Islands | ------------- |
-| https://mastodon.free-solutions.org/ | Switzerland | French |
+| https://mastodon.free-solutions.org/ | Switzerland | ------------- |
 | https://mastodon.grin.hu | Hungary | ------------- |
 | https://mastodon.ie/ | Ireland | ------------- |
 | https://mastodon.in.th/ | Thailand | ------------- |
@@ -122,8 +122,8 @@ Open an Issue with the add, remove or edit.
 | https://mastodon.tn/ | Tunisia | ------------- |
 | https://mastodon.uno/ | Italy | ------------- |
 | https://mastodon.uy/ | Uruguay | ------------- |
-| https://mastodon.vlaanderen/ | Flanders | Dutch |
-| https://mastodon-belgium.be/ | Belgium | Dutch, French, English, German |
+| https://mastodon.vlaanderen/ | Flanders | ------------- |
+| https://mastodon-belgium.be/ | Belgium | ------------- |
 | https://mastodonapp.uk/ | United Kingdom | ------------- |
 | https://mastodonindonesia.com/ | Indonesia | ------------- |
 | https://mastodont.cat/ | Catalonia | Català (Catalan) |
@@ -154,7 +154,7 @@ Open an Issue with the add, remove or edit.
 | https://okla.social/ | Oklahoma, USA | ------------- |
 | https://ooe.social/ | Linz, Austria | ------------- |
 | https://oslo.town/ | Oslo, Norway | ------------- |
-| https://osna.social/ | Osnabruck, Germany | Deutsch (German) |
+| https://osna.social/ | Osnabruck, Germany | ------------- |
 | https://pdx.social/ | Portland, Oregon, USA | ------------- |
 | https://pfalz.social/ | Pfalz Region, Germany | Palatine, German, English |
 | https://piaille.fr/ | France | ------------- |
@@ -167,7 +167,7 @@ Open an Issue with the add, remove or edit.
 | https://ruhr.social| The Ruhr, Germany | ------------- |
 | https://rva.party/ | Richmond, Virginia, USA | ------------- |
 | https://sasa.africa/ | Africa | ------------- |
-| https://sbg-social.at/ | Salzburg, Austria | English, German |
+| https://sbg-social.at/ | Salzburg, Austria | ------------- |
 | https://sfba.social/ | San Francisco, California, USA | ------------- |
 | https://snabelen.no/ | Norway | ------------- |
 | https://soc.catala.digital/ | Catalonia | Catalan |
@@ -185,6 +185,7 @@ Open an Issue with the add, remove or edit.
 | https://tooot.im/ | Israel | עִברִית (Hebrew) |
 | https://toot.si/ | Slovenia | ------------- |
 | https://toot.wales/ | Wales | Cymraeg (Welsh) |
+| https://toots.nu/ | Lund, Sweden | Cymraeg (Welsh) |
 | https://tooting.ch/ | Switzerland | ------------- |
 | https://troet.cafe/ | Germany | ------------- |
 | https://triangletoot.party/ | Research Triangle, North Carolina, USA | ------------- |
