@@ -1,6 +1,6 @@
 {
   "type": "umap",
-  "uri": "https://umap.openstreetmap.fr/en/map/mastodon-near-me-global-mastodon-server-list-by-co_828094#",
+  "uri": "https://umap.openstreetmap.fr/en/map/mastodon-near-me-global-mastodon-server-list-by-co_828094#5/54.124/-0.901",
   "properties": {
     "easing": true,
     "tilelayersControl": true,
@@ -139,24 +139,7 @@
           "type": "Feature",
           "properties": {
             "_umap_options": {
-              "iconClass": "Drop"
-            },
-            "name": "https://acg.debula.ml/",
-            "description": "ACG.MN 成立于 2017 年，是第一批中文 Mastodon 网站。"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              102.178345,
-              4.590114
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "_umap_options": {
-              "color": "#858AFA",
+              "color": "#563ACC",
               "iconClass": "Drop"
             },
             "description": "This server is aimed at Gaelic speakers. Tha am frithealaiche seo ann do luchd na Gàidhlig.",
@@ -165,8 +148,8 @@
           "geometry": {
             "type": "Point",
             "coordinates": [
-              -3.977051,
-              56.764768
+              -4.449463,
+              56.749711
             ]
           }
         },
@@ -660,23 +643,6 @@
         {
           "type": "Feature",
           "properties": {
-            "_umap_options": {
-              "iconClass": "Drop"
-            },
-            "name": "https://gib.social/",
-            "description": "Are you in Gibraltar looking to join Mastodon? Then Gib Social is the place to sign up, a safe, friendly gateway into Mastodon based right here on the Rock."
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              -5.355835,
-              36.144529
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
             "name": "https://glasgow.social",
             "description": "A place for communities in and around Glasgow, Scotland",
             "_umap_options": {
@@ -731,23 +697,6 @@
           "type": "Feature",
           "properties": {
             "_umap_options": {
-              "iconClass": "Ball"
-            },
-            "name": "https://halifaxsocial.ca/",
-            "description": "Halifax Social is a place for Haligonians, past, present to hang out, share info and resources, and socialize in an inclusive welcoming environment. Abuse will not be tolerated."
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              -63.859146,
-              44.725443
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "_umap_options": {
               "iconClass": "Default",
               "color": "#563ACC"
             },
@@ -759,6 +708,23 @@
             "coordinates": [
               9.030762,
               50.708634
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "#563ACC"
+            },
+            "name": "https://hoosier.social/",
+            "description": "A small, independent Mastodon server focused on serving Indiana residents."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -86.19873,
+              40.446947
             ]
           }
         },
@@ -842,23 +808,6 @@
             "coordinates": [
               103.820801,
               1.381397
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "_umap_options": {
-              "iconClass": "Ball"
-            },
-            "name": "https://koyu.space/",
-            "description": "Leonie's space on the fediverse."
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              10.129395,
-              54.354956
             ]
           }
         },
@@ -950,23 +899,6 @@
           "type": "Feature",
           "properties": {
             "_umap_options": {
-              "iconClass": "Drop"
-            },
-            "name": "https://masr.social/",
-            "description": "Egyptian Community on Mastodon. مجتمع مصر علي ماستودون."
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              28.388672,
-              26.549223
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "_umap_options": {
               "iconClass": "Ball"
             },
             "name": "https://masto.nyc/",
@@ -993,8 +925,8 @@
           "geometry": {
             "type": "Point",
             "coordinates": [
-              -7.44873,
-              40.178873
+              -7.954102,
+              40.380028
             ]
           }
         },
@@ -1451,24 +1383,6 @@
           "properties": {
             "_umap_options": {
               "color": "#858AFA",
-              "iconClass": "Ball"
-            },
-            "name": "https://mastodon.madrid/",
-            "description": "Pongamos que hablamos de Madrid."
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              -3.966064,
-              40.530502
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "_umap_options": {
-              "color": "#858AFA",
               "iconClass": "Drop"
             },
             "name": "https://mastodon.me.uk/",
@@ -1567,8 +1481,8 @@
           "geometry": {
             "type": "Point",
             "coordinates": [
-              14.853516,
-              59.78958
+              14.556885,
+              59.76746
             ]
           }
         },
@@ -1657,25 +1571,8 @@
           "geometry": {
             "type": "Point",
             "coordinates": [
-              -4.416504,
-              56.758746
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "name": "https://mastodon.se",
-            "description": "Mastodon instance aimed at Swedish users",
-            "_umap_options": {
-              "iconClass": "Drop"
-            }
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              14.084473,
-              59.78958
+              -3.740845,
+              56.755734
             ]
           }
         },
@@ -1828,8 +1725,8 @@
           "geometry": {
             "type": "Point",
             "coordinates": [
-              1.768799,
-              41.8941
+              1.571045,
+              41.902277
             ]
           }
         },
@@ -2003,7 +1900,7 @@
           "geometry": {
             "type": "Point",
             "coordinates": [
-              102.354126,
+              102.268982,
               4.595589
             ]
           }
@@ -2341,24 +2238,6 @@
         {
           "type": "Feature",
           "properties": {
-            "_umap_options": {
-              "color": "#858AFA",
-              "iconClass": "Drop"
-            },
-            "name": "https://pleroma.pt/",
-            "description": "Uma forma de aderir ao Fediverse. De fazer parte de uma comunidade descentralizada e reclamar a liberdade de expressão e privacidade nas redes sociais."
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              -8.415527,
-              40.178873
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
             "name": "https://ploen.social/"
           },
           "geometry": {
@@ -2527,20 +2406,6 @@
             "coordinates": [
               9.074707,
               60.619324
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "name": "https://soc.catala.digital/",
-            "description": "Servidor social Mastodon, per a tothom."
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              1.307373,
-              41.8941
             ]
           }
         },
@@ -2825,6 +2690,23 @@
           "type": "Feature",
           "properties": {
             "_umap_options": {
+              "iconClass": "Drop"
+            },
+            "name": "https://toots.nu/",
+            "description": "Welcome to this open and positive server located in Sweden. Our main rule is: Choose to be kind. Registrations are open for anyone, but please post in Swedish or English."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.191833,
+              55.720923
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
               "color": "#858AFA"
             },
             "description": "Mastodon instance focused on the Triangle region of North Carolina",
@@ -2885,23 +2767,6 @@
             "coordinates": [
               -118.509521,
               47.465236
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "_umap_options": {
-              "iconClass": "Drop"
-            },
-            "name": "https://twitteregypt.online/",
-            "description": "تجمع اهل تويتر مصر و الكل مرحب بية "
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              30.146484,
-              26.549223
             ]
           }
         },
@@ -3087,40 +2952,6 @@
             "coordinates": [
               -18.127441,
               65.053602
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "name": "https://yorkshire.social/",
-            "description": "Yorkshire Social is a regional Mastodon server for the people of Yorkshire.",
-            "_umap_options": {
-              "iconClass": "Ball"
-            }
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              -1.082153,
-              53.975474
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "_umap_options": {
-              "iconClass": "Drop"
-            },
-            "name": "https://toots.nu/",
-            "description": "Welcome to this open and positive server located in Sweden. Our main rule is: Choose to be kind. Registrations are open for anyone, but please post in Swedish or English."
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              13.191833,
-              55.720923
             ]
           }
         }
