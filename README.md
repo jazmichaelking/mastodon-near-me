@@ -138,7 +138,7 @@ Open an Issue with the add, remove or edit.
 | https://norden.social/ | Northern Germany | ------------- |
 | https://norrebro.space/ | Denmark | ------------- |
 | https://nrw.social/ | North Rhine-Westphalia, Germany | ------------- |
-| https://nuernberg.social/ | Nürnberg, Germany | German |
+| https://nuernberg.social/ | Nürnberg, Germany | ------------- |
 | https://nutmeg.social | Connecticut, USA | ------------- |
 | https://nwb.social/ | Nieuw West Brabant, Netherlands | ------------- |
 | https://occitania.social/ | Occitania | lenga d'òc (Occitan) |
