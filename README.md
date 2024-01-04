@@ -89,15 +89,16 @@ Open an Issue with the add, remove or edit.
 | https://mastodon.cr/ | Costa Rica | ------------- |
 | https://mastodon.eus/ | Basque Country | Euskara (Basque) |
 | https://mastodon.fedi.bzh/ | Rennes, France | Brezhoneg (Breton) |
+| https://mastodon.fo/ | Faroe Islands | ------------- |
 | https://mastodon.gougere.fr/ | Auxerre, France | ------------- |
 | https://mastodon.holeyfox.co/ | Nigeria | ------------- |
 | https://mastodon.hr/ | Croatia | ------------- |
 | https://mastodon.iow.social/ | Isle of Wight, UK | ------------- |
-| https://mastodon.fo/ | Faroe Islands | ------------- |
 | https://mastodon.free-solutions.org/ | Switzerland | ------------- |
 | https://mastodon.grin.hu | Hungary | ------------- |
 | https://mastodon.ie/ | Ireland | Gaeilge (Irish) |
 | https://mastodon.in.th/ | Thailand | ------------- |
+| https://mastodon.london/ | London, United Kingdom | ------------- |
 | https://mastodon.me.uk/ | United Kingdom | ------------- |
 | https://mastodon.mg/ | Madagascar | ------------- |
 | https://mastodon.mit.edu/ | Massachusetts Institute of Technology, Massachusetts, USA | ------------- |
