@@ -84,6 +84,7 @@ Open an Issue with the add, remove or edit.
 | https://mastodon.bayern/ | Bavaria, Germany | ------------- |
 | https://mastodon.berlin/ | Berlin, Germany | ------------- |
 | https://mastodon.bida.im/ | Bologna, Italy | ------------- |
+| https://mastodon.com.pl | Poland | ------------- |
 | https://mastodon.com.py/ | Paraguay | ------------- |
 | https://mastodon.com.tr/ | Turkey | ------------- |
 | https://mastodon.cr/ | Costa Rica | ------------- |
