@@ -164,6 +164,7 @@ Open an Issue with the add, remove or edit.
 | https://rheinneckar.social| Metropolregion Rhein-Neckar, Germany | ------------- |
 | https://ruhr.social| The Ruhr, Germany | ------------- |
 | https://rva.party/ | Richmond, Virginia, USA | ------------- |
+| https://samenet.social/ | Sápmi, Northern Europe | Sámi |
 | https://sasa.africa/ | Africa | ------------- |
 | https://sbg-social.at/ | Salzburg, Austria | ------------- |
 | https://sfba.social/ | San Francisco, California, USA | ------------- |
