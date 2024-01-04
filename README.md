@@ -174,6 +174,7 @@ Open an Issue with the add, remove or edit.
 | https://thegem.city/ | Dayton, Ohio, USA | ------------- |
 | https://toot.aquilenet.fr | Aquitaine, France | ------------- |
 | https://tooot.im/ | Israel | עִברִית (Hebrew) |
+| https://toot.berlin/ | Berlin, Germany | ------------- |
 | https://toot.si/ | Slovenia | ------------- |
 | https://toot.wales/ | Wales | Cymraeg (Welsh) |
 | https://toots.nu/ | Lund, Sweden | ------------- |
