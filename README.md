@@ -45,6 +45,7 @@ Open an Issue with the add, remove or edit.
 | https://burnthis.town/ | Brazil | Português (Portuguese) |
 | https://chilemasto.casa/ | Chile | Español (Spanish) |
 | https://cityofchicago.live/ | Chicago, USA | ------------- |
+| https://cville.online/ | Charlottesville, Virginia, USA | ------------- |
 | https://darmstadt.social/ | Darmstadt, Germany | ------------- |
 | https://dizl.de/ | Germany | ------------- |
 | https://dresden.network/ | Dresden, Germany | ------------- |
@@ -75,6 +76,7 @@ Open an Issue with the add, remove or edit.
 | https://malaga.social/ | Malaga, Spain | ------------- |
 | https://mamot.fr/ | France | ------------- |
 | https://mao.mastodonhub.com/ | Hong Kong | ------------- |
+| https://masto.nyc/ | New York City, New York, USA | ------------- |
 | https://masto.pt/ | Portugal | ------------- |
 | https://mastodon.acc.sunet.se/ | Umeå University, Sweden | ------------- |
 | https://mastodon.akhepcat.com/ | Alaska, USA | ------------- |
@@ -88,6 +90,7 @@ Open an Issue with the add, remove or edit.
 | https://mastodon.com.py/ | Paraguay | ------------- |
 | https://mastodon.com.tr/ | Turkey | ------------- |
 | https://mastodon.cr/ | Costa Rica | ------------- |
+| https://mastodon.ee/ | Estonia | ------------- |
 | https://mastodon.eus/ | Basque Country | Euskara (Basque) |
 | https://mastodon.fedi.bzh/ | Rennes, France | Brezhoneg (Breton) |
 | https://mastodon.fo/ | Faroe Islands | ------------- |
@@ -96,6 +99,7 @@ Open an Issue with the add, remove or edit.
 | https://mastodon.hr/ | Croatia | ------------- |
 | https://mastodon.iow.social/ | Isle of Wight, UK | ------------- |
 | https://mastodon.free-solutions.org/ | Switzerland | ------------- |
+| https://mastodon.frl/about | Friesland, Netherlands | ------------- |
 | https://mastodon.grin.hu | Hungary | ------------- |
 | https://mastodon.ie/ | Ireland | Gaeilge (Irish) |
 | https://mastodon.in.th/ | Thailand | ------------- |
@@ -106,12 +110,12 @@ Open an Issue with the add, remove or edit.
 | https://mastodon.ml/ | Russia | ------------- |
 | https://mastodon.nl/ | The Netherlands | ------------- |
 | https://mastodon.nu/ | Sweden | ------------- |
-| https://masto.nyc/ | New York City, New York, USA | ------------- |
 | https://mastodon.nz/ | New Zealand | ------------- |
 | https://mastodon.nzoss.nz/ | New Zealand | te reo (Māori) |
 | https://mastodon.opencloud.lu/ | Luxembourg | ------------- |
 | https://mastodon.org.uk/ | United Kingdom | ------------- |
 | https://mastodon.scot/ | Scotland | ------------- |
+| https://mastodon.sg/ | Singapore | ------------- |
 | https://mastodon.sk/ | Slovakia | ------------- |
 | https://mastodon.tn/ | Tunisia | ------------- |
 | https://mastodon.uno/ | Italy | ------------- |
@@ -137,6 +141,7 @@ Open an Issue with the add, remove or edit.
 | https://muenster.im/ | Münster, Germany | ------------- |
 | https://nahe.social/ | Bad Kreuznach, Germany | ------------- |
 | https://netzkms.de/ | Chemnitz, Germany | ------------- |
+| https://nfld.me/ | Newfoundland and Labrador, Canada | ------------- |
 | https://norden.social/ | Northern Germany | ------------- |
 | https://norrebro.space/ | Denmark | ------------- |
 | https://nrw.social/ | North Rhine-Westphalia, Germany | ------------- |
