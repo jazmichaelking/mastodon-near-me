@@ -48,6 +48,7 @@ Open an Issue with the add, remove or edit.
 | https://cville.online/ | Charlottesville, Virginia, USA | ------------- |
 | https://darmstadt.social/ | Darmstadt, Germany | ------------- |
 | https://dizl.de/ | Germany | ------------- |
+| https://dmv.community/ | National Capital Region, USA | ------------- |
 | https://dresden.network/ | Dresden, Germany | ------------- |
 | https://est.social/ | Estonia | -------------  |
 | https://expressional.social/ | Copenhagen, Denmark | ------------- |
