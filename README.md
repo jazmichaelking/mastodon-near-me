@@ -42,14 +42,14 @@ Open an Issue with the add, remove or edit.
 | https://bne.social/ | Brisbane, Australia | ------------- |
 | https://bonn.social/ | Bonn, Germany | ------------- |
 | https://brandenburg.social/ | Brandenburg, Germany | ------------- |
-| https://burnthis.town/ | Brazil | Português (Portuguese) |
-| https://chilemasto.casa/ | Chile | Español (Spanish) |
+| https://burnthis.town/ | Brazil | ------------- |
+| https://chilemasto.casa/ | Chile | ------------- |
 | https://cityofchicago.live/ | Chicago, USA | ------------- |
 | https://cville.online/ | Charlottesville, Virginia, USA | ------------- |
 | https://darmstadt.social/ | Darmstadt, Germany | ------------- |
 | https://dizl.de/ | Germany | ------------- |
 | https://dresden.network/ | Dresden, Germany | ------------- |
-| https://est.social/ | Estonia | Eesti keel (Estonian)  |
+| https://est.social/ | Estonia | -------------  |
 | https://expressional.social/ | Copenhagen, Denmark | ------------- |
 | https://fedi.at | Austria |  ------------- |
 | https://fikaverse.club/ | Scandinavia | ------------- |
@@ -108,12 +108,14 @@ Open an Issue with the add, remove or edit.
 | https://mastodon.mg/ | Madagascar | ------------- |
 | https://mastodon.mit.edu/ | Massachusetts Institute of Technology, Massachusetts, USA | ------------- |
 | https://mastodon.ml/ | Russia | ------------- |
+| https://mastodon.mx/ | Mexico | ------------- |
 | https://mastodon.nl/ | The Netherlands | ------------- |
 | https://mastodon.nu/ | Sweden | ------------- |
 | https://mastodon.nz/ | New Zealand | ------------- |
 | https://mastodon.nzoss.nz/ | New Zealand | te reo (Māori) |
 | https://mastodon.opencloud.lu/ | Luxembourg | ------------- |
 | https://mastodon.org.uk/ | United Kingdom | ------------- |
+| https://mastodon.quebec/ | Quebec, Canada | Québécois (Quebec French) |
 | https://mastodon.scot/ | Scotland | ------------- |
 | https://mastodon.sg/ | Singapore | ------------- |
 | https://mastodon.sk/ | Slovakia | ------------- |
@@ -142,6 +144,7 @@ Open an Issue with the add, remove or edit.
 | https://nahe.social/ | Bad Kreuznach, Germany | ------------- |
 | https://netzkms.de/ | Chemnitz, Germany | ------------- |
 | https://nfld.me/ | Newfoundland and Labrador, Canada | ------------- |
+| https://norcal.social/ | Northern California, California, USA | ------------- |
 | https://norden.social/ | Northern Germany | ------------- |
 | https://norrebro.space/ | Denmark | ------------- |
 | https://nrw.social/ | North Rhine-Westphalia, Germany | ------------- |
@@ -154,6 +157,7 @@ Open an Issue with the add, remove or edit.
 | https://ooe.social/ | Linz, Austria | ------------- |
 | https://oslo.town/ | Oslo, Norway | ------------- |
 | https://osna.social/ | Osnabruck, Germany | ------------- |
+| https://pdx.sh/ | Portland, Oregon, USA | ------------- |
 | https://pdx.social/ | Portland, Oregon, USA | ------------- |
 | https://pfalz.social/ | Pfalz Region, Germany | Pälzisch (Palatine) |
 | https://piaille.fr/ | France | ------------- |
@@ -248,8 +252,14 @@ The following people contributed feedback and links for this directory and the a
  - https://mastodon.nzoss.nz/@rune
  - https://metu.life/@Tuan
  - https://tooot.im/@aRubes
+ - https://strangeobject.space/@bebatjof
+ - https://social.tulsa.ok.us/@BalooUriza
+ - https://tacobelllabs.net/@rick_d_freeman
+ - https://mastodon.world/@beisbolcards
  
  ## Other Directories
  Many servers are based on a particular topic, language or area, and some are more general. Here are some other great lists of Mastodon servers you can join:
  - https://joinmastodon.org/
  - https://fediverse.party/en/portal/servers
+ - https://masto.town/
+ - https://mastodon.help/instances/en
