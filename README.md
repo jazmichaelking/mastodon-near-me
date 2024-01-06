@@ -180,6 +180,7 @@ Open an Issue with the add, remove or edit.
 | https://social.seattle.wa.us/ | Seattle, Washington, USA | ------------- |
 | https://social.tulsa.ok.us/ | Tulsa, Oklahoma, USA | ------------- |
 | https://socialclub.nyc/ | New York City, New York, USA | ------------- |
+| https://subdued.social/ | Bellingham, Washington, USA | ------------- |
 | https://sueden.social/ | Southern Germany | ------------- |
 | https://tea.codes/ | Hong Kong & Mainland China | ------------- |
 | https://theatl.social | Atlanta, Georgia, USA | ------------- |
