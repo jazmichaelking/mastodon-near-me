@@ -32,6 +32,7 @@ Open an Issue with the add, remove or edit.
 | https://0x3c.pl/ | Trójmiasto, Poland | ------------- |
 | https://a2mi.social | Ann Arbor, Michigan, USA | ------------- |
 | https://ailbhean.co-shaoghal.net/ | Scotland | Gàidhlig (Gaelic) |
+| https://alaskan.social/ | Alaska, USA | Gàidhlig (Gaelic) |
 | https://augsburg.social/ | Augsburg, Germany | ------------- |
 | https://aus.social/ | Australia | ------------- |
 | https://aut.social | Austria | ------------- |
@@ -170,6 +171,7 @@ Open an Issue with the add, remove or edit.
 | https://ruhr.social| The Ruhr, Germany | ------------- |
 | https://rva.party/ | Richmond, Virginia, USA | ------------- |
 | https://samenet.social/ | Sápmi, Northern Europe | Sámi |
+| https://sanjuans.life/ | San Juan Islands, Washington, USA | ------------- |
 | https://sasa.africa/ | Africa | ------------- |
 | https://sbg-social.at/ | Salzburg, Austria | ------------- |
 | https://sfba.social/ | San Francisco, California, USA | ------------- |
