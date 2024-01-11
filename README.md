@@ -70,6 +70,7 @@ Open an Issue with the add, remove or edit.
 | https://hub.uckermark.social/ | Uckermark, Brandenburg, Germany | ------------- |
 | https://jawns.club/ | Philadelphia, Pennsylvania, USA | ------------- |
 | https://jaxbeach.social/ | Jacksonville, Florida, USA | ------------- |
+| https://karlsruhe-social.de/ | Karlsruhe, Germany | ------------- |
 | https://kcmo.social/ | Kansas City, Missouri, USA | ------------- |
 | https://kopiti.am/ | Singapore | ------------- |
 | https://lile.cl | Chile | Español (Spanish) |
