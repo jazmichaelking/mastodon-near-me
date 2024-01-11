@@ -1,5 +1,5 @@
 # Mastodon Near Me - Global Mastodon server list by country and region
-A curated map of active Mastodon service providers that serve a specific locality, region, city, country, or supports a notable language.
+A curated map of Mastodon service providers that serve a specific locality, or support a notable language.
 
  ## Map 
 The interactive map of the available servers is maintained at http://mastodon-near.me
@@ -14,7 +14,7 @@ The map showcases service providers with a built-in local membership and demonst
  - Open for registration (including approval required),
  - Clearly demonstrated intent to serve a particular facility (e.g. a university), neighbourhood, city, region or country; or a specific language or family of languages that can generally be thought of as being constrained to a particular locale or region or are minority/underserved languages,
  - HTTPS only,
- - Over 50 active members
+ - Over 50 active members (hyper-local servers may have fewer MAU).
  
  ## Exclusion Criteria
   - Any server that clearly and overtly contravenes the Mastodon Server Covenant https://joinmastodon.org/covenant (public signing of the Mastodon Server Convenant is not required for inclusion),
@@ -167,6 +167,7 @@ Open an Issue with the add, remove or edit.
 | https://ploen.social/ | Kreis Plön, Germany | ------------- |
 | https://pnw.zone/ | Pacific Northwest region (Canada and USA) | ------------- |
 | https://pol.social/explore | Poland | ------------- |
+| https://rebel.ar/ | Argentina | ------------- |
 | https://rheinneckar.social| Metropolregion Rhein-Neckar, Germany | ------------- |
 | https://ruhr.social| The Ruhr, Germany | ------------- |
 | https://rva.party/ | Richmond, Virginia, USA | ------------- |
@@ -197,6 +198,7 @@ Open an Issue with the add, remove or edit.
 | https://tooting.ch/ | Switzerland | ------------- |
 | https://troet.cafe/ | Germany | ------------- |
 | https://triangletoot.party/ | Research Triangle, North Carolina, USA | ------------- |
+| https://tuebingen.network/ | Tübingen, Germany | ------------- |
 | https://tukkers.online/ | Twente, Germany | ------------- |
 | https://tyrol.social/ | Tyrol, Austria | ------------- | 
 | https://tw.town/ | Eastern Washington, USA | ------------- |
