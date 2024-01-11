@@ -1,7 +1,7 @@
 # Africa
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
-| Africa (continent) |   | https://sasa.africa/ |  |
+| Africa |   | https://sasa.africa/ |  |
 | Nigeria |   | https://mastodon.holeyfox.co/ |  |
 | Republic of Souh Africa |   | https://mastodon.africa/ |  |
 
@@ -14,4 +14,4 @@
 | Germany | Berlin  | https://toot.berlin/ |  |
 | Germany | Bachgau Region | https://mastodon.bachgau.social/ |  |
 | Wales |   | https://toot.wales | Cymraeg (Welsh) |
-| Western Balkans (region) | | https://balkan.fedive.rs/ | босански (Bosnian) |
+| Western Balkans | | https://balkan.fedive.rs/ | босански (Bosnian) |
