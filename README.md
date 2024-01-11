@@ -28,7 +28,7 @@ Open an Issue with the add, remove or edit.
 
 | URL | geo target | notable language support |
 | ------------- | ------------- | ------------- |
-| https://0x3c.pl/ | Trójmiasto, Poland |  |
+| https://0x3c.pl/ | Trójmiasto, Poland | ------------- |
 | https://a2mi.social | Ann Arbor, Michigan, USA | ------------- |
 | https://ailbhean.co-shaoghal.net/ | Scotland | Gàidhlig (Gaelic) |
 | https://alaskan.social/ | Alaska, USA | ------------- |
