@@ -53,6 +53,7 @@ Open an Issue with the add, remove or edit.
 | https://dresden.network/ | Dresden, Germany | ------------- |
 | https://est.social/ | Estonia | -------------  |
 | https://expressional.social/ | Copenhagen, Denmark | ------------- |
+| https://famichiki.jp/ | Japan | English (expat community) |
 | https://fedi.at | Austria |  ------------- |
 | https://fikaverse.club/ | Scandinavia | ------------- |
 | https://frankfurt.social/ | Frankfurt, Germany | ------------- |
@@ -133,10 +134,10 @@ Open an Issue with the add, remove or edit.
 | https://mastodonczech.cz/ | Czechia | ------------- |
 | https://mastodos.com/ | Kyoto, Japan | ------------- |
 | https://metu.life/ | Middle East Technical University, Ankara, Turkey | ------------- |
+| https://misskey.id/ | Indonesia | ------------- |
 | https://mstdn.ca/ | Canada | ------------- |
 | https://mstdn.dk/ | Denmark | ------------- |
 | https://mstdn.es/ | Spain | ------------- |
-| https://mstdn.id/ | Indonesia | ------------- |
 | https://mstdn.jp/ | Japan | ------------- |
 | https://mstdn.mx/ | Mexico | ------------- |
 | https://mstdn.my/ | Malaysia | ------------- |
@@ -159,6 +160,7 @@ Open an Issue with the add, remove or edit.
 | https://ooe.social/ | Linz, Austria | ------------- |
 | https://oslo.town/ | Oslo, Norway | ------------- |
 | https://osna.social/ | Osnabruck, Germany | ------------- |
+| https://ottawa.place/ | Ottawa, Canada | ------------- |
 | https://pdx.sh/ | Portland, Oregon, USA | ------------- |
 | https://pdx.social/ | Portland, Oregon, USA | ------------- |
 | https://pfalz.social/ | Pfalz Region, Germany | Pälzisch (Palatine) |
