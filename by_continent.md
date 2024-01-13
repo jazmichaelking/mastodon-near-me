@@ -8,6 +8,7 @@
 
 # Asia
 | Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
 | Armenia | | https://xn--69aa8bzb.xn--y9a3aq/ | հայերեն / hayeren (Armenian) |
 | China | Hong Kong | https://tea.codes/ | |
 | China | Hong Kong | https://mao.mastodonhub.com/ | |
@@ -38,6 +39,7 @@
 
 # North America
 | Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
 | Canada | | https://mstdn.ca/ | |
 | Canada | | https://thecanadian.social/ | |
 | Canada | Atlantic Canada | https://oceanplayground.social/ | |
@@ -51,6 +53,8 @@
 | Pacific Northwest | | https://pnw.zone/ | |
 
 ## Unites States of America
+| Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
 | Washington | San Juan Islands | https://sanjuans.life/ | |
 | Washington | Bellingham | https://subdued.social/ | | 
 | Washington | Seattle | https://social.seattle.wa.us/ | | 
@@ -83,6 +87,7 @@
 
 # South America
 | Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
 | Argentina | | https://rebel.ar/ | |
 | Brazil | | https://burnthis.town/ |
 | Chile | | https://chilemasto.casa/ | |
@@ -92,6 +97,7 @@
 
 # Oceania
 | Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
 | Australia | | https://aus.social/ | |
 | Australia | | https://mastodon.au/ | |
 | Australia | | https://theblower.au/ | |
