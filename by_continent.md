@@ -20,7 +20,7 @@
 | Japan | Kyoto | https://mstdn.jp/ |  |
 | Malaysia | | https://mstdn.my/ | |
 | Singapore | | https://mastodon.sg/ | Singlish |
-| South Korea (대한민국) | https://planet.moe/ | |
+| South Korea (대한민국) | | https://planet.moe/ | |
 | Thailand (Muang Thai) | | https://mastodon.in.th/ | |
 | Turkey (Türkiye) | | https://mastodon.com.tr/ | |
 
@@ -55,6 +55,24 @@
 | France | Aquitaine | https://toot.aquilenet.fr/ | |
 | France | Auxerre | https://mastodon.gougere.fr/ | |
 | France | Brittany (Bretagne, Breizh, Bertaèyn) | https://mastodon.fedi.bzh/ | Brezhoneg (Breton), Galo (Gallo) |
+| Hungary (Magyarország) | | https://mastodon.grin.hu/ | |
+| Hungary (Magyarország) | Eötvös Loránd University (ELTE), Budapest | https://mastodon.elte.hu/ | |
+| Iceland (Ísland) | | https://xn--lofll-1sat.is/ | Íslenska (Icelandic) |
+| Ireland (Éire) | | https://mastodon.ie/ | Gaeilge (Irish) |
+| Italy (Italia) | | https://mastodon.uno | |
+| Italy (Italia ) | Bologna | https://mastodon.bida.im/ | |
+| Luxembourg (Lëtzebuerg) | | https://mastodon.opencloud.lu/ | |
+| Netherlands (Nederland) | | https://mastodon.nl | |
+| Netherlands (Nederland) | Brabant | https://nwb.social/ | |
+| Netherlands (Nederland) | Friesland (Fryslân) | https://mastodon.frl/ | Fries (Frisian), Stellingwerfs (Stellingwarfs) |
+| Netherlands (Nederland) | Twente | https://tukkers.online/ | |
+| Norway (Norge) | | https://snabelen.no/ | |
+| Norway (Norge) | Bergen | https://fribygda.no | |
+| Norway (Norge) | Oslo | https://oslo.town | |
+| Norway (Norge) | Universitetet i Oslo, Oslo | https://mastodon.babb.no/
+| Poland (Polska) | | https://mastodon.com.pl/ | |
+| Poland (Polska) | | https://pol.social/ | |
+| Poland (Polska) | Tricity (Trójmiasto) | https://0x3c.pl/ | |
 | Wales (Cymru) | | https://toot.wales | Cymraeg (Welsh) |
 | Western Balkans | | https://balkan.fedive.rs/ | босански (Bosnian) |
 
