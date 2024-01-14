@@ -9,33 +9,61 @@
 # Asia
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
+| Persian-language focus | | https://persiansmastodon.com/ | فارسی / Fārsī (Persian)
 | Armenia | | https://xn--69aa8bzb.xn--y9a3aq/ | հայերեն / hayeren (Armenian) |
-| China | Hong Kong | https://tea.codes/ | |
-| China | Hong Kong | https://mao.mastodonhub.com/ | |
+| China (中国) | Hong Kong | https://tea.codes/ | |
+| China (中国) | Hong Kong | https://mao.mastodonhub.com/ | |
 | Indonesia | | https://misskey.id/ | Bahasa Indonesia (Indonesian) |
-| Israel | | https://tooot.im | עִברִית (Hebrew) |
-| Japan | | https://famichiki.jp/ | English (Expat community) |
+| Israel (יִשְׂרָאֵל) | | https://tooot.im | עִברִית (Hebrew) |
+| Japan | | https://famichiki.jp/ | English (expat community) |
 | Japan | | https://mstdn.jp/ |  |
 | Japan | Kyoto | https://mstdn.jp/ |  |
 | Malaysia | | https://mstdn.my/ | |
-| Singapore | | https://mastodon.sg/ | |
-| South Korea | https://planet.moe/ | |
+| Singapore | | https://mastodon.sg/ | Singlish |
+| South Korea (대한민국) | https://planet.moe/ | |
 | Thailand (Muang Thai) | | https://mastodon.in.th/ | |
 | Turkey (Türkiye) | | https://mastodon.com.tr/ | |
 
 # Europe
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
-| France | Brittany | https://mastodon.fedi.bzh/ | Brezhoneg (Breton) |
-| France |   | https://mamot.fr/ |   |
-| Germany |   | https://dizl.de/ |  |
-| Germany | Berlin  | https://toot.berlin/ |  |
-| Germany | Bachgau Region | https://mastodon.bachgau.social/ |  |
-| Wales |   | https://toot.wales | Cymraeg (Welsh) |
+| Belarusian-language focus | | https://vkl.world/ | беларуская мова (Belarusian) |
+| Catalan-language focus | | https://xarxa.cloud/ | Català (Catalan) |
+| Greek-language focus | | https://electricrequiem.com/ | ελληνικά (Greek) |
+| Sámi-language focus | | https://samenet.social/ | Sámi (Sami) |
+| Scandinavian-language focus | | https://fikaverse.club/ | |
+| Austria (Österreich) | | https://aut.social/ | |
+| Austria (Österreich) | | https://fedi.at/ | |
+| Austria (Österreich) | | https://voi.social/  | |
+| Austria (Österreich) | Graz | https://graz.social/ | |
+| Austria (Österreich) | Salzburg | https://sbg-social.at/ | |
+| Austria (Österreich) | Tyrol (Tirol) | https://tyrol.social/ | |
+| Austria (Österreich) | Upper Austria (Oberösterreich) | https://ooe.social/ | |
+| Austria (Österreich) | Vienna (Wien) | https://wien.rocks | |
+| Belgium (België, Belgique, Belgien | | https://mastodon-belgium.be/ | |
+| Belgium (België, Belgique, Belgien | Flanders (Vlaanderen) | https://mastodon.vlaanderen/ | |
+| Czech Republic (Česko) | | https://gomastodon.cz/ | |
+| Czech Republic (Česko) | | https://mastodonczech.cz/ | |
+| Czech Republic (Česko) | | https://witter.cz/ | |
+| Denmark (Danmark) | | https://mstdn.dk/ | |
+| Denmark (Danmark) | Copenhagen (København) | https://expressional.social/ | |
+| Denmark (Danmark) | Nørrebro, Copenhagen (København) | https://expressional.social/ | |
+| Estonia (Eesti) | | https://est.social/ | Eesti keel (Estonian) |
+| Estonia (Eesti) | | https://mastodon.ee/ | Eesti keel (Estonian) |
+| Finland (Suomi) | | https://mastodontti.fi/ | Suomi (Finnish) | 
+| France | | https://piaille.fr/ | |
+| France | Aquitaine | https://toot.aquilenet.fr/ | |
+| France | Auxerre | https://mastodon.gougere.fr/ | |
+| France | Brittany (Bretagne, Breizh, Bertaèyn) | https://mastodon.fedi.bzh/ | Brezhoneg (Breton), Galo (Gallo) |
+| Wales (Cymru) | | https://toot.wales | Cymraeg (Welsh) |
 | Western Balkans | | https://balkan.fedive.rs/ | босански (Bosnian) |
 
 ## Germany
 | Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
+| Germany |   | https://dizl.de/ |  |
+| Germany | Berlin | https://toot.berlin/ |  |
+| Germany | Bachgau | https://mastodon.bachgau.social/ |  |
 
 # North America
 | Locale | Sublocale | URL | notable language support |
