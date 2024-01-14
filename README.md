@@ -58,7 +58,6 @@ Open an Issue with the add, remove or edit.
 | https://frankfurt.social/ | Frankfurt, Germany |  |
 | https://freiburg.social/ | Freiburg im Breisgau, Germany |  |
 | https://fsmi.social/ | India |  |
-| https://fuerstentum.social | Liechtenstein |  |
 | https://fulda.social/ | Fulda, Germany |  |
 | https://gardenstate.social/ | New Jersey, USA |  |
 | https://glasgow.social | Glasgow, Scotland |  |
@@ -189,6 +188,7 @@ Open an Issue with the add, remove or edit.
 | https://sueden.social/ | Southern Germany |  |
 | https://tea.codes/ | Hong Kong & Mainland China |  |
 | https://theatl.social | Atlanta, Georgia, USA |  |
+| https://theblower.au/ | Australia | |
 | https://thecanadian.social/ | Canada |  |
 | https://thegem.city/ | Dayton, Ohio, USA |  |
 | https://toot.aquilenet.fr | Aquitaine, France |  |
