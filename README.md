@@ -1,5 +1,5 @@
 # Mastodon Near Me -  Fediverse communities by country, region, and language
-A map and data directory showcasing ActivityPub microblogging service providers, each specifically catering to a certain locality or offering support in a notable language.
+A curated map and data directory showcasing ActivityPub microblogging service providers, each catering to a certain locality or offering support in a notable language, and open for new registrations.
 
 ## Map 
 The interactive map of the available servers is maintained at http://mastodon-near.me
