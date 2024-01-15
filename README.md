@@ -6,7 +6,7 @@ The interactive map of the available servers is maintained at http://mastodon-ne
 
 ![A map of the world with markers for Mastodon servers in geographic areas](https://user-images.githubusercontent.com/3419832/229815849-9370631a-e986-4090-a18e-be2d5a8ce608.png)
 ## Purpose 
-The map showcases service providers with a built-in local membership and demonstrated content moderation as a way to help choose a Mastodon server.
+Geographic service providers often cater to users from specific regions or countries, including their diasporas, by supporting local languages. Those new to the fediverse can use the map (or the data tables below) to find servers focused on their community and language. This map highlights servers with a strong local user base and effective content moderation, aiding in the selection of a suitable provider. Additionally, many of these online services support endangered languages, helping to bridge the digital gap in language representation.
 
 ## Inclusion Criteria 
  - Mastodon or a Mastodon fork (other ActivityPub services may become in scope at a later date),
@@ -25,8 +25,6 @@ A separate register of regional servers is available at https://masto.town/
 Open an Issue with the add, remove or edit.
 
 ## Data 
-
-Geographic service providers tend to attract users from a specific country or area (and its diaspora), and support the spoken language(s) of their locale.
 
 ### Africa
 | Locale | Sublocale | URL | notable language support |
