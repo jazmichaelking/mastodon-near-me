@@ -213,6 +213,7 @@ To improve readability, United States of America is separated into its own table
 | Maine | Boston | https://better.boston/ | |
 | Maine | Massachussets Institute of Technology, Cambridge | https://mastodon.mit.edu/ | |
 | Michigan | Ann Arbor | https://a2mi.social/ | |
+| Michigan | Kalamazoo | https://kzoo.to/ | |
 | Missouri | Kansas City | https://kcmo.social | |
 | New Jersey | | https://gardenstate.social/ | |
 | New York | New York | https://masto.nyc/ | |
