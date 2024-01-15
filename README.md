@@ -1,4 +1,4 @@
-# Mastodon Near Me -  Fediverse communities by country and region
+# Mastodon Near Me -  Fediverse communities by country, region, and language
 A map and data directory showcasing ActivityPub microblogging service providers, each specifically catering to a certain locality or offering support in a notable language.
 
 ## Map 
