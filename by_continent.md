@@ -108,6 +108,39 @@ To improve readability, Austria, Germany, and the United Kingdom are separated i
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Germany | | https://dizl.de/ |  |
+| Germany | Plön | https://ploen.social/ |  |
+| Germany | Norden | https://norden.social |  |
+| Germany | Uckermark | https://hub.uckermark.social/ |  |
+| Germany | Brandenburg | https://brandenburg.social/ |  |
+| Germany | Potsdam | https://links.potsda.mn/ |  |
+| Germany | Magdeburg | https://machteburch.social |  |
+| Germany | Osnabrück | https://osna.social/ |  |
+| Germany | Münster | https://muenster.im/ |  |
+| Germany | Ruhr | https://ruhr.social/ |  |
+| Germany | Nordrhein-Westfalen | https://nrw.social/ |  |
+| Germany | Dresden | https://dresden.network/  |  |
+| Germany | Chemnitz | https://netzkms.de/ |  |
+| Germany | Fulda | https://fulda.social/ |  |
+| Germany | Hesse | https://hessen.social/ |  |
+| Germany | Bonn | https://bonn.social/ |  |
+| Germany | Cologne (Köln) | https://social.cologne/ |  |
+| Germany | Frankfurt | https://frankfurt.social/ |  |
+| Germany | Palatinate (Pfalz) | https://pfalz.social/ |  |
+| Germany | Naheregion  | https://nahe.social/ |  |
+| Germany | Darmstadt | https://darmstadt.social/ |  |
+| Germany | Würzburg | https://wue.social/ |  |
+| Germany | Nürnberg | https://nuernberg.social/ |  |
+| Germany | Rhine-Neckar | https://rheinneckar.social/ |  |
+| Germany | Saarland | https://social.saarland/ |  |
+| Germany | Karlsruhe | https://karlsruhe-social.de/ |  |
+| Germany | Süddeutschland | https://sueden.social/ |  |
+| Germany | Tübingen | https://tuebingen.network/ |  |
+| Germany | Bavaria (Bayern) | https://mastodon.bayern/ |  |
+| Germany | Freiburg | https://freiburg.social/ |  |
+| Germany | Augsburg | https://augsburg.social/ |  |
+| Germany | Munich (München)  | https://muenchen.social/ |  |
+| Germany | Berlin | https://berlin.social/ |  |
+| Germany | Berlin | https://mastodon.berlin/ |  |
 | Germany | Berlin | https://toot.berlin/ |  |
 | Germany | Bachgau | https://mastodon.bachgau.social/ |  |
 
