@@ -4,7 +4,7 @@
 | Africa (continent) |   | https://sasa.africa/ |  |
 | Madagascar |   | https://mastodon.mg/ | مَلَغَسِ (Malagasy) |
 | Nigeria |   | https://mastodon.holeyfox.co/ |  |
-| Republic of South Africa |   | https://mastodon.africa/ |  |
+| South Africa |   | https://mastodon.africa/ |  |
 
 # Asia
 | Locale | Sublocale | URL | notable language support |
@@ -27,11 +27,14 @@
 # Europe
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
-| Belarusian-language focus | | https://vkl.world/ | беларуская мова (Belarusian) |
-| Catalan-language focus | | https://xarxa.cloud/ | Català (Catalan) |
-| Greek-language focus | | https://electricrequiem.com/ | ελληνικά (Greek) |
-| Sámi-language focus | | https://samenet.social/ | Sámi (Sami) |
-| Scandinavian-language focus | | https://fikaverse.club/ | |
+| Basque language focus | | https://mastodon.eus/ | Euskara (Basque) |
+| Belarusian language focus | | https://vkl.world/ | беларуская мова (Belarusian) |
+| Catalan language focus | | https://mastodont.cat/ | Català (Catalan) |
+| Catalan language focus | | https://xarxa.cloud/ | Català (Catalan) |
+| Greek language focus | | https://electricrequiem.com/ | ελληνικά (Greek) |
+| Occitan language focus | | https://occitania.social/ | Occitan |
+| Sámi language focus | | https://samenet.social/ | Sámi |
+| Scandinavian language focus | | https://fikaverse.club/ | |
 | Austria (Österreich) | | https://aut.social/ | |
 | Austria (Österreich) | | https://fedi.at/ | |
 | Austria (Österreich) | | https://voi.social/  | |
@@ -42,14 +45,16 @@
 | Austria (Österreich) | Vienna (Wien) | https://wien.rocks | |
 | Belgium (België, Belgique, Belgien | | https://mastodon-belgium.be/ | |
 | Belgium (België, Belgique, Belgien | Flanders (Vlaanderen) | https://mastodon.vlaanderen/ | |
+| Croatia (Hrvatska) | | https://mastodon.hr/ | Hrvatski (Croatian) |
 | Czech Republic (Česko) | | https://gomastodon.cz/ | |
 | Czech Republic (Česko) | | https://mastodonczech.cz/ | |
 | Czech Republic (Česko) | | https://witter.cz/ | |
 | Denmark (Danmark) | | https://mstdn.dk/ | |
 | Denmark (Danmark) | Copenhagen (København) | https://expressional.social/ | |
-| Denmark (Danmark) | Nørrebro, Copenhagen (København) | https://expressional.social/ | |
+| Denmark (Danmark) | Nørrebro, Copenhagen (København) | https://norrebro.space/ | |
 | Estonia (Eesti) | | https://est.social/ | Eesti keel (Estonian) |
 | Estonia (Eesti) | | https://mastodon.ee/ | Eesti keel (Estonian) |
+| Faroe islands (Føroyar) | | https://mastodon.fo/ | Føroyskt mál (Faroese) |
 | Finland (Suomi) | | https://mastodontti.fi/ | Suomi (Finnish) | 
 | France | | https://piaille.fr/ | |
 | France | Aquitaine | https://toot.aquilenet.fr/ | |
@@ -73,15 +78,40 @@
 | Poland (Polska) | | https://mastodon.com.pl/ | |
 | Poland (Polska) | | https://pol.social/ | |
 | Poland (Polska) | Tricity (Trójmiasto) | https://0x3c.pl/ | |
-| Wales (Cymru) | | https://toot.wales | Cymraeg (Welsh) |
+| Portugal | | https://masto.pt/ | |
+| România | | https://mstdn.ro/ | |
+| Russia (Россия) | | https://mastodon.ml/ | |
+| Slovakia (Slovensko) | | https://mastodon.sk/ | Slovenčina (Slovak) |
+| Slovenia (Slovenija) | | https://toot.si/ | Slovenščina (Slovene) |
+| Spain (España) | | https://mstdn.es/ | |
+| Spain (España) | Málaga | https://malaga.social/ | |
+| Sweden (Sverige) | | https://mastodon.nu/ | |
+| Sweden (Sverige) | | https://toots.nu/ | |
+| Sweden (Sverige) | Umeå Universitet, Umeå | https://mastodon.acc.sunet.se/ | |
+| Switzerland | | https://tooting.ch/ | |
+| Switzerland | | https://mastodon.free-solutions.org/ | |
+| Ukraine (Україна) | | https://social.net.ua/ | |
 | Western Balkans | | https://balkan.fedive.rs/ | босански (Bosnian) |
 
 ## Germany
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
-| Germany |   | https://dizl.de/ |  |
+| Germany | | https://dizl.de/ |  |
 | Germany | Berlin | https://toot.berlin/ |  |
 | Germany | Bachgau | https://mastodon.bachgau.social/ |  |
+
+## United Kingdom
+| ------------- | ------------- | ------------- | ------------- |
+| Scottish Gaelic language focus | | https://ailbhean.co-shaoghal.net/ | Gàidhlig (Scottish Gaelic) |
+| United Kingdom | | https://mastodonapp.uk/ | |
+| United Kingdom | | https://mastodon.me.uk/ | |
+| United Kingdom | | https://mastodon.org.uk/ | |
+| England | Bath | https://bath.social/ | |
+| England | Isle of Wight | https://mastodon.iow.social/ | |
+| England | London | https://mastodon.london/ | |
+| Scotland (Alba) | | https://mastodon.scot | |
+| Scotland (Alba) | Glasgow | https://glasgow.social | |
+| Wales (Cymru) | | https://toot.wales | Cymraeg (Welsh) |
 
 # North America
 | Locale | Sublocale | URL | notable language support |
@@ -94,8 +124,8 @@
 | Canada | Québec | https://mastodon.quebec/ | Français Québécois (Quebec French) |
 | Canada | Vancouver | https://vancity.social/ | |
 | Costa Rica | | https://mastodon.cr/ | |
-| Mexico (México) | | https://mastodon.mx/ | |
-| Mexico (México) | | https://mstdn.mx/ | |
+| México | | https://mastodon.mx/ | |
+| México | | https://mstdn.mx/ | |
 | Pacific Northwest | | https://pnw.zone/ | |
 
 ## Unites States of America
