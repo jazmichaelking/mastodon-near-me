@@ -1,3 +1,19 @@
+# Language Focus
+Some servers are not geography focussed, but are instead focussed on supporting a specific non-majority language, and often its associated culture. 
+
+| Language Focus | URL | notable language support |
+| ------------- | ------------- | ------------- |
+| Basque | https://mastodon.eus/ | Euskara (Basque) |
+| Belarusian | https://vkl.world/ | беларуская мова (Belarusian) |
+| Catalan | https://mastodont.cat/ | Català (Catalan) |
+| Catalan | https://xarxa.cloud/ | Català (Catalan) |
+| Greek | https://electricrequiem.com/ | ελληνικά (Greek) |
+| Occitan | https://occitania.social/ | Occitan |
+| Persian | https://persiansmastodon.com/ | فارسی / Fārsī (Persian) |
+| Sámi | https://samenet.social/ | Sámi |
+| Scandinavian | https://fikaverse.club/ | |
+| Scottish Gaelic | https://ailbhean.co-shaoghal.net/ | Gàidhlig (Scottish Gaelic) |
+
 # Africa
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
@@ -9,14 +25,13 @@
 # Asia
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
-| Persian-language focus | | https://persiansmastodon.com/ | فارسی / Fārsī (Persian)
 | Armenia | | https://xn--69aa8bzb.xn--y9a3aq/ | հայերեն / hayeren (Armenian) |
 | China (中国) | Hong Kong | https://tea.codes/ | |
 | China (中国) | Hong Kong | https://mao.mastodonhub.com/ | |
 | Indonesia | | https://misskey.id/ | Bahasa Indonesia (Indonesian) |
 | Israel (יִשְׂרָאֵל) | | https://tooot.im | עִברִית (Hebrew) |
-| Japan | | https://famichiki.jp/ | English (expat community) |
 | Japan | | https://mstdn.jp/ |  |
+| Japan | | https://famichiki.jp/ | English (expat community) |
 | Japan | Kyoto | https://mstdn.jp/ |  |
 | Malaysia | | https://mstdn.my/ | |
 | Singapore | | https://mastodon.sg/ | Singlish |
@@ -27,14 +42,6 @@
 # Europe
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
-| Basque language focus | | https://mastodon.eus/ | Euskara (Basque) |
-| Belarusian language focus | | https://vkl.world/ | беларуская мова (Belarusian) |
-| Catalan language focus | | https://mastodont.cat/ | Català (Catalan) |
-| Catalan language focus | | https://xarxa.cloud/ | Català (Catalan) |
-| Greek language focus | | https://electricrequiem.com/ | ελληνικά (Greek) |
-| Occitan language focus | | https://occitania.social/ | Occitan |
-| Sámi language focus | | https://samenet.social/ | Sámi |
-| Scandinavian language focus | | https://fikaverse.club/ | |
 | Austria (Österreich) | | https://aut.social/ | |
 | Austria (Österreich) | | https://fedi.at/ | |
 | Austria (Österreich) | | https://voi.social/  | |
@@ -103,7 +110,6 @@
 ## United Kingdom
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
-| Scottish Gaelic language focus | | https://ailbhean.co-shaoghal.net/ | Gàidhlig (Scottish Gaelic) |
 | United Kingdom | | https://mastodonapp.uk/ | |
 | United Kingdom | | https://mastodon.me.uk/ | |
 | United Kingdom | | https://mastodon.org.uk/ | |
@@ -111,6 +117,7 @@
 | England | Isle of Wight | https://mastodon.iow.social/ | |
 | England | London | https://mastodon.london/ | |
 | Scotland (Alba) | | https://mastodon.scot | |
+| Scotland (Alba) | | https://ailbhean.co-shaoghal.net/ | Gàidhlig (Scottish Gaelic) |
 | Scotland (Alba) | Glasgow | https://glasgow.social | |
 | Wales (Cymru) | | https://toot.wales | Cymraeg (Welsh) |
 
