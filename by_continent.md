@@ -101,6 +101,7 @@
 | Germany | Bachgau | https://mastodon.bachgau.social/ |  |
 
 ## United Kingdom
+| Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Scottish Gaelic language focus | | https://ailbhean.co-shaoghal.net/ | Gàidhlig (Scottish Gaelic) |
 | United Kingdom | | https://mastodonapp.uk/ | |
