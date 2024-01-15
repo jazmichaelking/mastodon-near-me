@@ -186,7 +186,10 @@ To improve readability, United States of America is separated into its own table
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Argentina | | https://rebel.ar/ | |
+| Brazil | | https://bolha.us/ |
 | Brazil | | https://burnthis.town/ |
+| Brazil | | https://colorid.es/ |
+| Brazil | Curitiba | https://cwb.social/ |
 | Chile | | https://chilemasto.casa/ | |
 | Chile | | https://lile.cl/ | |
 | Paraguay | | https://mastodon.com.py/ | |
