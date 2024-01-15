@@ -1,23 +1,6 @@
-## Language Focus
-Service providers that support messaging in a specific language or languages, but are not necessarily focussed on a specfic gepgraphic area.
-
-| Language Focus | URL | notable language support |
-| ------------- | ------------- | ------------- |
-| Basque | https://mastodon.eus/ | Euskara (Basque) |
-| Belarusian | https://vkl.world/ | беларуская мова (Belarusian) |
-| Catalan | https://mastodont.cat/ | Català (Catalan) |
-| Catalan | https://xarxa.cloud/ | Català (Catalan) |
-| Greek | https://electricrequiem.com/ | ελληνικά (Greek) |
-| Occitan | https://occitania.social/ | Occitan |
-| Persian | https://persiansmastodon.com/ | فارسی / Fārsī (Persian) |
-| Sámi | https://samenet.social/ | Sámi |
-| Scandinavian languages | https://fikaverse.club/ | |
-| Scottish Gaelic | https://ailbhean.co-shaoghal.net/ | Gàidhlig (Scottish Gaelic) |
-
-## Geography focus
 Geographic service providers tend to attract users from a specific country or area (and its diaspora), and support the spoken language(s) of their locale.
 
-### Africa
+## Africa
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Africa (continent) | | https://sasa.africa/ |  |
@@ -26,7 +9,7 @@ Geographic service providers tend to attract users from a specific country or ar
 | South Africa | | https://mastodon.africa/ |  |
 | Tunisia | | https://mastodon.tn/ | |
 
-### Asia
+## Asia
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Armenia | | https://xn--69aa8bzb.xn--y9a3aq/ | հայերեն / hayeren (Armenian) |
@@ -38,18 +21,23 @@ Geographic service providers tend to attract users from a specific country or ar
 | Japan | | https://famichiki.jp/ | English (expat community) |
 | Japan | Kyoto | https://mstdn.jp/ |  |
 | Malaysia | | https://mstdn.my/ | |
+| Persia (diaspora) | | https://persiansmastodon.com/ | فارسی / Fārsī (Persian) |
 | Singapore | | https://mastodon.sg/ | Singlish |
 | South Korea | | https://planet.moe/ | |
 | Thailand | | https://mastodon.in.th/ | |
 | Turkey (Türkiye) | | https://mastodon.com.tr/ | |
 
-### Europe
+## Europe
 To improve readability, Austria, Germany, and the United Kingdom are separated into their own tables below. 
 
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
+| Basque Country (Euskal Herria) | | https://mastodon.eus/ | Euskara (Basque) |
+| Belarus | | https://vkl.world/ | беларуская мова (Belarusian) |
 | Belgium | | https://mastodon-belgium.be/ | |
 | Belgium | Flanders (Vlaanderen) | https://mastodon.vlaanderen/ | |
+| Catalan Countries (Països Catalans) | | https://mastodont.cat/ | Català (Catalan) |
+| Catalan Countries (Països Catalans) | | https://xarxa.cloud/ | Català (Catalan) |
 | Croatia | | https://mastodon.hr/ | Hrvatski (Croatian) |
 | Czech Republic | | https://gomastodon.cz/ | |
 | Czech Republic | | https://mastodonczech.cz/ | |
@@ -65,6 +53,7 @@ To improve readability, Austria, Germany, and the United Kingdom are separated i
 | France | Aquitaine | https://toot.aquilenet.fr/ | |
 | France | Auxerre | https://mastodon.gougere.fr/ | |
 | France | Brittany (Bretagne, Breizh, Bertaèyn) | https://mastodon.fedi.bzh/ | Brezhoneg (Breton), Galo (Gallo) |
+| Greece | | https://electricrequiem.com/ | ελληνικά (Greek) |
 | Hungary | | https://mastodon.grin.hu/ | |
 | Hungary | Eötvös Loránd University (ELTE), Budapest | https://mastodon.elte.hu/ | |
 | Iceland | | https://xn--lofll-1sat.is/ | Íslenska (Icelandic) |
@@ -80,12 +69,15 @@ To improve readability, Austria, Germany, and the United Kingdom are separated i
 | Norway | Bergen | https://fribygda.no | |
 | Norway | Oslo | https://oslo.town | |
 | Norway | Universitetet i Oslo, Oslo | https://mastodon.babb.no/
+| Occitania | | https://occitania.social/ | Occitan |
 | Poland | | https://mastodon.com.pl/ | |
 | Poland | | https://pol.social/ | |
 | Poland | Tricity (Trójmiasto) | https://0x3c.pl/ | |
 | Portugal | | https://masto.pt/ | |
 | România | | https://mstdn.ro/ | |
 | Russia (Россия) | | https://mastodon.ml/ | |
+| Sápmi | | https://samenet.social/ | Sámi |
+| Scandianavia | | https://fikaverse.club/ |  |
 | Slovakia | | https://mastodon.sk/ | Slovenčina (Slovak) |
 | Slovenia | | https://toot.si/ | Slovenščina (Slovene) |
 | Spain | | https://mstdn.es/ | |
@@ -100,7 +92,7 @@ To improve readability, Austria, Germany, and the United Kingdom are separated i
 | Ukraine (Україна) | | https://social.net.ua/ | |
 | Western Balkans | | https://balkan.fedive.rs/ | босански (Bosnian) |
 
-#### Austria (Österreich)
+### Austria (Österreich)
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Austria | | https://aut.social/ | |
@@ -112,14 +104,14 @@ To improve readability, Austria, Germany, and the United Kingdom are separated i
 | Austria | Upper Austria (Oberösterreich) | https://ooe.social/ | |
 | Austria | Vienna (Wien) | https://wien.rocks | |
 
-#### Germany
+### Germany
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Germany | | https://dizl.de/ |  |
 | Germany | Berlin | https://toot.berlin/ |  |
 | Germany | Bachgau | https://mastodon.bachgau.social/ |  |
 
-#### United Kingdom
+### United Kingdom
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | England | Bath | https://bath.social/ | |
@@ -133,7 +125,7 @@ To improve readability, Austria, Germany, and the United Kingdom are separated i
 | United Kingdom | | https://mastodonapp.uk/ | |
 | Wales (Cymru) | | https://toot.wales | Cymraeg (Welsh) |
 
-### North America
+## North America
 To improve readability, United States of America is separated into its own table below.
 
 | Locale | Sublocale | URL | notable language support |
@@ -150,7 +142,7 @@ To improve readability, United States of America is separated into its own table
 | México | | https://mstdn.mx/ | |
 | Pacific Northwest | | https://pnw.zone/ | |
 
-#### Unites States of America
+### Unites States of America
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | California | Northern California | https://norcal.social/ | |
@@ -183,7 +175,7 @@ To improve readability, United States of America is separated into its own table
 | Washington | San Juan Islands | https://sanjuans.life/ | |
 | Washington | Seattle | https://social.seattle.wa.us/ | | 
 
-### South America
+## South America
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Argentina | | https://rebel.ar/ | |
@@ -196,7 +188,7 @@ To improve readability, United States of America is separated into its own table
 | Paraguay | | https://mastodon.com.py/ | |
 | Uruguay | | https://mastodon.uy/ | |
 
-### Oceania
+## Oceania
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Australia | | https://aus.social/ | |
