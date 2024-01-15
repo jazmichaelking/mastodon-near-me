@@ -1,5 +1,5 @@
 # Language Focus
-Some servers are not geography focussed, but are instead focussed on supporting a specific non-majority language, and often its associated culture. 
+Some servers are not geography focussed, but are instead focussed on supporting messaging in a specific language or languages. 
 
 | Language Focus | URL | notable language support |
 | ------------- | ------------- | ------------- |
@@ -11,7 +11,7 @@ Some servers are not geography focussed, but are instead focussed on supporting 
 | Occitan | https://occitania.social/ | Occitan |
 | Persian | https://persiansmastodon.com/ | فارسی / Fārsī (Persian) |
 | Sámi | https://samenet.social/ | Sámi |
-| Scandinavian | https://fikaverse.club/ | |
+| Scandinavian languages | https://fikaverse.club/ | |
 | Scottish Gaelic | https://ailbhean.co-shaoghal.net/ | Gàidhlig (Scottish Gaelic) |
 
 # Africa
@@ -40,16 +40,10 @@ Some servers are not geography focussed, but are instead focussed on supporting 
 | Turkey (Türkiye) | | https://mastodon.com.tr/ | |
 
 # Europe
+To improve readability, Austria, Germany, and the United Kingdome are separated into their own tables below. 
+
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
-| Austria (Österreich) | | https://aut.social/ | |
-| Austria (Österreich) | | https://fedi.at/ | |
-| Austria (Österreich) | | https://voi.social/  | |
-| Austria (Österreich) | Graz | https://graz.social/ | |
-| Austria (Österreich) | Salzburg | https://sbg-social.at/ | |
-| Austria (Österreich) | Tyrol (Tirol) | https://tyrol.social/ | |
-| Austria (Österreich) | Upper Austria (Oberösterreich) | https://ooe.social/ | |
-| Austria (Österreich) | Vienna (Wien) | https://wien.rocks | |
 | Belgium (België, Belgique, Belgien | | https://mastodon-belgium.be/ | |
 | Belgium (België, Belgique, Belgien | Flanders (Vlaanderen) | https://mastodon.vlaanderen/ | |
 | Croatia (Hrvatska) | | https://mastodon.hr/ | Hrvatski (Croatian) |
@@ -100,6 +94,18 @@ Some servers are not geography focussed, but are instead focussed on supporting 
 | Ukraine (Україна) | | https://social.net.ua/ | |
 | Western Balkans | | https://balkan.fedive.rs/ | босански (Bosnian) |
 
+## Austria (Österreich)
+| Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
+| Austria | | https://aut.social/ | |
+| Austria | | https://fedi.at/ | |
+| Austria | | https://voi.social/  | |
+| Austria | Graz | https://graz.social/ | |
+| Austria | Salzburg | https://sbg-social.at/ | |
+| Austria | Tyrol (Tirol) | https://tyrol.social/ | |
+| Austria | Upper Austria (Oberösterreich) | https://ooe.social/ | |
+| Austria | Vienna (Wien) | https://wien.rocks | |
+
 ## Germany
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
@@ -122,6 +128,8 @@ Some servers are not geography focussed, but are instead focussed on supporting 
 | Wales (Cymru) | | https://toot.wales | Cymraeg (Welsh) |
 
 # North America
+To improve readability, United States of America is separated into its own table below.
+
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Canada | | https://mstdn.ca/ | |
