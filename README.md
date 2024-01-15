@@ -256,6 +256,13 @@ To improve readability, United States of America is separated into its own table
 | New Zealand (Aotearoa) | | https://mastodon.nz/ | |
 | New Zealand (Aotearoa) | | https://mastodon.nzoss.nz/ | te reo (Māori) |
 
+ ## Other Directories
+ Many servers are based on a particular topic, language or area, and some are more general. Here are some other great lists of Mastodon servers you can join:
+ - https://joinmastodon.org/
+ - https://fediverse.party/en/portal/servers
+ - https://masto.town/
+ - https://mastodon.help/instances/en
+
 ## Thanks
 The following people contributed feedback and links for this directory and the associated map:
  - https://the.vermonters.club/@scully
@@ -301,10 +308,4 @@ The following people contributed feedback and links for this directory and the a
  - https://social.tulsa.ok.us/@BalooUriza
  - https://tacobelllabs.net/@rick_d_freeman
  - https://mastodon.world/@beisbolcards
- 
- ## Other Directories
- Many servers are based on a particular topic, language or area, and some are more general. Here are some other great lists of Mastodon servers you can join:
- - https://joinmastodon.org/
- - https://fediverse.party/en/portal/servers
- - https://masto.town/
- - https://mastodon.help/instances/en
+
