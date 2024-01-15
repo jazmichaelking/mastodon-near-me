@@ -92,6 +92,8 @@ To improve readability, Austria, Germany, and the United Kingdom are separated i
 | Sweden (Sverige) | | https://mastodon.nu/ | |
 | Sweden (Sverige) | | https://toots.nu/ | |
 | Sweden (Sverige) | Umeå Universitet, Umeå | https://mastodon.acc.sunet.se/ | |
+| Switzerland | | https://swiss.social/ | |
+| Switzerland | | https://swiss-talk.net/ | |
 | Switzerland | | https://tooting.ch/ | |
 | Switzerland | | https://mastodon.free-solutions.org/ | |
 | Ukraine (Україна) | | https://social.net.ua/ | |
