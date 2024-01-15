@@ -19,10 +19,11 @@ Some servers are not geography focussed, but are instead focussed on supporting 
 ### Africa
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
-| Africa (continent) |   | https://sasa.africa/ |  |
-| Madagascar |   | https://mastodon.mg/ | مَلَغَسِ (Malagasy) |
-| Nigeria |   | https://mastodon.holeyfox.co/ |  |
-| South Africa |   | https://mastodon.africa/ |  |
+| Africa (continent) | | https://sasa.africa/ |  |
+| Madagascar | | https://mastodon.mg/ | مَلَغَسِ (Malagasy) |
+| Nigeria | | https://mastodon.holeyfox.co/ |  |
+| South Africa | | https://mastodon.africa/ |  |
+| Tunisia (تونس) | | https://mastodon.tn/ | |
 
 ### Asia
 | Locale | Sublocale | URL | notable language support |
