@@ -170,7 +170,7 @@ To improve readability, United States of America is separated into its own table
 | Oklahoma | | https://okla.social/ | |
 | Oregon | Portland | https://pdx.sh/ | |
 | Oregon | Portland | https://pdx.social/ | |
-| Pennsylvania | Philadeplphia | https://jawns.club/ | |
+| Pennsylvania | Philadelphia | https://jawns.club/ | |
 | Vermont | | https://vermont.masto.host | |
 | Virginia | Charlottesville | https://cville.online/ | |
 | Virginia | Richmond | https://rva.party/ | |
