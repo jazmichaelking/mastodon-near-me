@@ -1,5 +1,5 @@
 ## Language Focus
-Some servers are not geography focussed, but are instead focussed on supporting messaging in a specific language or languages. 
+Service providers that support messaging in a specific language or languages, but are not necessarily focussed on a specfic gepgraphic area.
 
 | Language Focus | URL | notable language support |
 | ------------- | ------------- | ------------- |
@@ -15,6 +15,7 @@ Some servers are not geography focussed, but are instead focussed on supporting 
 | Scottish Gaelic | https://ailbhean.co-shaoghal.net/ | Gàidhlig (Scottish Gaelic) |
 
 ## Geography focus
+Geographic service providers tend to attract users from a specific country or area (and its diaspora), and support the spoken language(s) of their locale.
 
 ### Africa
 | Locale | Sublocale | URL | notable language support |
@@ -23,23 +24,23 @@ Some servers are not geography focussed, but are instead focussed on supporting 
 | Madagascar | | https://mastodon.mg/ | مَلَغَسِ (Malagasy) |
 | Nigeria | | https://mastodon.holeyfox.co/ |  |
 | South Africa | | https://mastodon.africa/ |  |
-| Tunisia (تونس) | | https://mastodon.tn/ | |
+| Tunisia | | https://mastodon.tn/ | |
 
 ### Asia
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Armenia | | https://xn--69aa8bzb.xn--y9a3aq/ | հայերեն / hayeren (Armenian) |
-| China (中国) | Hong Kong | https://tea.codes/ | |
-| China (中国) | Hong Kong | https://mao.mastodonhub.com/ | |
+| China | Hong Kong | https://tea.codes/ | |
+| China | Hong Kong | https://mao.mastodonhub.com/ | |
 | Indonesia | | https://misskey.id/ | Bahasa Indonesia (Indonesian) |
-| Israel (יִשְׂרָאֵל) | | https://tooot.im | עִברִית (Hebrew) |
+| Israel | | https://tooot.im | עִברִית (Hebrew) |
 | Japan | | https://mstdn.jp/ |  |
 | Japan | | https://famichiki.jp/ | English (expat community) |
 | Japan | Kyoto | https://mstdn.jp/ |  |
 | Malaysia | | https://mstdn.my/ | |
 | Singapore | | https://mastodon.sg/ | Singlish |
-| South Korea (대한민국) | | https://planet.moe/ | |
-| Thailand (Muang Thai) | | https://mastodon.in.th/ | |
+| South Korea | | https://planet.moe/ | |
+| Thailand | | https://mastodon.in.th/ | |
 | Turkey (Türkiye) | | https://mastodon.com.tr/ | |
 
 ### Europe
@@ -47,51 +48,51 @@ To improve readability, Austria, Germany, and the United Kingdom are separated i
 
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
-| Belgium (België, Belgique, Belgien | | https://mastodon-belgium.be/ | |
-| Belgium (België, Belgique, Belgien | Flanders (Vlaanderen) | https://mastodon.vlaanderen/ | |
+| Belgium | | https://mastodon-belgium.be/ | |
+| Belgium | Flanders (Vlaanderen) | https://mastodon.vlaanderen/ | |
 | Croatia (Hrvatska) | | https://mastodon.hr/ | Hrvatski (Croatian) |
 | Czech Republic (Česko) | | https://gomastodon.cz/ | |
 | Czech Republic (Česko) | | https://mastodonczech.cz/ | |
 | Czech Republic (Česko) | | https://witter.cz/ | |
-| Denmark (Danmark) | | https://mstdn.dk/ | |
-| Denmark (Danmark) | Copenhagen (København) | https://expressional.social/ | |
-| Denmark (Danmark) | Nørrebro, Copenhagen (København) | https://norrebro.space/ | |
-| Estonia (Eesti) | | https://est.social/ | Eesti keel (Estonian) |
-| Estonia (Eesti) | | https://mastodon.ee/ | Eesti keel (Estonian) |
+| Denmark | | https://mstdn.dk/ | |
+| Denmark | Copenhagen (København) | https://expressional.social/ | |
+| Denmark | Nørrebro, Copenhagen (København) | https://norrebro.space/ | |
+| Estonia | | https://est.social/ | Eesti keel (Estonian) |
+| Estonia | | https://mastodon.ee/ | Eesti keel (Estonian) |
 | Faroe islands (Føroyar) | | https://mastodon.fo/ | Føroyskt mál (Faroese) |
 | Finland (Suomi) | | https://mastodontti.fi/ | Suomi (Finnish) | 
 | France | | https://piaille.fr/ | |
 | France | Aquitaine | https://toot.aquilenet.fr/ | |
 | France | Auxerre | https://mastodon.gougere.fr/ | |
 | France | Brittany (Bretagne, Breizh, Bertaèyn) | https://mastodon.fedi.bzh/ | Brezhoneg (Breton), Galo (Gallo) |
-| Hungary (Magyarország) | | https://mastodon.grin.hu/ | |
-| Hungary (Magyarország) | Eötvös Loránd University (ELTE), Budapest | https://mastodon.elte.hu/ | |
-| Iceland (Ísland) | | https://xn--lofll-1sat.is/ | Íslenska (Icelandic) |
+| Hungary | | https://mastodon.grin.hu/ | |
+| Hungary | Eötvös Loránd University (ELTE), Budapest | https://mastodon.elte.hu/ | |
+| Iceland | | https://xn--lofll-1sat.is/ | Íslenska (Icelandic) |
 | Ireland (Éire) | | https://mastodon.ie/ | Gaeilge (Irish) |
-| Italy (Italia) | | https://mastodon.uno | |
-| Italy (Italia ) | Bologna | https://mastodon.bida.im/ | |
+| Italy | | https://mastodon.uno | |
+| Italy | Bologna | https://mastodon.bida.im/ | |
 | Luxembourg (Lëtzebuerg) | | https://mastodon.opencloud.lu/ | |
-| Netherlands (Nederland) | | https://mastodon.nl | |
-| Netherlands (Nederland) | Brabant | https://nwb.social/ | |
-| Netherlands (Nederland) | Friesland (Fryslân) | https://mastodon.frl/ | Fries (Frisian), Stellingwerfs (Stellingwarfs) |
-| Netherlands (Nederland) | Twente | https://tukkers.online/ | |
-| Norway (Norge) | | https://snabelen.no/ | |
-| Norway (Norge) | Bergen | https://fribygda.no | |
-| Norway (Norge) | Oslo | https://oslo.town | |
-| Norway (Norge) | Universitetet i Oslo, Oslo | https://mastodon.babb.no/
-| Poland (Polska) | | https://mastodon.com.pl/ | |
-| Poland (Polska) | | https://pol.social/ | |
-| Poland (Polska) | Tricity (Trójmiasto) | https://0x3c.pl/ | |
+| Netherlands | | https://mastodon.nl | |
+| Netherlands | Brabant | https://nwb.social/ | |
+| Netherlands | Friesland (Fryslân) | https://mastodon.frl/ | Fries (Frisian), Stellingwerfs (Stellingwarfs) |
+| Netherlands | Twente | https://tukkers.online/ | |
+| Norway | | https://snabelen.no/ | |
+| Norway | Bergen | https://fribygda.no | |
+| Norway | Oslo | https://oslo.town | |
+| Norway | Universitetet i Oslo, Oslo | https://mastodon.babb.no/
+| Poland | | https://mastodon.com.pl/ | |
+| Poland | | https://pol.social/ | |
+| Poland | Tricity (Trójmiasto) | https://0x3c.pl/ | |
 | Portugal | | https://masto.pt/ | |
 | România | | https://mstdn.ro/ | |
 | Russia (Россия) | | https://mastodon.ml/ | |
-| Slovakia (Slovensko) | | https://mastodon.sk/ | Slovenčina (Slovak) |
-| Slovenia (Slovenija) | | https://toot.si/ | Slovenščina (Slovene) |
-| Spain (España) | | https://mstdn.es/ | |
-| Spain (España) | Málaga | https://malaga.social/ | |
-| Sweden (Sverige) | | https://mastodon.nu/ | |
-| Sweden (Sverige) | | https://toots.nu/ | |
-| Sweden (Sverige) | Umeå Universitet, Umeå | https://mastodon.acc.sunet.se/ | |
+| Slovakia | | https://mastodon.sk/ | Slovenčina (Slovak) |
+| Slovenia | | https://toot.si/ | Slovenščina (Slovene) |
+| Spain | | https://mstdn.es/ | |
+| Spain | Málaga | https://malaga.social/ | |
+| Sweden | | https://mastodon.nu/ | |
+| Sweden | | https://toots.nu/ | |
+| Sweden | Umeå Universitet, Umeå | https://mastodon.acc.sunet.se/ | |
 | Switzerland | | https://swiss.social/ | |
 | Switzerland | | https://swiss-talk.net/ | |
 | Switzerland | | https://tooting.ch/ | |
