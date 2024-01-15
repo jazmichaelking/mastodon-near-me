@@ -5,23 +5,21 @@ A curated map of Mastodon service providers that serve a specific locality, or s
 The interactive map of the available servers is maintained at http://mastodon-near.me
 
 ![A map of the world with markers for Mastodon servers in geographic areas](https://user-images.githubusercontent.com/3419832/229815849-9370631a-e986-4090-a18e-be2d5a8ce608.png)
-## Purpose 
+### Purpose 
 Geographic service providers often cater to users from specific regions or countries, including their diasporas, by supporting local languages. Those new to the fediverse can use the map (or the data tables below) to find servers focused on their community and language. This map highlights servers with a strong local user base and effective content moderation, aiding in the selection of a suitable provider. Additionally, many of these online services support endangered languages, helping to bridge the digital gap in language representation.
 
-## Inclusion Criteria 
+### Inclusion Criteria 
  - Mastodon or a Mastodon fork (other ActivityPub services may become in scope at a later date),
  - Open for registration (including approval required),
  - Clearly demonstrated intent to serve a particular facility (e.g. a university), neighbourhood, city, region or country; or a specific language or family of languages that can generally be thought of as being constrained to a particular locale or region or are minority/underserved languages,
  - HTTPS only,
  - Over 50 active members (hyper-local servers may have fewer MAU).
  
- ## Exclusion Criteria
+ ### Exclusion Criteria
   - Any server that clearly and overtly contravenes the Mastodon Server Covenant https://joinmastodon.org/covenant (public signing of the Mastodon Server Convenant is not required for inclusion),
   - Any server that is consistently unreachable.
 
-A separate register of regional servers is available at https://masto.town/
- 
-## Contributing
+### Contributing
 Open an Issue with the add, remove or edit.
 
 ## Data 
