@@ -1,7 +1,7 @@
-# Mastodon Near Me - Global Mastodon server list by country and region
-A curated map of Mastodon service providers that serve a specific locality, or support a notable language.
+# Mastodon Near Me -  Fediverse communities by country and region
+A map and data directory showcasing ActivityPub microblogging service providers, each specifically catering to a certain locality or offering support in a notable language.
 
- ## Map 
+## Map 
 The interactive map of the available servers is maintained at http://mastodon-near.me
 
 ![A map of the world with markers for Mastodon servers in geographic areas](https://user-images.githubusercontent.com/3419832/229815849-9370631a-e986-4090-a18e-be2d5a8ce608.png)
