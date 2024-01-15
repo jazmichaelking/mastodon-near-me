@@ -23,7 +23,7 @@ Geographic service providers often cater to users from specific regions or count
 Open an Issue on Github with the add, remove or edit, or message [@jaz@toot.wales](https://toot.wales/@jaz)
 
 ## Data 
-Data is available as geojson, umap, and tabular, subject to the Open Database License.
+Data is available as [geojson](https://github.com/jazmichaelking/mastodon-near-me/blob/main/mastodon_near_me___global_mastodon_server_list_by_country_and_region.geojson), [umap](https://github.com/jazmichaelking/mastodon-near-me/blob/main/umap_full_backup.umap), and tabular (below), subject to the [Open Database License](https://github.com/jazmichaelking/mastodon-near-me/blob/main/LICENSE).
 
 ### Africa
 | Locale | Sublocale | URL | notable language support |
