@@ -26,198 +26,238 @@ Open an Issue with the add, remove or edit.
 
 ## Data 
 
-| URL | geo target | notable language support |
-| ------------- | ------------- | ------------- |
-| https://0x3c.pl/ | Trójmiasto, Poland |  |
-| https://a2mi.social | Ann Arbor, Michigan, USA |  |
-| https://ailbhean.co-shaoghal.net/ | Scotland | Gàidhlig (Gaelic) |
-| https://alaskan.social/ | Alaska, USA |  |
-| https://augsburg.social/ | Augsburg, Germany |  |
-| https://aus.social/ | Australia |  |
-| https://aut.social | Austria |  |
-| https://balkan.fedive.rs/ | Western Balkans | босански (Bosnian) |
-| https://bath.social/ | Bath, UK |  |
-| https://berlin.social/ | Berlin, Germany |  |
-| https://better.boston/ | Boston, Massachussetts, USA |  |
-| https://bne.social/ | Brisbane, Australia |  |
-| https://bonn.social/ | Bonn, Germany |  |
-| https://brandenburg.social/ | Brandenburg, Germany |  |
-| https://burnthis.town/ | Brazil |  |
-| https://chilemasto.casa/ | Chile |  |
-| https://cityofchicago.live/ | Chicago, USA |  |
-| https://cville.online/ | Charlottesville, Virginia, USA |  |
-| https://darmstadt.social/ | Darmstadt, Germany |  |
-| https://dizl.de/ | Germany |  |
-| https://dmv.community/ | National Capital Region, USA |  |
-| https://dresden.network/ | Dresden, Germany |  |
-| https://est.social/ | Estonia |   |
-| https://expressional.social/ | Copenhagen, Denmark |  |
-| https://famichiki.jp/ | Japan | English (expat community) |
-| https://fedi.at | Austria |   |
-| https://fikaverse.club/ | Scandinavia |  |
-| https://frankfurt.social/ | Frankfurt, Germany |  |
-| https://freiburg.social/ | Freiburg im Breisgau, Germany |  |
-| https://fsmi.social/ | India |  |
-| https://fulda.social/ | Fulda, Germany |  |
-| https://gardenstate.social/ | New Jersey, USA |  |
-| https://glasgow.social | Glasgow, Scotland |  |
-| https://gomastodon.cz/ | Czechia |  |
-| https://graz.social/ | Graz, Austria |  |
-| https://hessen.social/ | Hessen, Germany |  |
-| https://hoosier.social/ | Indiana, USA |  |
-| https://hub.uckermark.social/ | Uckermark, Brandenburg, Germany |  |
-| https://jawns.club/ | Philadelphia, Pennsylvania, USA |  |
-| https://jaxbeach.social/ | Jacksonville, Florida, USA |  |
-| https://karlsruhe-social.de/ | Karlsruhe, Germany |  |
-| https://kcmo.social/ | Kansas City, Missouri, USA |  |
-| https://kopiti.am/ | Singapore |  |
-| https://lile.cl | Chile | Español (Spanish) |
-| https://links.potsda.mn/ | Potsdamn, Germany |  |
-| https://xn--lofll-1sat.is/ | Iceland | Íslenska (Icelandic) |
-| https://machteburch.social/ | Magdeburg, Germany |  |
-| https://malaga.social/ | Malaga, Spain |  |
-| https://mamot.fr/ | France |  |
-| https://mao.mastodonhub.com/ | Hong Kong |  |
-| https://masto.nyc/ | New York City, New York, USA |  |
-| https://masto.pt/ | Portugal |  |
-| https://mastodon.acc.sunet.se/ | Umeå University, Sweden |  |
-| https://mastodon.akhepcat.com/ | Alaska, USA |  |
-| https://mastodon.au/ | Australia |  |
-| https://mastodon.babb.be/ | University of Oslo, Oslo, Norway |  |
-| https://mastodon.bachgau.social/ | Bachgau Region, Germany |  |
-| https://mastodon.bayern/ | Bavaria, Germany |  |
-| https://mastodon.berlin/ | Berlin, Germany |  |
-| https://mastodon.bida.im/ | Bologna, Italy |  |
-| https://mastodon.com.pl | Poland |  |
-| https://mastodon.com.py/ | Paraguay |  |
-| https://mastodon.com.tr/ | Turkey |  |
-| https://mastodon.cr/ | Costa Rica |  |
-| https://mastodon.ee/ | Estonia |  |
-| https://mastodon.eus/ | Basque Country | Euskara (Basque) |
-| https://mastodon.fedi.bzh/ | Rennes, France | Brezhoneg (Breton) |
-| https://mastodon.fo/ | Faroe Islands |  |
-| https://mastodon.gougere.fr/ | Auxerre, France |  |
-| https://mastodon.holeyfox.co/ | Nigeria |  |
-| https://mastodon.hr/ | Croatia |  |
-| https://mastodon.iow.social/ | Isle of Wight, UK |  |
-| https://mastodon.free-solutions.org/ | Switzerland |  |
-| https://mastodon.frl/about | Friesland, Netherlands |  |
-| https://mastodon.grin.hu | Hungary |  |
-| https://mastodon.ie/ | Ireland | Gaeilge (Irish) |
-| https://mastodon.in.th/ | Thailand |  |
-| https://mastodon.london/ | London, United Kingdom |  |
-| https://mastodon.me.uk/ | United Kingdom |  |
-| https://mastodon.mg/ | Madagascar |  |
-| https://mastodon.mit.edu/ | Massachusetts Institute of Technology, Massachusetts, USA |  |
-| https://mastodon.ml/ | Russia |  |
-| https://mastodon.mx/ | Mexico |  |
-| https://mastodon.nl/ | The Netherlands |  |
-| https://mastodon.nu/ | Sweden |  |
-| https://mastodon.nz/ | New Zealand |  |
-| https://mastodon.nzoss.nz/ | New Zealand | te reo (Māori) |
-| https://mastodon.opencloud.lu/ | Luxembourg |  |
-| https://mastodon.org.uk/ | United Kingdom |  |
-| https://mastodon.quebec/ | Quebec, Canada | Québécois (Quebec French) |
-| https://mastodon.scot/ | Scotland |  |
-| https://mastodon.sg/ | Singapore |  |
-| https://mastodon.sk/ | Slovakia |  |
-| https://mastodon.tn/ | Tunisia |  |
-| https://mastodon.uno/ | Italy |  |
-| https://mastodon.uy/ | Uruguay |  |
-| https://mastodon.vlaanderen/ | Flanders |  |
-| https://mastodon-belgium.be/ | Belgium |  |
-| https://mastodonapp.uk/ | United Kingdom |  |
-| https://mastodonindonesia.com/ | Indonesia |  |
-| https://mastodont.cat/ | Catalonia | Català (Catalan) |
-| https://mastodontti.fi/ | Finland |  |
-| https://mastodonczech.cz/ | Czechia |  |
-| https://mastodos.com/ | Kyoto, Japan |  |
-| https://metu.life/ | Middle East Technical University, Ankara, Turkey |  |
-| https://misskey.id/ | Indonesia |  |
-| https://mstdn.ca/ | Canada |  |
-| https://mstdn.dk/ | Denmark |  |
-| https://mstdn.es/ | Spain |  |
-| https://mstdn.jp/ | Japan |  |
-| https://mstdn.mx/ | Mexico |  |
-| https://mstdn.my/ | Malaysia |  |
-| https://mstdn.ro/ | Romania |  |
-| https://muenchen.social/ | Muenchen, Germany |  |
-| https://muenster.im/ | Münster, Germany |  |
-| https://nahe.social/ | Bad Kreuznach, Germany |  |
-| https://netzkms.de/ | Chemnitz, Germany |  |
-| https://nfld.me/ | Newfoundland and Labrador, Canada |  |
-| https://norcal.social/ | Northern California, California, USA |  |
-| https://norden.social/ | Northern Germany |  |
-| https://norrebro.space/ | Denmark |  |
-| https://nrw.social/ | North Rhine-Westphalia, Germany |  |
-| https://nuernberg.social/ | Nürnberg, Germany |  |
-| https://nutmeg.social | Connecticut, USA |  |
-| https://nwb.social/ | Nieuw West Brabant, Netherlands |  |
-| https://occitania.social/ | Occitania | lenga d'òc (Occitan) |
-| https://oceanplayground.social/ | Nova Scotia, Canada |  |
-| https://okla.social/ | Oklahoma, USA |  |
-| https://ooe.social/ | Linz, Austria |  |
-| https://oslo.town/ | Oslo, Norway |  |
-| https://osna.social/ | Osnabruck, Germany |  |
-| https://ottawa.place/ | Ottawa, Canada |  |
-| https://pdx.sh/ | Portland, Oregon, USA |  |
-| https://pdx.social/ | Portland, Oregon, USA |  |
-| https://pfalz.social/ | Pfalz Region, Germany | Pälzisch (Palatine) |
-| https://piaille.fr/ | France |  |
-| https://planet.moe/ | South Korea |  |
-| https://ploen.social/ | Kreis Plön, Germany |  |
-| https://pnw.zone/ | Pacific Northwest region (Canada and USA) |  |
-| https://pol.social/explore | Poland |  |
-| https://rebel.ar/ | Argentina |  |
-| https://rheinneckar.social| Metropolregion Rhein-Neckar, Germany |  |
-| https://ruhr.social| The Ruhr, Germany |  |
-| https://rva.party/ | Richmond, Virginia, USA |  |
-| https://samenet.social/ | Sápmi, Northern Europe | Sámi |
-| https://sanjuans.life/ | San Juan Islands, Washington, USA |  |
-| https://sasa.africa/ | Africa |  |
-| https://sbg-social.at/ | Salzburg, Austria |  |
-| https://sfba.social/ | San Francisco, California, USA |  |
-| https://snabelen.no/ | Norway |  |
-| https://social.cologne | Cologne, Germany |  |
-| https://social.net.ua/ | Ukraine |  |
-| https://social.saarland/ | Saarland, Germany |  |
-| https://social.seattle.wa.us/ | Seattle, Washington, USA |  |
-| https://social.tulsa.ok.us/ | Tulsa, Oklahoma, USA |  |
-| https://socialclub.nyc/ | New York City, New York, USA |  |
-| https://subdued.social/ | Bellingham, Washington, USA |  |
-| https://sueden.social/ | Southern Germany |  |
-| https://tea.codes/ | Hong Kong & Mainland China |  |
-| https://theatl.social | Atlanta, Georgia, USA |  |
-| https://theblower.au/ | Australia | |
-| https://thecanadian.social/ | Canada |  |
-| https://thegem.city/ | Dayton, Ohio, USA |  |
-| https://toot.aquilenet.fr | Aquitaine, France |  |
-| https://tooot.im/ | Israel | עִברִית (Hebrew) |
-| https://toot.berlin/ | Berlin, Germany |  |
-| https://toot.si/ | Slovenia |  |
-| https://toot.wales/ | Wales | Cymraeg (Welsh) |
-| https://toots.nu/ | Lund, Sweden |  |
-| https://tooting.ch/ | Switzerland |  |
-| https://troet.cafe/ | Germany |  |
-| https://triangletoot.party/ | Research Triangle, North Carolina, USA |  |
-| https://tuebingen.network/ | Tübingen, Germany |  |
-| https://tukkers.online/ | Twente, Germany |  |
-| https://tyrol.social/ | Tyrol, Austria |  | 
-| https://tw.town/ | Eastern Washington, USA |  |
-| https://vancity.social/ | Vancouver, Canada |  |
-| https://vermont.masto.host/ | Vermont, USA |  |
-| https://vkl.world/ | Belarus |  |
-| https://voi.social/ | Austria |  |
-| https://wien.rocks/ | Vienna, Austria |  |
-| https://witter.cz/ | Czech Republic |  |
-| https://wue.social/ | Würzburg, Germany |  |
-| https://Xarxa.cloud/ | Catalonia | Català (Catalan) |
-| https://թութ.հայ/ | Armenia |  |
+Geographic service providers tend to attract users from a specific country or area (and its diaspora), and support the spoken language(s) of their locale.
 
-## Notes
-All map entries are placed on their geolocation as found by Open Street Map.
-Balkans geo-centre per https://toot.wales/web/statuses/105599802707065631
+### Africa
+| Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
+| Africa | | https://sasa.africa/ |  |
+| Madagascar | | https://mastodon.mg/ | مَلَغَسِ (Malagasy) |
+| Nigeria | | https://mastodon.holeyfox.co/ |  |
+| South Africa | | https://mastodon.africa/ |  |
+| Tunisia | | https://mastodon.tn/ | |
 
+### Asia
+| Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
+| Armenia | | https://xn--69aa8bzb.xn--y9a3aq/ | հայերեն / hayeren (Armenian) |
+| China | Hong Kong | https://mao.mastodonhub.com/ | |
+| China | Hong Kong | https://tea.codes/ | |
+| Indonesia | | https://misskey.id/ | Bahasa Indonesia (Indonesian) |
+| Israel | | https://tooot.im | עִברִית (Hebrew) |
+| Japan | Kyoto | https://mstdn.jp/ |  |
+| Japan | | https://famichiki.jp/ | English (expat community) |
+| Japan | | https://mstdn.jp/ |  |
+| Malaysia | | https://mstdn.my/ | |
+| Persia (diaspora) | | https://persiansmastodon.com/ | فارسی / Fārsī (Persian) |
+| Singapore | | https://mastodon.sg/ | Singlish |
+| South Korea | | https://planet.moe/ | |
+| Thailand | | https://mastodon.in.th/ | |
+| Turkey (Türkiye) | | https://mastodon.com.tr/ | |
+
+### Europe
+To improve readability, Austria, Germany, and the United Kingdom are separated into their own tables below. 
+
+| Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
+| Basque Country (Euskal Herria) | | https://mastodon.eus/ | Euskara (Basque) |
+| Belarus | | https://vkl.world/ | беларуская мова (Belarusian) |
+| Belgium | Flanders (Vlaanderen) | https://mastodon.vlaanderen/ | |
+| Belgium | | https://mastodon-belgium.be/ | |
+| Catalan Countries (Països Catalans) | | https://mastodont.cat/ | Català (Catalan) |
+| Catalan Countries (Països Catalans) | | https://xarxa.cloud/ | Català (Catalan) |
+| Croatia | | https://mastodon.hr/ | Hrvatski (Croatian) |
+| Czech Republic | | https://gomastodon.cz/ | |
+| Czech Republic | | https://mastodonczech.cz/ | |
+| Czech Republic | | https://witter.cz/ | |
+| Denmark | Copenhagen (København) | https://expressional.social/ | |
+| Denmark | Nørrebro, Copenhagen (København) | https://norrebro.space/ | |
+| Denmark | | https://mstdn.dk/ | |
+| Estonia | | https://est.social/ | Eesti keel (Estonian) |
+| Estonia | | https://mastodon.ee/ | Eesti keel (Estonian) |
+| Faroe islands (Føroyar) | | https://mastodon.fo/ | Føroyskt mál (Faroese) |
+| Finland (Suomi) | | https://mastodontti.fi/ | Suomi (Finnish) | 
+| France | Aquitaine | https://toot.aquilenet.fr/ | |
+| France | Auxerre | https://mastodon.gougere.fr/ | |
+| France | Brittany (Bretagne, Breizh, Bertaèyn) | https://mastodon.fedi.bzh/ | Brezhoneg (Breton), Galo (Gallo) |
+| France | | https://piaille.fr/ | |
+| Greece | | https://electricrequiem.com/ | ελληνικά (Greek) |
+| Hungary | Eötvös Loránd University (ELTE), Budapest | https://mastodon.elte.hu/ | |
+| Hungary | | https://mastodon.grin.hu/ | |
+| Iceland | | https://xn--lofll-1sat.is/ | Íslenska (Icelandic) |
+| Ireland (Éire) | | https://mastodon.ie/ | Gaeilge (Irish) |
+| Italy | Bologna | https://mastodon.bida.im/ | |
+| Italy | | https://mastodon.uno | |
+| Luxembourg (Lëtzebuerg) | | https://mastodon.opencloud.lu/ | |
+| Netherlands | Brabant | https://nwb.social/ | |
+| Netherlands | Friesland (Fryslân) | https://mastodon.frl/ | Fries (Frisian), Stellingwerfs (Stellingwarfs) |
+| Netherlands | Twente | https://tukkers.online/ | |
+| Netherlands | | https://mastodon.nl | |
+| Norway | Bergen | https://fribygda.no | |
+| Norway | Oslo | https://oslo.town | |
+| Norway | Universitetet i Oslo, Oslo | https://mastodon.babb.no/
+| Norway | | https://snabelen.no/ | |
+| Occitania | | https://occitania.social/ | Occitan |
+| Poland | Tricity (Trójmiasto) | https://0x3c.pl/ | |
+| Poland | | https://mastodon.com.pl/ | |
+| Poland | | https://pol.social/ | |
+| Portugal | | https://masto.pt/ | |
+| România | | https://mstdn.ro/ | |
+| Russia (Россия) | | https://mastodon.ml/ | |
+| Scandianavia | | https://fikaverse.club/ |  |
+| Slovakia | | https://mastodon.sk/ | Slovenčina (Slovak) |
+| Slovenia | | https://toot.si/ | Slovenščina (Slovene) |
+| Spain | Málaga | https://malaga.social/ | |
+| Spain | | https://mstdn.es/ | |
+| Sweden | Umeå Universitet, Umeå | https://mastodon.acc.sunet.se/ | |
+| Sweden | | https://mastodon.nu/ | |
+| Sweden | | https://toots.nu/ | |
+| Switzerland | | https://mastodon.free-solutions.org/ | |
+| Switzerland | | https://swiss-talk.net/ | |
+| Switzerland | | https://swiss.social/ | |
+| Switzerland | | https://tooting.ch/ | |
+| Sápmi | | https://samenet.social/ | Sámi |
+| Ukraine (Україна) | | https://social.net.ua/ | |
+| Western Balkans | | https://balkan.fedive.rs/ | босански (Bosnian) |
+
+#### Austria (Österreich)
+| Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
+| Austria | Graz | https://graz.social/ | |
+| Austria | Salzburg | https://sbg-social.at/ | |
+| Austria | Tyrol (Tirol) | https://tyrol.social/ | |
+| Austria | Upper Austria (Oberösterreich) | https://ooe.social/ | |
+| Austria | Vienna (Wien) | https://wien.rocks | |
+| Austria | | https://aut.social/ | |
+| Austria | | https://fedi.at/ | |
+| Austria | | https://voi.social/  | |
+
+#### Germany (Deutschland)
+| Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
+| Germany | Augsburg | https://augsburg.social/ |  |
+| Germany | Bachgau | https://mastodon.bachgau.social/ |  |
+| Germany | Bavaria (Bayern) | https://mastodon.bayern/ |  |
+| Germany | Berlin | https://berlin.social/ |  |
+| Germany | Berlin | https://mastodon.berlin/ |  |
+| Germany | Berlin | https://toot.berlin/ |  |
+| Germany | Bonn | https://bonn.social/ |  |
+| Germany | Brandenburg | https://brandenburg.social/ |  |
+| Germany | Chemnitz | https://netzkms.de/ |  |
+| Germany | Cologne (Köln) | https://social.cologne/ |  |
+| Germany | Darmstadt | https://darmstadt.social/ |  |
+| Germany | Dresden | https://dresden.network/  |  |
+| Germany | Frankfurt | https://frankfurt.social/ |  |
+| Germany | Freiburg | https://freiburg.social/ |  |
+| Germany | Fulda | https://fulda.social/ |  |
+| Germany | Hesse | https://hessen.social/ |  |
+| Germany | Karlsruhe | https://karlsruhe-social.de/ |  |
+| Germany | Magdeburg | https://machteburch.social |  |
+| Germany | Munich (München)  | https://muenchen.social/ |  |
+| Germany | Münster | https://muenster.im/ |  |
+| Germany | Naheregion  | https://nahe.social/ |  |
+| Germany | Norden | https://norden.social |  |
+| Germany | Nordrhein-Westfalen | https://nrw.social/ |  |
+| Germany | Nürnberg | https://nuernberg.social/ |  |
+| Germany | Osnabrück | https://osna.social/ |  |
+| Germany | Palatinate (Pfalz) | https://pfalz.social/ |  |
+| Germany | Plön | https://ploen.social/ |  |
+| Germany | Potsdam | https://links.potsda.mn/ |  |
+| Germany | Rhine-Neckar | https://rheinneckar.social/ |  |
+| Germany | Ruhr | https://ruhr.social/ |  |
+| Germany | Saarland | https://social.saarland/ |  |
+| Germany | Süddeutschland | https://sueden.social/ |  |
+| Germany | Tübingen | https://tuebingen.network/ |  |
+| Germany | Uckermark | https://hub.uckermark.social/ |  |
+| Germany | Würzburg | https://wue.social/ |  |
+| Germany | | https://dizl.de/ |  |
+
+#### United Kingdom
+| Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
+| England | Bath | https://bath.social/ | |
+| England | Isle of Wight | https://mastodon.iow.social/ | |
+| England | London | https://mastodon.london/ | |
+| Scotland (Alba) | Glasgow | https://glasgow.social | |
+| Scotland (Alba) | | https://ailbhean.co-shaoghal.net/ | Gàidhlig (Scottish Gaelic) |
+| Scotland (Alba) | | https://mastodon.scot | |
+| United Kingdom | | https://mastodon.me.uk/ | |
+| United Kingdom | | https://mastodon.org.uk/ | |
+| United Kingdom | | https://mastodonapp.uk/ | |
+| Wales (Cymru) | | https://toot.wales | Cymraeg (Welsh) |
+
+### North America
+To improve readability, United States of America is separated into its own table below.
+
+| Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
+| Canada | Atlantic Canada | https://oceanplayground.social/ | |
+| Canada | Newfoundland and Labrador | https://nfld.me/ | |
+| Canada | Ottawa | https://ottawa.place/ | |
+| Canada | Québec | https://mastodon.quebec/ | Français Québécois (Quebec French) |
+| Canada | Vancouver | https://vancity.social/ | |
+| Canada | | https://mstdn.ca/ | |
+| Canada | | https://thecanadian.social/ | |
+| Costa Rica | | https://mastodon.cr/ | |
+| México | | https://mastodon.mx/ | |
+| México | | https://mstdn.mx/ | |
+| Pacific Northwest | | https://pnw.zone/ | |
+
+#### Unites States of America
+| Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
+| California | Northern California | https://norcal.social/ | |
+| California | San Francisco Bay Area | https://sfba.social | |
+| Connecticut | | https://nutmeg.social | |
+| District of Columbia | DMV | https://dmv.community/ | |
+| Florida | Jacksonville Beaches | https://jaxbeach.social/ | |
+| Georgia | Atlanta | https://theatl.social/ | |
+| Illinois | Chicago | https://cityofchicago.live/ | |
+| Indiana | | https://hoosier.social/ | |
+| Maine | Boston | https://better.boston/ | |
+| Maine | Massachussets Institute of Technology, Cambridge | https://mastodon.mit.edu/ | |
+| Michigan | Ann Arbor | https://a2mi.social/ | |
+| Missouri | Kansas City | https://kcmo.social | |
+| New Jersey | | https://gardenstate.social/ | |
+| New York | New York | https://masto.nyc/ | |
+| New York | New York | https://socialclub.nyc/ | |
+| North Carolina | Research Triangle | https://triangletoot.party/ | |
+| Ohio | Dayton | https://thegem.city/ | |
+| Oklahoma | Tulsa | https://social.tulsa.ok.us/ | |
+| Oklahoma | | https://okla.social/ | |
+| Oregon | Portland | https://pdx.sh/ | |
+| Oregon | Portland | https://pdx.social/ | |
+| Pennsylvania | Philadelphia | https://jawns.club/ | |
+| Vermont | | https://vermont.masto.host | |
+| Virginia | Charlottesville | https://cville.online/ | |
+| Virginia | Richmond | https://rva.party/ | |
+| Washington | Bellingham | https://subdued.social/ | | 
+| Washington | Eastern Washington | https://tw.town | |
+| Washington | San Juan Islands | https://sanjuans.life/ | |
+| Washington | Seattle | https://social.seattle.wa.us/ | | 
+
+### South America
+| Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
+| Argentina | | https://rebel.ar/ | |
+| Brazil | Curitiba | https://cwb.social/ |
+| Brazil | | https://bolha.us/ |
+| Brazil | | https://burnthis.town/ |
+| Brazil | | https://colorid.es/ |
+| Chile | | https://chilemasto.casa/ | |
+| Chile | | https://lile.cl/ | |
+| Paraguay | | https://mastodon.com.py/ | |
+| Uruguay | | https://mastodon.uy/ | |
+
+### Oceania
+| Locale | Sublocale | URL | notable language support |
+| ------------- | ------------- | ------------- | ------------- |
+| Australia | Brisbane | https://bne.social/ |
+| Australia | | https://aus.social/ | |
+| Australia | | https://mastodon.au/ | |
+| Australia | | https://theblower.au/ | |
+| New Zealand (Aotearoa) | | https://mastodon.nz/ | |
+| New Zealand (Aotearoa) | | https://mastodon.nzoss.nz/ | te reo (Māori) |
 
 ## Thanks
 The following people contributed feedback and links for this directory and the associated map:
