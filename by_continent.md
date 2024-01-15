@@ -1,4 +1,4 @@
-# Language Focus
+## Language Focus
 Some servers are not geography focussed, but are instead focussed on supporting messaging in a specific language or languages. 
 
 | Language Focus | URL | notable language support |
@@ -14,7 +14,9 @@ Some servers are not geography focussed, but are instead focussed on supporting 
 | Scandinavian languages | https://fikaverse.club/ | |
 | Scottish Gaelic | https://ailbhean.co-shaoghal.net/ | Gàidhlig (Scottish Gaelic) |
 
-# Africa
+## Geography focus
+
+### Africa
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Africa (continent) |   | https://sasa.africa/ |  |
@@ -22,7 +24,7 @@ Some servers are not geography focussed, but are instead focussed on supporting 
 | Nigeria |   | https://mastodon.holeyfox.co/ |  |
 | South Africa |   | https://mastodon.africa/ |  |
 
-# Asia
+### Asia
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Armenia | | https://xn--69aa8bzb.xn--y9a3aq/ | հայերեն / hayeren (Armenian) |
@@ -39,8 +41,8 @@ Some servers are not geography focussed, but are instead focussed on supporting 
 | Thailand (Muang Thai) | | https://mastodon.in.th/ | |
 | Turkey (Türkiye) | | https://mastodon.com.tr/ | |
 
-# Europe
-To improve readability, Austria, Germany, and the United Kingdome are separated into their own tables below. 
+### Europe
+To improve readability, Austria, Germany, and the United Kingdom are separated into their own tables below. 
 
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
@@ -94,7 +96,7 @@ To improve readability, Austria, Germany, and the United Kingdome are separated 
 | Ukraine (Україна) | | https://social.net.ua/ | |
 | Western Balkans | | https://balkan.fedive.rs/ | босански (Bosnian) |
 
-## Austria (Österreich)
+#### Austria (Österreich)
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Austria | | https://aut.social/ | |
@@ -106,28 +108,28 @@ To improve readability, Austria, Germany, and the United Kingdome are separated 
 | Austria | Upper Austria (Oberösterreich) | https://ooe.social/ | |
 | Austria | Vienna (Wien) | https://wien.rocks | |
 
-## Germany
+#### Germany
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Germany | | https://dizl.de/ |  |
 | Germany | Berlin | https://toot.berlin/ |  |
 | Germany | Bachgau | https://mastodon.bachgau.social/ |  |
 
-## United Kingdom
+#### United Kingdom
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
-| United Kingdom | | https://mastodonapp.uk/ | |
-| United Kingdom | | https://mastodon.me.uk/ | |
-| United Kingdom | | https://mastodon.org.uk/ | |
 | England | Bath | https://bath.social/ | |
 | England | Isle of Wight | https://mastodon.iow.social/ | |
 | England | London | https://mastodon.london/ | |
-| Scotland (Alba) | | https://mastodon.scot | |
-| Scotland (Alba) | | https://ailbhean.co-shaoghal.net/ | Gàidhlig (Scottish Gaelic) |
 | Scotland (Alba) | Glasgow | https://glasgow.social | |
+| Scotland (Alba) | | https://ailbhean.co-shaoghal.net/ | Gàidhlig (Scottish Gaelic) |
+| Scotland (Alba) | | https://mastodon.scot | |
+| United Kingdom | | https://mastodon.me.uk/ | |
+| United Kingdom | | https://mastodon.org.uk/ | |
+| United Kingdom | | https://mastodonapp.uk/ | |
 | Wales (Cymru) | | https://toot.wales | Cymraeg (Welsh) |
 
-# North America
+### North America
 To improve readability, United States of America is separated into its own table below.
 
 | Locale | Sublocale | URL | notable language support |
@@ -144,40 +146,40 @@ To improve readability, United States of America is separated into its own table
 | México | | https://mstdn.mx/ | |
 | Pacific Northwest | | https://pnw.zone/ | |
 
-## Unites States of America
+#### Unites States of America
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
-| Washington | San Juan Islands | https://sanjuans.life/ | |
-| Washington | Bellingham | https://subdued.social/ | | 
-| Washington | Seattle | https://social.seattle.wa.us/ | | 
-| Washington | Eastern Washington | https://tw.town | |
-| Oregon | Portland | https://pdx.sh/ | |
-| Oregon | Portland | https://pdx.social/ | |
 | California | Northern California | https://norcal.social/ | |
 | California | San Francisco Bay Area | https://sfba.social | |
-| Oklahoma | | https://okla.social/ | |
-| Oklahoma | Tulsa | https://social.tulsa.ok.us/ | |
-| Missouri | Kansas City | https://kcmo.social | |
+| Connecticut | | https://nutmeg.social | |
+| District of Columbia | DMV | https://dmv.community/ | |
+| Florida | Jacksonville Beaches | https://jaxbeach.social/ | |
+| Georgia | Atlanta | https://theatl.social/ | |
 | Illinois | Chicago | https://cityofchicago.live/ | |
 | Indiana | | https://hoosier.social/ | |
-| Ohio | Dayton | https://thegem.city/ | |
+| Maine | Boston | https://better.boston/ | |
+| Maine | Massachussets Institute of Technology, Cambridge | https://mastodon.mit.edu/ | |
 | Michigan | Ann Arbor | https://a2mi.social/ | |
-| Georgia | Atlanta | https://theatl.social/ | |
-| Florida | Jacksonville Beaches | https://jaxbeach.social/ | |
-| North Carolina | Research Triangle | https://triangletoot.party/ | |
-| Virginia | Charlottesville | https://cville.online/ | |
-| Virginia | Richmond | https://rva.party/ | |
-| District of Columbia | DMV | https://dmv.community/ | |
-| Pennsylvania | Philadeplphia | https://jawns.club/ | |
+| Missouri | Kansas City | https://kcmo.social | |
 | New Jersey | | https://gardenstate.social/ | |
 | New York | New York | https://masto.nyc/ | |
 | New York | New York | https://socialclub.nyc/ | |
-| Connecticut | | https://nutmeg.social | |
+| North Carolina | Research Triangle | https://triangletoot.party/ | |
+| Ohio | Dayton | https://thegem.city/ | |
+| Oklahoma | Tulsa | https://social.tulsa.ok.us/ | |
+| Oklahoma | | https://okla.social/ | |
+| Oregon | Portland | https://pdx.sh/ | |
+| Oregon | Portland | https://pdx.social/ | |
+| Pennsylvania | Philadeplphia | https://jawns.club/ | |
 | Vermont | | https://vermont.masto.host | |
-| Maine | Boston | https://better.boston/ | |
-| Maine | Massachussets Institute of Technology, Cambridge | https://mastodon.mit.edu/ | |
+| Virginia | Charlottesville | https://cville.online/ | |
+| Virginia | Richmond | https://rva.party/ | |
+| Washington | Bellingham | https://subdued.social/ | | 
+| Washington | Eastern Washington | https://tw.town | |
+| Washington | San Juan Islands | https://sanjuans.life/ | |
+| Washington | Seattle | https://social.seattle.wa.us/ | | 
 
-# South America
+### South America
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Argentina | | https://rebel.ar/ | |
@@ -187,7 +189,7 @@ To improve readability, United States of America is separated into its own table
 | Paraguay | | https://mastodon.com.py/ | |
 | Uruguay | | https://mastodon.uy/ | |
 
-# Oceania
+### Oceania
 | Locale | Sublocale | URL | notable language support |
 | ------------- | ------------- | ------------- | ------------- |
 | Australia | | https://aus.social/ | |
