@@ -20,9 +20,10 @@ Geographic service providers often cater to users from specific regions or count
   - Any server that is consistently unreachable.
 
 ### Contributing
-Open an Issue with the add, remove or edit.
+Open an Issue on Github with the add, remove or edit, or message @jaz@toot.wales
 
 ## Data 
+Data is available as geojson, umap, and tabular, subject to the Open Database License.
 
 ### Africa
 | Locale | Sublocale | URL | notable language support |
