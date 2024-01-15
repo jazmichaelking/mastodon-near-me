@@ -50,10 +50,10 @@ To improve readability, Austria, Germany, and the United Kingdom are separated i
 | ------------- | ------------- | ------------- | ------------- |
 | Belgium | | https://mastodon-belgium.be/ | |
 | Belgium | Flanders (Vlaanderen) | https://mastodon.vlaanderen/ | |
-| Croatia (Hrvatska) | | https://mastodon.hr/ | Hrvatski (Croatian) |
-| Czech Republic (Česko) | | https://gomastodon.cz/ | |
-| Czech Republic (Česko) | | https://mastodonczech.cz/ | |
-| Czech Republic (Česko) | | https://witter.cz/ | |
+| Croatia | | https://mastodon.hr/ | Hrvatski (Croatian) |
+| Czech Republic | | https://gomastodon.cz/ | |
+| Czech Republic | | https://mastodonczech.cz/ | |
+| Czech Republic | | https://witter.cz/ | |
 | Denmark | | https://mstdn.dk/ | |
 | Denmark | Copenhagen (København) | https://expressional.social/ | |
 | Denmark | Nørrebro, Copenhagen (København) | https://norrebro.space/ | |
