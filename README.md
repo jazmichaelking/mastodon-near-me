@@ -27,9 +27,9 @@ Open an Issue on Github with the add, remove or edit, or message [@jaz@toot.wale
   - Africa
   - Asia
   - Europe
-   - Austria
-   - Germany
-   - United Kingdom
+    - Austria
+    - Germany
+    - United Kingdom
   - North America
    - Unites States of America
   - South America
