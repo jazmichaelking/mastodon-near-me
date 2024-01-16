@@ -31,7 +31,7 @@ Open an Issue on Github with the add, remove or edit, or message [@jaz@toot.wale
      - Germany
      - United Kingdom
    - North America
-    - Unites States of America
+     - Unites States of America
    - South America
    - Oceania
  - [geojson](https://github.com/jazmichaelking/mastodon-near-me/blob/main/mastodon_near_me___global_mastodon_server_list_by_country_and_region.geojson)
