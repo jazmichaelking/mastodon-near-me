@@ -24,16 +24,16 @@ Open an Issue on Github with the add, remove or edit, or message [@jaz@toot.wale
 
 ## Data 
  - [text directory](https://jaz.co.uk/projects/mastodon-near-me/)
-   - Africa
-   - Asia
-   - Europe
-     - Austria
-     - Germany
-     - United Kingdom
-   - North America
-     - Unites States of America
-   - South America
-   - Oceania
+   - [Africa](https://jaz.co.uk/projects/mastodon-near-me/#africa)
+   - [Asia](https://jaz.co.uk/projects/mastodon-near-me/#asia)
+   - [Europe](https://jaz.co.uk/projects/mastodon-near-me/#europe)
+     - [Austria](https://jaz.co.uk/projects/mastodon-near-me/#austria-osterreich)
+     - [Germany](https://jaz.co.uk/projects/mastodon-near-me/#germany-deutschland)
+     - [United Kingdom](https://jaz.co.uk/projects/mastodon-near-me/#united-kingdom)
+   - [North America](https://jaz.co.uk/projects/mastodon-near-me/#north-america)
+     - [Unites States of America](https://jaz.co.uk/projects/mastodon-near-me/#unites-states-of-america)
+   - [South America](https://jaz.co.uk/projects/mastodon-near-me/#south-america)
+   - [Oceania](https://jaz.co.uk/projects/mastodon-near-me/#oceania)
  - [geojson](https://github.com/jazmichaelking/mastodon-near-me/blob/main/mastodon_near_me___global_mastodon_server_list_by_country_and_region.geojson)
  - [umap](https://github.com/jazmichaelking/mastodon-near-me/blob/main/umap_full_backup.umap)
 
