@@ -2,7 +2,7 @@
 A curated map and data directory showcasing ActivityPub microblogging service providers, each catering to a certain locality or offering support in a notable language, and open for new registrations.
 
 ## Map 
-The interactive map of the service providers is maintained at [mastodon-near.me](http://mastodon-near.me).  An accessible text version is available at [jaz.co.uk/projects/mastodon-near-me](https://jaz.co.uk/projects/mastodon-near-me/ ).
+The interactive map of the service providers is maintained at [mastodon-near.me](http://mastodon-near.me).  An accessible text version is available at [jaz.co.uk/projects/mastodon-near-me](https://jaz.co.uk/projects/mastodon-near-me/#data).
 
 ![A map of the world with markers for Mastodon servers in geographic areas](https://user-images.githubusercontent.com/3419832/229815849-9370631a-e986-4090-a18e-be2d5a8ce608.png)
 ### Purpose 
@@ -23,7 +23,7 @@ Geographic service providers often cater to users from specific regions or count
 Open an Issue on Github with the add, remove or edit, or message [@jaz@toot.wales](https://toot.wales/@jaz)
 
 ## Data 
- - [text directory](https://jaz.co.uk/projects/mastodon-near-me/)
+ - [text directory](https://jaz.co.uk/projects/mastodon-near-me/#data)
    - [Africa](https://jaz.co.uk/projects/mastodon-near-me/#africa)
    - [Asia](https://jaz.co.uk/projects/mastodon-near-me/#asia)
    - [Europe](https://jaz.co.uk/projects/mastodon-near-me/#europe)
