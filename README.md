@@ -12,6 +12,7 @@ Geographic service providers often cater to users from specific regions or count
  - Mastodon or a Mastodon fork (other ActivityPub services may become in scope at a later date),
  - Open for registration (including approval required),
  - Clearly demonstrated intent to serve a particular facility (e.g. a university), neighbourhood, city, region or country; or a specific language or family of languages that can generally be thought of as being constrained to a particular locale or region or are minority/underserved languages,
+ - Discernibly well-moderated,
  - HTTPS only,
  - Over 50 active members (hyper-local servers may have fewer MAU).
  
