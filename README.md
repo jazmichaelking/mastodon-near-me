@@ -21,7 +21,7 @@ Geographic service providers often cater to users from specific regions or count
   - Any server that is consistently unreachable.
 
 ### Contributing
-Open an Issue on Github with the add, remove or edit, or message [@jaz@toot.wales](https://toot.wales/@jaz)
+See https://jaz.co.uk/projects/mastodon-near-me/#contributing
 
 ## Data 
  - [text directory](https://jaz.co.uk/projects/mastodon-near-me/#data)
