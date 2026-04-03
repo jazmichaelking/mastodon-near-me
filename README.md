@@ -1,5 +1,11 @@
-# Mastodon Near Me -  Fediverse communities by country, region, and language
-A curated map and data directory showcasing ActivityPub microblogging service providers, each catering to a certain locality or offering support in a notable language, and open for new registrations.
+# Fediverse Near Me -  Fediverse communities by country, region, and language
+A curated map and data directory showcasing ActivityPub service providers, catering to a certain locality or language, and open for new registrations.
+
+## Data 
+https://jaz.co.uk/projects/mastodon-near-me/#data 
+
+## Start Here Social
+Proof-of-concept example of decision support for a new user to find a service provider: https://jaz.co.uk/projects/startheresocial/ 
 
 ## Map 
 The interactive map of the service providers is maintained at [mastodon-near.me](http://mastodon-near.me).  An accessible text version is available at [jaz.co.uk/projects/mastodon-near-me](https://jaz.co.uk/projects/mastodon-near-me/#data).
@@ -23,7 +29,7 @@ Geographic service providers often cater to users from specific regions or count
 ### Contributing
 See https://jaz.co.uk/projects/mastodon-near-me/#contributing
 
-## Data 
+## Data Tables
  - [text directory](https://jaz.co.uk/projects/mastodon-near-me/#data)
    - [Africa](https://jaz.co.uk/projects/mastodon-near-me/#africa)
    - [Asia](https://jaz.co.uk/projects/mastodon-near-me/#asia)
