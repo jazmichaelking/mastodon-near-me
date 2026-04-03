@@ -2,7 +2,7 @@
 A curated map and data directory showcasing ActivityPub service providers, catering to a certain locality or language, and open for new registrations.
 
 ## Data 
-https://jaz.co.uk/projects/mastodon-near-me/#data 
+https://jaz.co.uk/projects/mastodon-near-me/#data (or see the [Google Sheet](https://docs.google.com/spreadsheets/d/15RmO9MyfRr5MbFZsRE1wyd7Sqg1bfJbpJV4Ic1cMVSk/edit?gid=1038961989#gid=1038961989))
 
 ## Start Here Social
 Proof-of-concept example of decision support for a new user to find a service provider: https://jaz.co.uk/projects/startheresocial/ 
